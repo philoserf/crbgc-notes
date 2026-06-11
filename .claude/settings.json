@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git fetch *)",
+      "Bash(task fmt)",
+      "Bash(task check)",
+      "Bash(gh search *)"
+    ]
+  }
+}

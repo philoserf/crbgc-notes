@@ -19,6 +19,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A [Flowershow](https://flowershow.app) digital garden, hosted at <https://crbgc-philoserf.flowershow.me>. GitHub holds the history; publishing to Flowershow is done from inside Obsidian using the Flowershow plugin (config at `.obsidian/plugins/flowershow/data.json`, including `excludePatterns`). `git push` does **not** auto-deploy. Do **not** publish this vault with the `fl` CLI—the CLI ignores the plugin's exclude list and uploads everything outside `.gitignore`.
 
+The vault is public by default: anything not matched by `excludePatterns` publishes. Never park scratch files, session recaps, or working drafts at the vault root—put them in `Drafts/` or `Private/` (both excluded), or keep them out of this repo entirely.
+
 ### Related: the Club Site
 
 The club's formal/governance site (bylaws, minutes, notices, news) lives in the sibling repo `../crbgc/` ([philoserf/crbgc](https://github.com/philoserf/crbgc)) and publishes via Hugo to <https://crbgc.org>. This repo (`crbgc-notes/`) is the personal/editorial side—essays, history surveys, course architecture writing. Keep the split clean: prose and notes here, governance and official records there.
@@ -30,7 +32,7 @@ task fmt    # prettier --write across all markdown (uses .ignore for excludes)
 task check  # alias for fmt; placeholder for future checks
 ```
 
-Prettier is the only markdown toolchain—installed globally via Homebrew on this machine. `.ignore` excludes `.obsidian/` (per-machine editor state) and `.task/` (Taskfile cache). `biome.json` covers only `custom.css`.
+Prettier is the only markdown toolchain—installed globally via Homebrew on this machine. `.ignore` excludes `.obsidian/` (per-machine editor state) and `.task/` (Taskfile cache). `biome.json` covers only `custom.css`. Run `task check` before committing markdown changes.
 
 The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically authored in Obsidian and committed from the same working tree. The Obsidian Linter plugin rewrites files on edit (alphabetizes tags, normalizes heading case and em-dash spacing, escapes literal `$`)—match its output rather than fighting it.
 
