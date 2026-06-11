@@ -1,5 +1,14 @@
 ---
 title: CLAUDE
+description: Instructions for Claude Code on working with a Flowershow digital garden vault, its toolchain, content model, and dual-license setup.
+tags:
+  - claude-code
+  - digital-garden
+  - flowershow
+  - obsidian
+  - repository-setup
+created: 2026-06-01
+lastmod: 2026-06-11
 ---
 
 ## CLAUDE.md
@@ -21,14 +30,22 @@ task fmt    # prettier --write across all markdown (uses .ignore for excludes)
 task check  # alias for fmt; placeholder for future checks
 ```
 
-Prettier is the only toolchain—installed globally via Homebrew on this machine. `.ignore` excludes `.obsidian/` (per-machine editor state) and `.task/` (Taskfile cache).
+Prettier is the only markdown toolchain—installed globally via Homebrew on this machine. `.ignore` excludes `.obsidian/` (per-machine editor state) and `.task/` (Taskfile cache). `biome.json` covers only `custom.css`.
 
-The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically authored in Obsidian and committed from the same working tree.
+The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically authored in Obsidian and committed from the same working tree. The Obsidian Linter plugin rewrites files on edit (alphabetizes tags, normalizes heading case and em-dash spacing, escapes literal `$`)—match its output rather than fighting it.
 
 ### Content Model
 
-- Markdown files use YAML frontmatter. Keys in use: `title` and `date` (`YYYY-MM-DD`), in that order. Match the existing shape when adding new pages.
+- Every note carries YAML frontmatter with keys in this order: `title`, `description` (one line), `tags` (alphabetized list), `created`, `date`, `lastmod` (dates are `YYYY-MM-DD`; some notes omit `date`). Match the existing shape when adding new pages.
+- The vault is flat—all notes at the root. `(Index) *.md` files are the topic hubs; each is a nav entry in `config.json` and links out to its notes with `[[wikilinks]]`. A new note should be linked from the relevant index.
+- Flowershow renders KaTeX unconditionally, so escape literal `$` in prose.
 - Two licenses by design, and the split is load-bearing: `LICENSE` (MIT) covers code/config/templates; `CONTENT-LICENSE.md` (CC BY-NC-SA 4.0) covers prose and media. Don't merge them or apply one license to the other domain.
+
+### Site Configuration
+
+- `config.json` — Flowershow site config: title, nav (one link per `(Index)` page), footer, theme (`letterpress`, light-only). Adding a topic area means a new `(Index)` page plus a nav entry here.
+- `custom.css` — theme overrides (green accent, serif body). Formatted/linted by Biome.
+- Publish excludes live in the plugin's `excludePatterns` (regex on vault-relative paths): currently `CLAUDE.md`, and anything starting `_`, `Drafts/`, or `Private/`. Anything else in the vault publishes.
 
 ### Backlog
 
