@@ -9,7 +9,7 @@ tasks:
   fmt:
     desc: Format markdown with prettier
     cmds:
-      - prettier --list-different --ignore-unknown --ignore-path .ignore --write .
+      - prettier --list-different --ignore-unknown --write .
 
   check:
     desc: Run all formatting checks

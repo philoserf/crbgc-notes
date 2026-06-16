@@ -28,11 +28,11 @@ The club's formal/governance site (bylaws, minutes, notices, news) lives in the 
 ### Commands
 
 ```bash
-task fmt    # prettier --write across all markdown (uses .ignore for excludes)
+task fmt    # prettier --write across all markdown (honors .gitignore + .prettierignore)
 task check  # alias for fmt; placeholder for future checks
 ```
 
-Prettier is the only markdown toolchain—installed globally via Homebrew on this machine. `.ignore` excludes `.obsidian/` (per-machine editor state) and `.task/` (Taskfile cache). `biome.json` covers only `custom.css`. Run `task check` before committing markdown changes.
+Prettier is the only markdown toolchain—installed globally via Homebrew on this machine. Prettier reads `.gitignore` and `.prettierignore` by default; `.prettierignore` excludes `.obsidian/` (per-machine editor state) and `.task/` (Taskfile cache). `biome.json` covers only `custom.css`. Run `task check` before committing markdown changes.
 
 The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically authored in Obsidian and committed from the same working tree. The Obsidian Linter plugin rewrites files on edit (alphabetizes tags, normalizes heading case and em-dash spacing, escapes literal `$`)—match its output rather than fighting it.
 

@@ -1,6 +1,7 @@
 # C&RBGC Notes Walkthrough
 
-*2026-06-13T16:00:16Z by Showboat 0.6.1*
+_2026-06-13T16:00:16Z by Showboat 0.6.1_
+
 <!-- showboat-id: 11261895-5b77-4b0b-a15d-7f28fbf11eb3 -->
 
 ## Overview
@@ -246,4 +247,3 @@ An Obsidian edit triggers the Linter (frontmatter normalized), then splits two w
 `excludePatterns` filter and renders the survivors through `config.json` + `custom.css`
 to the live site. The `(Index)` pages are the spine that ties it together — `config.json`
 nav points at an `(Index)` hub, which points via `[[wikilinks]]` at the individual notes.
-
