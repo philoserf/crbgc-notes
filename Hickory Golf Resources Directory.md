@@ -1,6 +1,15 @@
 ---
 title: Hickory Golf Resources Directory
+description: Curated links to clubs, makers, collectors, and event orgs for hickory golf equipment and play.
+tags:
+  - antique-golf-equipment
+  - golf-collectors
+  - golf-history
+  - hickory-golf
+  - vintage-golf
+created: 2026-05-26
 date: 2026-05-23
+lastmod: 2026-06-10
 ---
 
 - Society of Hickory Golfers  

@@ -1,6 +1,15 @@
 ---
 title: Rules of Golf 1858
+description: The 1858 Royal and Ancient Golf Club of St. Andrews rules covering play, teeing, hazards, and ball handling.
+tags:
+  - 19th-century
+  - golf
+  - rules-of-golf
+  - sports-history
+  - st-andrews
+created: 2026-05-27
 date: 2026-05-27
+lastmod: 2026-06-10
 ---
 
 ## Rules for the Game of Golf as it is Played by the Royal and Ancient Golf Club of St. Andrews over Their Links, May 1858

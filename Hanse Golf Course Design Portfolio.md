@@ -1,6 +1,15 @@
 ---
 title: Hanse Golf Course Design Portfolio
+description: "Comprehensive catalog of Gil Hanse's original designs, restorations, and renovations from 1992 to present."
+tags:
+  - architecture
+  - gil-hanse
+  - golf-course-design
+  - portfolio
+  - restorations
+created: 2026-05-26
 date: 2026-05-23
+lastmod: 2026-06-10
 ---
 
 Hanse Golf Course Design (Gil Hanse with longtime partner Jim Wagner since 1995) classifies its work in three buckets: original designs, restorations, and renovations. The combined catalog below is compiled from the firm's own project pages, Wikipedia, and recent press; restorations dominate the workload, and a handful of recent / in-progress jobs are noted.
@@ -26,11 +35,11 @@ Original 18-hole designs (and notable short courses):
 - Ban Rakat Club / Ballyshear, Pathum Thani, Thailand, 2021
 - CapRock Ranch, Valentine, NE, 2021
 - Circle T Ranch, Westlake, TX, 2021
-- Jonathan’s Landing (rebuild), Jupiter, FL, 2021
+- Jonathan's Landing (rebuild), Jupiter, FL, 2021
 - Les Bordes New Course, Saint-Laurent-Nouan, France, 2021
 - Ladera Golf Club, Thermal, CA, 2022
 - Fields Ranch East at PGA Frisco, Frisco, TX, 2023
-- Golf Club of Tennessee / DBI (sometimes “Golf Club of DBI”), TN, 2023
+- Golf Club of Tennessee / DBI (sometimes "Golf Club of DBI"), TN, 2023
 - The Park West Palm (muni), West Palm Beach, FL, 2023
 - The Apogee Club (one of three courses on the property), Hobe Sound, FL, 2024
 - High Grove, FL, 2024
@@ -51,7 +60,7 @@ Restorations (master plan + green / bunker / routing work on classic courses):
 - Plainfield Country Club, NJ, 1999
 - Ridgewood Country Club, NJ, 1999
 - Sakonnet Golf Club, RI, 1999
-- St. George’s Golf and Country Club, NY, 1999
+- St. George's Golf and Country Club, NY, 1999
 - Gulph Mills Golf Club, PA, 2000
 - Country Club of Rochester, NY, 2001
 - Quaker Ridge Golf Club, NY, 2002
@@ -97,7 +106,7 @@ Renovations (heavier-handed updates, not strict restorations):
 - Soule Park, Ojai, CA (with Shackelford), 2005
 - Sewanee, The University of the South, Sewanee, TN, 2013
 - Vineyard Golf Club, Edgartown, MA, 2015
-- Pinehurst No. 4 (often classified separately as a “retrovation”), 2018
+- Pinehurst No. 4 (often classified separately as a "retrovation"), 2018
 - Los Angeles Country Club, South Course, CA, 2016
 - Trump National Doral, Blue Monster, Miami, FL, 2014, plus Red Tiger and Golden Palm
 - Gávea Golf and Country Club, Rio, Brazil, 2018

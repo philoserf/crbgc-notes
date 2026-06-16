@@ -1,6 +1,15 @@
 ---
 title: Society of Hickory Golfers Overview
+description: "Overview of the Society of Hickory Golfers: its origins, equipment guidelines, replica club debate, and U.S. Hickory Open."
+tags:
+  - equipment-standards
+  - golf-history
+  - golf-organizations
+  - hickory-golf
+  - vintage-sports
+created: 2026-05-31
 date: 2026-05-30
+lastmod: 2026-06-10
 ---
 
 The Society of Hickory Golfers occupies an unusual position in the golf world: it is the closest thing American hickory golf has to a governing body, yet it governs almost entirely by consent rather than authority. To play hickory golf is to play the game with clubs made before roughly 1935, the point at which steel shafts displaced wood as the standard, and the Society exists to set the equipment and tournament guidelines that make competition among such players coherent, to sponsor the annual U.S. Hickory Open, and to support the pastime's growth at home and abroad. Within that niche it is treated as the reference point. Its carefully researched equipment and tournament guidelines are embraced by most national and international tournaments and regional playing groups, which is a meaningful achievement for a volunteer organization with, by its own conservative reckoning, a few hundred members against an estimated worldwide population of around three thousand hickory players. Those numbers are dated and soft, drawn from the Society's own framing, so they should be read as order-of-magnitude rather than precise; the sport is small enough that no rigorous census exists.

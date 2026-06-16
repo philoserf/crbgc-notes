@@ -1,6 +1,15 @@
 ---
 title: Minimalist Golf Architecture School
+description: Genealogy of minimalist and Golden Age revival golf architects from Pete Dye through Doak, Coore, Hanse, and their protégés.
+tags:
+  - architects
+  - course-design
+  - golden-age-revival
+  - golf-architecture
+  - minimalist-design
+created: 2026-05-26
 date: 2026-05-23
+lastmod: 2026-06-10
 ---
 
 The minimalist and Golden Age revival lineage that runs from Pete Dye through Doak, Coore, and Hanse, then to their protégés. The names worth adding fall into a few groups.

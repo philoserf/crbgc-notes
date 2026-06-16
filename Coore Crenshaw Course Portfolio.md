@@ -1,24 +1,32 @@
 ---
 title: Coore Crenshaw Course Portfolio
+description: "Comprehensive list of Coore Crenshaw golf course designs, renovations, 9-hole additions, and Bill Coore's pre-partnership work."
+tags:
+  - coore-crenshaw
+  - course-portfolio
+  - golf-architecture
+  - golf-course-design
+created: 2026-05-26
 date: 2026-05-23
+lastmod: 2026-06-11
 ---
 
 Drawing from the official Coore & Crenshaw portfolio page, Wikipedia's list, and recent press for 2023–2026 openings. The firm groups its work as Coore & Crenshaw original designs, 9-hole additions, renovations, plus Bill Coore's pre-partnership and solo work (he started with Pete Dye in 1972 before partnering with Crenshaw in 1986).
 
 Coore & Crenshaw 18-hole original designs:
 
-- Kapalua Plantation Course, Maui, HI, 1991 (the firm’s debut)
+- Kapalua Plantation Course, Maui, HI, 1991 (the firm's debut)
 - Barton Creek Resort, Coore Crenshaw Cliffside course, Austin, TX, 1991
 - Sand Hills Golf Club, Mullen, NE, 1995
 - The Golf Club at Cuscowilla, Eatonton, GA, 1996
 - Klub Rima Irian, Kuala Kencana, Indonesia, 1996
-- Talking Stick, North (O’odham) and South (Piipaash), Scottsdale, AZ, 1997
+- Talking Stick, North (O'odham) and South (Piipaash), Scottsdale, AZ, 1997
 - Chechessee Creek Club, Okatie, SC, 2000
 - East Hampton Golf Club, East Hampton, NY, 2000
 - Warren Golf Course at Notre Dame, Notre Dame, IN, 2000
 - Austin Golf Club, Austin, TX, 2001 (Crenshaw-credited solo on Wikipedia; on the firm portfolio)
 - Hidden Creek Golf Club (now Dormie Hidden Creek), Egg Harbor Township, NJ, 2002
-- Friar’s Head, Riverhead, NY, 2002
+- Friar's Head, Riverhead, NY, 2002
 - Old Sandwich Golf Club, Plymouth, MA, 2004
 - Bandon Trails, Bandon, OR, 2005
 - We-Ko-Pa, Saguaro Course, Fort McDowell, AZ, 2006
@@ -34,7 +42,7 @@ Coore & Crenshaw 18-hole original designs:
 - Cabot Cliffs, Inverness, Nova Scotia, 2016
 - Sand Valley, Nekoosa, WI, 2017
 - The Sandbox, 17-hole par-3, Sand Valley, Nekoosa, WI, 2018
-- Mammoth Dunes—not Coore; that’s David McLay Kidd, skip
+- Mammoth Dunes—not Coore; that's David McLay Kidd, skip
 - Ozarks National, Big Cedar Lodge, Hollister, MO, 2019
 - Sheep Ranch (Bally Bandon Sheep Ranch), Bandon, OR, 2020 (rebuilt from a 13-hole Doak original; the firm calls this its 2020 design)
 - Bougle Run, 14-hole short course at Barnbougle, Bridport, Tasmania, 2021 (some sources list 2023)
@@ -71,7 +79,7 @@ Renovations and master-plan restorations:
 - Wykagyl Country Club, New Rochelle, NY, 2006
 - Maidstone Club, East Hampton, NY, 2013 and 2016
 - Old Town Club, Winston-Salem, NC, 2013
-- Pinehurst No. 2, Pinehurst, NC, 2014 (the high-profile restoration ahead of the 2014 U.S. Open men’s and women’s back-to-back)
+- Pinehurst No. 2, Pinehurst, NC, 2014 (the high-profile restoration ahead of the 2014 U.S. Open men's and women's back-to-back)
 - Yokohama Country Club, Tokyo, Japan, 2015
 - Farmington Country Club, Farmington, VA, 2016
 
@@ -81,10 +89,10 @@ Bill Coore solo and pre-partnership work (with Pete Dye & Associates or independ
 - Country Club of Montreal, Quebec, Canada, 1974—with Pete Dye & Associates
 - Cardinal Golf Club, Greensboro, NC, 1975—with Pete Dye & Associates
 - Kingsmill Resort, River Course, Williamsburg, VA, 1982—with Pete Dye & Associates
-- Rockport Country Club, Rockport, TX, 1984—Coore’s first solo design
+- Rockport Country Club, Rockport, TX, 1984—Coore's first solo design
 - Denver Country Club, Denver, CO, 1985—Coore master course renovation
-- Kings Crossing Golf & Country Club, Corpus Christi, TX, 1986—Coore’s second solo design (closed)
-- Golf du Médoc, Château Course, Le Pian-Médoc, Bordeaux, France, 1989—Coore’s third solo (now part of the Cabot Bordeaux portfolio)
+- Kings Crossing Golf & Country Club, Corpus Christi, TX, 1986—Coore's second solo design (closed)
+- Golf du Médoc, Château Course, Le Pian-Médoc, Bordeaux, France, 1989—Coore's third solo (now part of the Cabot Bordeaux portfolio)
 
 Ben Crenshaw pre-partnership work:
 

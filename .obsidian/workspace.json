@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Early American Golf's Decline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -126,8 +126,21 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "48041f4a282617b4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Early American Golf's Decline.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -137,8 +150,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "flowershow:Publish with Flowershow": false,
-      "zenmode:Toggle zen mode": false,
-      "recent-notes:Recent notes": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false
@@ -146,6 +157,24 @@
   },
   "active": "384b8b6a8c2bc7b8",
   "lastOpenFiles": [
+    "Colonel Bogey and the Bogey Competition.md",
+    "README.md",
+    "Early American Golf's Decline.md",
+    "Untitled.md",
+    "Dream Golf & Cabot Portfolio.md",
+    "Coore Crenshaw Course Portfolio.md",
+    "CONTENT-LICENSE.md",
+    "Michigan Golf.md",
+    "Society of Hickory Golfers Origins.md",
+    "Golf Equipment Historical Eras.md",
+    "Roger Hill Hickory Golf Profile.md",
+    "Session Reviews/2026-06-11 Clement setting review and in-universe drive.md",
+    "Session Reviews",
+    "Solo Golf Book Review.md",
+    "GB&I vs American Golf Culture.md",
+    "Untitled",
+    "Golf Measures.md",
+    "Golf's Transition from Hickory to Steel Shafts.md",
     "(Index) Course Architecture.md",
     "(Index) Courses to Play.md",
     "(Index) Game Philosophy.md",
@@ -156,24 +185,8 @@
     "(Index) Solo Golf.md",
     "Enemies of Golf.md",
     "Recovering Golf's Original Orientation.md",
-    "README.md",
-    "History of Solo Golf Play.md",
     "custom.css",
     "biome.json",
-    "Nicklaus's Golf Shot Ratios.md",
-    "Society of Hickory Golfers Overview.md",
-    "Luke Kerr-Dineen Golf Instruction.md",
-    "Bobby Jones Golf Style.md",
-    "Tad Moore Hickory Golf Clubs.md",
-    "Solo Play in Golf History.md",
-    "Solo Golf in Amateur History.md",
-    "Solo Golf Historical Continuity.md",
-    "Tom Coyne Golf Writer Profile.md",
-    "Society of Hickory Golfers Origins.md",
-    "Honourable Company of Edinburgh Golfers History.md",
-    "Minimalist Golf Architecture School.md",
-    "Golf's Original Constraints.md",
-    "Hickory Era American Golf.md",
     "config.json",
     "Taskfile.yml"
   ]

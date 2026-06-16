@@ -1,11 +1,20 @@
 ---
 title: README
+description: README for working notes on golf history, architecture, hickory-era play, and the C&RBGC walking golf fellowship.
+tags:
+  - golf
+  - golf-architecture
+  - golf-history
+  - hickory-golf
+  - walking-golf
+created: 2026-05-26
 date: 2026-05-26
+lastmod: 2026-06-13
 ---
 
 Notes on golf—its history, its architects, its courses, and especially the walking, hickory-era version of the game.
 
-"C&RBGC" is shorthand for the [Common & Recent Bogey Golf Club](https://crbgc.org): a fellowship oriented around camaraderie, walking, and the older spirit of the game rather than scores or status. Motto: _"We can shoot an 84 here, right?"_
+"C&RBGC" is shorthand for the [Common & Recent Bogey Golf Club](https://crbgc.org): a fellowship oriented around camaraderie, walking, and the older spirit of the game rather than scores or status. The target is bogey—match play, hole by hole, against [[Colonel Bogey and the Bogey Competition|Colonel Bogey]].
 
 These are working notes in motion, not finished essays—biased toward walking, hickory, classic architecture, Michigan, and the older orientation of the game.
 

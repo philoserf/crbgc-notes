@@ -1,6 +1,15 @@
 ---
 title: Honourable Company of Edinburgh Golfers History
+description: "Traces the governance evolution of the world's oldest golf club from its 1744 founding at Leith to Muirfield."
+tags:
+  - edinburgh
+  - golf-history
+  - governance
+  - scotland
+  - sports-clubs
+created: 2026-06-01
 date: 2026-05-29
+lastmod: 2026-06-10
 ---
 
 In 1744 a body of Edinburgh golfers who played over the links at Leith asked the city's Town Council for a silver club to be awarded each year to the winner of an open competition. The Council agreed, and its Act of Council, copied into the front of the golfers' first minute book, became the founding instrument of what is now the Honourable Company of Edinburgh Golfers. From the beginning the club's authority rested on a hybrid: a private association of gentlemen given form and legitimacy by a municipal grant. The same minute book that recorded the Council's act also recorded the [[Rules of Golf 1744|thirteen Articles and Laws in Playing at Golf]], the earliest surviving written rules of the game. Rules of play and rules of governance were not yet separate things; they shared one volume and one origin.

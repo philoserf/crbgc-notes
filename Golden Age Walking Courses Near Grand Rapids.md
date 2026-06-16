@@ -1,22 +1,31 @@
 ---
 title: Golden Age Walking Courses Near Grand Rapids
+description: Force-ranked list of 13 minimalist/Golden Age walking courses within ~6 hours of Grand Rapids, with drive times and caddie notes.
+tags:
+  - course-design
+  - golden-age-golf
+  - golf
+  - midwest
+  - walking-golf
+created: 2026-05-26
 date: 2026-05-23
+lastmod: 2026-06-10
 ---
 
 Force-ranked, within roughly a six-hour drive of Grand Rapids, prioritizing the same minimalist / Golden Age school we've been talking about and weighting walking policy alongside design quality:
 
-1. The Lido at Sand Valley, Nekoosa, WI—Doak’s recreation of C.B. Macdonald’s 1914 design; mandatory caddied walk; the most authentic Golden Age walking experience in the country. About 6.5 hours by road, ~5.5 with the Muskegon–Milwaukee ferry.
+1. The Lido at Sand Valley, Nekoosa, WI—Doak's recreation of C.B. Macdonald's 1914 design; mandatory caddied walk; the most authentic Golden Age walking experience in the country. About 6.5 hours by road, ~5.5 with the Muskegon–Milwaukee ferry.
 2. Sand Valley, Nekoosa, WI—Coore & Crenshaw, walking-only. The flagship of the resort.
 3. Sedge Valley, Sand Valley—Doak heathland, par-68; one of the gentlest top-shelf walks in modern American golf.
 4. Mammoth Dunes, Sand Valley—David McLay Kidd, walking-only, generous and visually big but routes easily on foot.
 5. Whistling Straits, Straits Course, Kohler, WI—Pete Dye, walking-only with caddie. About 5 hours by road; the demanding walk on this list. ~4.5 hours.
 6. Erin Hills, Erin, WI—Hurdzan/Fry/Whitten, walking-only with caddie or push cart. U.S. Open host; honest walk. ~5 hours.
-7. The Loop at Forest Dunes (Black & Red), Roscommon, MI—Doak’s reversible 18; walking-encouraged; nearly flat sand. ~3 hours and the easiest serious walk on this list.
+7. The Loop at Forest Dunes (Black & Red), Roscommon, MI—Doak's reversible 18; walking-encouraged; nearly flat sand. ~3 hours and the easiest serious walk on this list.
 8. Lawsonia Links, Green Lake, WI—Langford & Moreau 1930; walking-encouraged; arguably the best pre-war public course in the Midwest. ~5.5 hours road, ~3.5 with the ferry.
-9. High Pointe Golf Club, Williamsburg, MI—Doak’s 2024 rebuild of his 1989 first solo design; walking-encouraged. ~3 hours.
+9. High Pointe Golf Club, Williamsburg, MI—Doak's 2024 rebuild of his 1989 first solo design; walking-encouraged. ~3 hours.
 10. Black Forest at Wilderness Valley, Gaylord, MI—Doak 1991; walking-permitted. ~3.5 hours.
 11. Warren Course at Notre Dame, South Bend, IN—Coore & Crenshaw 2000; walking-friendly. ~2 hours.
-12. Stoatin Brae, Augusta, MI—Renaissance Golf Design team 2016 (Doak’s firm, Brian Slawnik lead); walking-encouraged. ~1 hour.
+12. Stoatin Brae, Augusta, MI—Renaissance Golf Design team 2016 (Doak's firm, Brian Slawnik lead); walking-encouraged. ~1 hour.
 13. The Mines Golf Course, Grand Rapids, MI—Mike DeVries 2000 muni; the local pick from the school. In town.
 
 Close cuts worth flagging:

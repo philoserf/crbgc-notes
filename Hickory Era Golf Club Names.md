@@ -1,6 +1,14 @@
 ---
 title: Hickory Era Golf Club Names
+description: Maps historical hickory-era golf club names (mashie, niblick, cleek, etc.) to their modern iron/wood equivalents.
+tags:
+  - equipment
+  - golf
+  - golf-history
+  - hickory-golf
+created: 2026-05-26
 date: 2026-05-23
+lastmod: 2026-06-10
 ---
 
 - Driver—modern driver

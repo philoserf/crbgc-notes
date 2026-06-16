@@ -1,6 +1,15 @@
 ---
 title: "Golf's Transition from Hickory to Steel Shafts"
+description: How steel golf shafts displaced hickory over a decade through competing governing bodies, patents, and cultural resistance.
+tags:
+  - equipment-technology
+  - golf
+  - golf-history
+  - rule-making
+  - sports-governance
+created: 2026-06-10
 date: 2026-06-10
+lastmod: 2026-06-10
 ---
 
 Golf's move away from hickory was not a single technological event but a contested negotiation among rule-makers, manufacturers, professionals, and an amateur establishment whose authority rested partly on the conviction that the game's traditional implements were inseparable from its character. To understand how a wooden shaft that had defined the sport for roughly a century was displaced within little more than a decade, three threads have to be held together: the divergent paths of the two governing bodies, the physical and economic affordances that made steel inevitable once it could be manufactured well, and the cultural theatre of resistance and disguise that accompanied the change.

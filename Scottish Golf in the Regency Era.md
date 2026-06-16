@@ -1,6 +1,15 @@
 ---
 title: Scottish Golf in the Regency Era
+description: Overview of Scottish golf clubs, course layouts, social culture, and institutional decline during the Regency period (c. 1811–1820).
+tags:
+  - golf-clubs
+  - golf-history
+  - regency-era
+  - scotland
+  - sporting-history
+created: 2026-05-26
 date: 2026-05-24
+lastmod: 2026-06-10
 ---
 
 Scottish golf in the Regency was both an ancient and a fragile institution. By 1815 about eighteen golf clubs could trace their origins to the eighteenth century, almost all of them in Scotland: the Royal Burgess (1735) and Bruntsfield Links Golfing Society (1761) playing over Bruntsfield Links in Edinburgh; the Honourable Company of Edinburgh Golfers (founded 1744 with the first written rules of golf, played over Leith Links); the Society of St Andrews Golfers (1754, later the Royal and Ancient); Royal Musselburgh (1774); Royal Aberdeen (1780); Fraserburgh (1777); Crail Golfing Society (1786); Glasgow Golf Club (1787); Earlsferry at Elie (1787); Burntisland (1791); Kingsbarns (1793); Fortrose (1793); Dunbar (1794); and outposts at Royal Blackheath in London and Savannah in Georgia. New foundations during the Regency itself were thin—the Thistle Golf Club joined the Honourable Company at Leith in 1815—and a wave of new societies (Perth in 1824, Montrose's modern incarnation in 1810, North Berwick in 1832) belongs more to the 1820s and 1830s.

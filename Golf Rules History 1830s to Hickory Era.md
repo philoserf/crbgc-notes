@@ -1,6 +1,15 @@
 ---
 title: Golf Rules History 1830s to Hickory Era
+description: "Traces continuity in golf rules from Scotland's 1829 St Andrews code through the U.S. hickory era of the 1910s–1930s."
+tags:
+  - golf
+  - hickory-golf
+  - rules-history
+  - stymie
+  - usga
+created: 2026-05-26
 date: 2026-05-24
+lastmod: 2026-06-10
 ---
 
 In Scotland through the 1830s, most clubs played under the Society of St Andrews Golfers' 1829 code, a rearrangement of the 1812 St Andrews rules that for the first time defined the putting green as ground within twenty yards of the hole. The ball was teed within two to four club-lengths of the previous hole rather than from a separate tee ground, and the ball farthest from the hole was always played first. On what the code called the "driving course"—through the green in modern terms—only stones, bones, or "break-clubs" within a club's length could be removed, and only when the ball lay on grass; nothing could be moved if it sat on sand or in a bunker, and whins, bent, or turf were untouchable. All loose impediments could be cleared on the putting green. A ball half-covered or more by water could be lifted, teed, and played from behind the hazard for a one-stroke penalty; a lost ball was stroke and distance—back to the spot, re-tee. Most ball-interference infractions—striking the adversary's ball, hitting your own caddy or clubs—drew loss of hole, since match play was assumed; the eighteen-hole match wasn't formally defined until the 1842 R&A code. The stymie was alive: when balls lay more than six inches apart on the green, the ball nearer the hole stayed put even if directly in the cup line, and the player away had to chip or bend a putt around it. Several clubs maintained subtly different codes—Bruntsfield, for example, did not permit lifting under the stymie, while the Leith rules did—so a traveling player had to learn local procedure. The feathery ball was still in use; gutta-percha didn't arrive until 1848.

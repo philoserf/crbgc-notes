@@ -1,6 +1,15 @@
 ---
 title: "Golf's Original Constraints"
+description: "Early golf's rules and tools created difficulty and richness, while modern innovations erode the game's vernacular origins."
+tags:
+  - constraints
+  - game-design
+  - golf-history
+  - links-golf
+  - sport-philosophy
+created: 2026-06-01
 date: 2026-05-25
+lastmod: 2026-06-10
 ---
 
 The original innovations of golf were constraints discovered, not constraints removed. A few men on common ground at Leith or Bruntsfield or Musselburgh agreed among themselves what would count as a hole, what would count as a stroke, what would count as a hazard, what would count as winning—and the agreement was the game. The Honourable Company's thirteen Articles of 1744 are barely two pages long and read like a treaty among neighbors: play the ball as it lies, do not change the ball you started the hole with, the party farthest from the hole plays first. They do not solve problems; they create them. They take an open field and impose just enough structure that walking across it with a stick becomes interesting.

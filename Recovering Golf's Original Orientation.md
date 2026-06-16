@@ -1,6 +1,15 @@
 ---
 title: "Recovering Golf's Original Orientation"
+description: Argues that golf has drifted from its roots and outlines practical ways to recover its original spirit of walking, simplicity, and connection.
+tags:
+  - golf
+  - golf-architecture
+  - golf-history
+  - minimalism
+  - public-golf
+created: 2026-06-01
 date: 2026-05-25
+lastmod: 2026-06-10
 ---
 
 For two centuries the game has been engineered away from itself. The featherie gave way to the gutty and the gutty to the rubber core; hickory gave way to steel and steel to graphite; the common pasture gave way to the irrigated, cart-pathed, four-and-a-half-hour resort course with its Stimp meter and its sponsor boards. Each change solved a problem—but rarely the player's. The problems being solved belonged to manufacturers, broadcasters, developers, and tour officials, none of whom plays the affected round, and the game was the thing adjusted to fit their solutions. The cumulative result is a version of golf progressively thinned: faster to sell, easier to televise, more expensive to play, and a little further every decade from the walk on interesting ground that was the whole point. There is, therefore, somewhere to walk back toward.

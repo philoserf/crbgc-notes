@@ -41,12 +41,12 @@ The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically
 - Every note carries YAML frontmatter with keys in this order: `title`, `description` (one line), `tags` (alphabetized list), `created`, `date`, `lastmod` (dates are `YYYY-MM-DD`; some notes omit `date`). Match the existing shape when adding new pages.
 - The vault is flat—all notes at the root. `(Index) *.md` files are the topic hubs; each is a nav entry in `config.json` and links out to its notes with `[[wikilinks]]`. A new note should be linked from the relevant index.
 - Flowershow renders KaTeX unconditionally, so escape literal `$` in prose.
-- Two licenses by design, and the split is load-bearing: `LICENSE` (MIT) covers code/config/templates; `CONTENT-LICENSE.md` (CC BY-NC-SA 4.0) covers prose and media. Don't merge them or apply one license to the other domain.
+- No in-repo license files. Prose and media are offered under CC BY-NC-SA 4.0 via the footer link in `config.json`, which points at the canonical creativecommons.org deed. Code and config carry no explicit license.
 
 ### Site Configuration
 
-- `config.json` — Flowershow site config: title, nav (one link per `(Index)` page), footer, theme (`letterpress`, light-only). Adding a topic area means a new `(Index)` page plus a nav entry here.
-- `custom.css` — theme overrides (green accent, serif body). Formatted/linted by Biome.
+- `config.json`—Flowershow site config: title, nav (one link per `(Index)` page), footer, theme (`letterpress`, light-only). Adding a topic area means a new `(Index)` page plus a nav entry here.
+- `custom.css`—theme overrides (green accent, serif body). Formatted/linted by Biome.
 - Publish excludes live in the plugin's `excludePatterns` (regex on vault-relative paths): currently `CLAUDE.md`, and anything starting `_`, `Drafts/`, or `Private/`. Anything else in the vault publishes.
 
 ### Backlog

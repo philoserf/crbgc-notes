@@ -1,6 +1,15 @@
 ---
 title: Rules of Golf 1960
+description: Full text of the 1960 Rules of Golf as approved by the R&A and USGA, covering etiquette, priority, and definitions.
+tags:
+  - golf
+  - royal-and-ancient
+  - rules-of-golf
+  - sports-history
+  - usga
+created: 2026-05-27
 date: 2026-05-27
+lastmod: 2026-06-10
 ---
 
 ## Rules of Golf as Approved by the Royal and Ancient Golf Club of St. Andrews, Scotland and the United States Golf Association, effective 1 January 1960
@@ -467,7 +476,7 @@ _Match Play - Loss of hole; Stroke play - Two strokes.
 If a ball lie in long grass, rushes, bushes, whins, heather or the like, only so much thereof shall be touched as will enable the player to find and identify his ball; nothing shall be done which may in any way improve its lie.  
 The player is not of necessity entitled to see the ball when playing a stroke.
 
-3. **Improving Line of Play or Lie Prohibited**  
+1. **Improving Line of Play or Lie Prohibited**  
    A player shall not improve, or allow to be improved, his line of play or the position or lie of his ball by moving, bending or breaking anything fixed or growing, except:-  
    a. As may occur in the course of fairly taking his stance; or  
    b. In making the stroke or the backward movement of his club for the stroke.  
@@ -701,8 +710,6 @@ If a competitor's ball be stopped or deflected by himself, his partner or either
 
 If a competitor's ball be stopped or deflected by a fellow-competitor, his caddie, ball or equipment, it is a rub of the green and the ball shall be played as it lies.
 
--
-
 Exceptions:-
 
 \*Ball lodging in fellow-competitor's clothes, etc. - Clause 1b of this Rule.  
@@ -753,8 +760,6 @@ _(Putting green - Rule 35-2c)
 **3. Stroke Play  
 Ball Moved by a Fellow-Competitor.**  
 If a competitor's ball be moved by a fellow-competitor, his caddie, clubs, his ball or equipment, no penalty shall be incurred. The competitor shall place his ball as provided in Clause 1a of this Rule.
-
--
 
 Exception to penalty
 

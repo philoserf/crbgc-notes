@@ -1,6 +1,15 @@
 ---
 title: Hickory Era Golf Writing Survey
+description: Survey of literary golf writing from the hickory shaft era, covering key journalists, instructional authors, and essayists across Britain and America.
+tags:
+  - golf-history
+  - golf-literature
+  - hickory-era
+  - journalism
+  - sports-writing
+created: 2026-05-28
 date: 2026-05-26
+lastmod: 2026-06-10
 ---
 
 ## Overview

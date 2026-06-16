@@ -1,6 +1,15 @@
 ---
 title: "Early American Golf's Decline"
+description: How colonial-era golf clubs in Charleston and Savannah faded after 1811, leaving a 70-year gap before the sport revived.
+tags:
+  - american-history
+  - colonial-sports
+  - golf-history
+  - regency-era
+  - sports-history
+created: 2026-05-26
 date: 2026-05-24
+lastmod: 2026-06-10
 ---
 
 American golf during the Regency was essentially expiring. The game had arrived in the colonies in the mid-eighteenth century through Scottish merchants—a 1743 (some sources 1739) bill of lading records 96 clubs and 432 feathery balls shipped from Leith to the Charleston merchant David Deas—and three documented societies took root in the southern port cities and New York. The South Carolina Golf Club, founded in Charleston in 1786 and playing over Harleston Green between roughly Calhoun and Beaufain streets, was the first formal club in the western hemisphere; it ran annual press notices of meetings on Harleston's Green from 1788 to 1799, then nothing thereafter. The Savannah Golf Club, organized in 1794 and meeting at the Merchants and Planters Coffee House, is the only one with documented activity carrying into the Regency proper: its archives include a call to annual meeting from 1796 and an invitation dated 20 December 1811, after which the trail goes cold.

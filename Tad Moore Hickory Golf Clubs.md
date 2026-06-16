@@ -1,6 +1,15 @@
 ---
 title: Tad Moore Hickory Golf Clubs
+description: "Overview of Tad Moore Golf's hickory-shafted club reproductions, their craft, niche market, and role in competitive hickory golf."
+tags:
+  - club-making
+  - golf-equipment
+  - golf-history
+  - hickory-golf
+  - vintage-golf
+created: 2026-06-01
 date: 2026-05-30
+lastmod: 2026-06-10
 ---
 
 Tad Moore Golf, run out of a workshop in Selma, Alabama, is the most prominent maker of new hickory-shafted golf clubs in the world—playable reproductions of the wooden-shafted irons, woods, niblicks, and putters that were standard equipment before steel shafts displaced them in the mid-1930s. Moore came up through the modern club trade, building and fitting steel and graphite-shafted clubs for tour players, and turned to wood comparatively late; by his own account in a 2022 interview, a friend's needling at St. Andrews ("you make all those clubs for tour players, so you can certainly make a wood shaft club") was the spur. He got into the golf business in the late 1980s. In 2005 he reintroduced hickory clubs with designs drawn from 1920s MacGregor and William Gibson classics, which is generally described as the first production of new hickory-shafted clubs since the 1930s. One caveat on provenance: a retailer's marketing copy claims a lineage "since 1963," which is hard to square with the late-'80s entry date and the 2005 reintroduction, and reads like promotional rounding rather than fact.

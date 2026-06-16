@@ -1,6 +1,14 @@
 ---
 title: (Index) Rules of Golf Editions
+description: Index of codified Rules of Golf editions from 1744 to the modern consolidated text.
+tags:
+  - golf
+  - history
+  - index
+  - rules-of-golf
+created: 2026-06-01
 date: 2026-06-01
+lastmod: 2026-06-10
 ---
 
 The codified rules across the centuries, from the first written code to the modern consolidated text.

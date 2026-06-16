@@ -1,6 +1,15 @@
 ---
 title: American Golf Writing, 1950–1970
+description: Covers the key figures, publications, and three modes of golf writing from 1950–1970, centered on Herbert Warren Wind.
+tags:
+  - american-literature
+  - golf-history
+  - herbert-warren-wind
+  - sports-illustrated
+  - sports-journalism
+created: 2026-06-01
 date: 2026-05-26
+lastmod: 2026-06-10
 ---
 
 ## Overview
@@ -59,7 +68,7 @@ Cary Middlecoff (1921–1998), per the Tennessee Golf Foundation "the leading mo
 
 Julius Boros's "Swing Easy, Hit Hard" (Harper & Row, 1965, 158 pp., illustrated by Lealand Gustavson, introduction by George Bayer) distilled the two-time U.S. Open champion's effortless tempo into a concise method, and it remains a cult favorite. Doug Ford's "Getting Started in Golf" (1964), Doug Sanders's tour-pro instruction in Golf Digest, and a wave of "as told to" books from middle-tier touring professionals filled out the shelves.
 
-[[Bobby Jones Golf Style|Bobby Jones]] (1902–1971), debilitated by syringomyelia and confined increasingly to his cottage at Augusta, produced two late instructional and reflective works: "Golf Is My Game" (Doubleday, 1960, 255 pp., foreword by Bernard Darwin) and "Bobby Jones on Golf" (Doubleday, 1966), the latter compiled by Charles Price from Jones's syndicated newspaper columns and Saturday Evening Post pieces of the 1920s–30s, with Wind editing the typescript. His third late book, "Bobby Jones on the Basic Golf Swing" (Doubleday, 1968), illustrated by Anthony Ravielli, was dictated because Jones could no longer write. Price recalled in Golf Digest that the project gave Jones "a new purpose in life."
+Bobby Jones (1902–1971), debilitated by syringomyelia and confined increasingly to his cottage at Augusta, produced two late instructional and reflective works: "Golf Is My Game" (Doubleday, 1960, 255 pp., foreword by Bernard Darwin) and "Bobby Jones on Golf" (Doubleday, 1966), the latter compiled by Charles Price from Jones's syndicated newspaper columns and Saturday Evening Post pieces of the 1920s–30s, with Wind editing the typescript. His third late book, "Bobby Jones on the Basic Golf Swing" (Doubleday, 1968), illustrated by Anthony Ravielli, was dictated because Jones could no longer write. Price recalled in Golf Digest that the project gave Jones "a new purpose in life."
 
 The Palmer-Nicklaus-Player triumvirate generated a steady flow of titles. Arnold Palmer's "Arnold Palmer's Golf Book: Hit It Hard!" (Ronald Press, 1961, 142 pp.) was his first book; "My Game and Yours" (Simon & Schuster, 1965, 158 pp., jacket design by Paul Bacon), assembled with Bob Drum, presented golf as simple. Jack Nicklaus's first book, "My 55 Ways to Lower Your Golf Score" (Simon & Schuster, 1964, 125 pp., drawings by Francis Golden), was followed by the major "The Greatest Game of All: My Life in Golf" (Simon & Schuster, 1969, 416 pp., foreword by Bobby Jones) with Herbert Warren Wind, a hybrid memoir-and-instruction that runs to six full chapters of technique. Gary Player's "Grand Slam Golf" (Cassell, 1966) reached American readers through U.S. distribution. Tony Lema's "Champagne Tony's Golf Tips" (1964) and Billy Casper's books with various collaborators rounded out the championship-player instructional shelf.
 

@@ -1,6 +1,14 @@
 ---
 title: North American Links Courses
+description: A list of links-style golf courses across North America, with their city and state/province.
+tags:
+  - golf
+  - links-courses
+  - north-america
+  - reference-list
+created: 2026-05-26
 date: 2026-02-27
+lastmod: 2026-06-10
 ---
 
 | Club                                   |                  |                  |

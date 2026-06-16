@@ -1,6 +1,15 @@
 ---
 title: Tom Coyne Golf Writer Profile
+description: 'Profile of Tom Coyne: MFA novelist, author of the "Course Called" trilogy, and editor of The Golfer''s Journal.'
+tags:
+  - author-profile
+  - golf-literature
+  - golf-media
+  - golf-writing
+  - travel-writing
+created: 2026-05-29
 date: 2026-05-26
+lastmod: 2026-06-10
 ---
 
 Tom Coyne occupies a distinctive position in contemporary golf writing: an MFA-trained novelist who detoured into golf and built a career out of long-form participatory quests, then ascended to edit the genre's most literary publication. His arc is improbable. He finished his Notre Dame MFA in 1999, sold his debut novel A Gentleman's Game by that fall, and saw it become a Gary Sinise film—then spent the next two decades writing what he half-jokingly admits was never the plan. As he told GAP Magazine, he wanted to be in The New Yorker; he ended up the patron saint of pilgrimage golf.

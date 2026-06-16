@@ -1,6 +1,15 @@
 ---
 title: Dream Golf & Cabot Portfolio
+description: "Complete property listing for Mike Keiser's Dream Golf and Cabot Collection, including courses, architects, and dates."
+tags:
+  - cabot-collection
+  - dream-golf
+  - golf
+  - golf-course-design
+  - mike-keiser
+created: 2026-05-26
 date: 2026-05-23
+lastmod: 2026-06-11
 ---
 
 The "Bandon Dunes team" effectively means the Mike Keiser family and the operating company they built around him, now branded as Dream Golf (run day-to-day by sons Michael Jr. and Chris Keiser). The Keisers are also co-owners with Ben Cowan-Dewar of The Cabot Collection, which is run as a separate company but shares the same design playbook and many of the same architects. Below is the working portfolio.
@@ -16,8 +25,8 @@ Bandon Dunes Golf Resort, Bandon, Oregon (1999):
 - Bandon Preserve, 13-hole par-3, 2012, Coore & Crenshaw
 - Punchbowl, putting course, 2014, Doak & Urbina
 - Sheep Ranch, 2020, Coore & Crenshaw (rebuilt from a 13-hole Doak original)
-- Shorty’s, 19-hole par-3, 2024, Rod Whitman / Dave Axland / Keith Cutten
-- Charlotte’s, 9-hole par-3 practice course
+- Shorty's, 19-hole par-3, 2024, Rod Whitman / Dave Axland / Keith Cutten
+- Charlotte's, 9-hole par-3 practice course
 
 Sand Valley, Nekoosa, Wisconsin (2017):
 

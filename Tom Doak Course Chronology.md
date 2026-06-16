@@ -1,6 +1,15 @@
 ---
 title: Tom Doak Course Chronology
+description: Chronological list of all 18-hole original Tom Doak / Renaissance Golf Design courses from 1989 to 2026.
+tags:
+  - course-architecture
+  - golf-course-design
+  - golf-history
+  - renaissance-golf-design
+  - tom-doak
+created: 2026-05-26
 date: 2026-05-23
+lastmod: 2026-06-10
 ---
 
 The official Renaissance Golf Design site list stops at 2018, but Doak has completed several major courses since. Let me get the recent ones.
@@ -45,7 +54,7 @@ Chronological list of original Tom Doak / Renaissance Golf Design 18-hole course
 - 2016—The Loop at Forest Dunes (reversible Black/Red), Roscommon, MI
 - 2016—Stoatin Brae, Augusta, MI (Renaissance team design)
 - 2018—The Gunnamatta Course at The National, Cape Schanck, Australia
-- 2022—The Lido at Sand Valley, Nekoosa, WI (recreation of C.B. Macdonald’s lost 1914 Lido)
+- 2022—The Lido at Sand Valley, Nekoosa, WI (recreation of C.B. Macdonald's lost 1914 Lido)
 - 2023—Te Arai Links, North Course, Te Arai, New Zealand
 - 2024—Sedge Valley at Sand Valley, Nekoosa, WI
 - 2024—Pinehurst No. 10, Aberdeen, NC (lead associate Angela Moser)
