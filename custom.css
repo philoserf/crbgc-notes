@@ -16,6 +16,15 @@
   --font-size-h1: calc(var(--font-size-base) * 1.765);
   --font-size-h2: calc(var(--font-size-base) * 1.294);
   --font-size-h3: var(--font-size-base);
+  /* h3 is pinned to base, but the theme leaves h4 on its modular scale
+     (base * 1.2^2 ≈ 1.53rem), so h4 would render larger than h3. Pin it
+     just below h3 to keep the hierarchy monotonic on the Rules pages. */
+  --font-size-h4: calc(var(--font-size-base) * 0.9);
+
+  /* crbgc renders headings sans + browser-default bold at a 1.25 line-height;
+     letterpress defaults headings to normal weight and 1.2. Match crbgc. */
+  --font-weight-headings: var(--font-weight-bold);
+  --font-line-height-headings: 1.25;
 }
 
 /* Links: green underline, 2px offset, drop on hover */
