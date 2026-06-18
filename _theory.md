@@ -27,18 +27,22 @@ the gaps are where you'll get hurt.
 
 ## The organizing ideas
 
-**The `(Index)` page is the spine, and it does three jobs at once.** A file named
-`(Index) Hickory Era.md` is simultaneously (1) a topic hub — a short framing paragraph
-plus a hand-curated list of `[[wikilinks]]`; (2) a navigation entry, because
-`config.json`'s nav contains exactly one link per index page and nothing else; and (3) a
-wikilink target like any other note. This triple duty is the single most important
-abstraction in the system. The invariant it implies: _the navigable structure of the site
-equals the set of index pages, and a note is reachable only if some index links to it._
-The vault is otherwise a flat folder — there are no content subdirectories, and the
-structure is entirely conceptual, carried by these eight hubs. Adding a topic area is
-therefore a three-part move: new `(Index)` file, new nav entry in `config.json`, and
-wikilinks from the index to its notes. Miss the middle step and the topic is invisible;
-miss the third and the notes are orphans.
+**The index page is the spine, and it does three jobs at once.** A file like
+`Hickory Era.md` — a topic hub, identified by the `index` tag rather than any filename
+prefix — is simultaneously (1) a topic hub — a short framing paragraph plus a hand-curated
+list of `[[wikilinks]]`; (2) usually a navigation entry, since `config.json`'s nav is a
+hand-picked, ordered subset of the hubs; and (3) a wikilink target like any other note.
+This triple duty is the single most important abstraction in the system. The invariant it
+implies: _a note is reachable only if some index links to it, and the site's navigable
+structure is carried by the index pages._ Note the "usually" in job 2: the nav is now a
+curated subset rather than the whole set — the `Solo Golf` hub, for instance, is reachable
+from the home page and cross-links but is deliberately kept off the navbar. The vault is
+otherwise a flat folder — there are no content subdirectories, and the structure is
+entirely conceptual, carried by these seven hubs. Adding a topic area is therefore a
+two-or-three-part move: a new index note (tagged `index`), wikilinks from it to its notes,
+and — if the topic belongs in the navbar — a nav entry in `config.json`. Skip the wikilinks
+and the notes are orphans; skip the nav entry and the topic is reachable only by link,
+which is sometimes the intent.
 
 **Publishing is a human act in Obsidian, deliberately severed from git.** This is the
 system's most counterintuitive and most defended decision (commit 5324c8b: "Point
@@ -84,25 +88,24 @@ content split). Both are principled.
 
 The thin and contested seams are internal, and they are where I'd direct your attention:
 
-**The frontmatter content model is documented but not enacted.** `CLAUDE.md` specifies a
-six-key ordered frontmatter — `title, description, tags, created, date, lastmod` — and
-commit 74c02fe added that specification deliberately. Yet _not one note in the corpus uses
-it._ Every note carries `title` plus `date` and nothing else; the only file in the repo
-matching the documented shape is CLAUDE.md's own example. This is a genuine divergence
-between the recorded theory and the enacted theory. A maintainer who trusts the document
-and starts writing six-key frontmatter will produce notes inconsistent with all fifty-seven
-existing ones; a maintainer who trusts the corpus will write `title`+`date` and contradict
-the document. I cannot tell from the code whether the six-key shape is aspirational (a
-target the author intends to migrate toward) or vestigial (copied from another repo's
-conventions). This is the single most likely place to cause quiet damage.
+**The frontmatter content model is now enacted, where it once wasn't.** `CLAUDE.md`
+specifies a six-key ordered frontmatter — `title, description, tags, created, date,
+lastmod` — added in commit 74c02fe. For a time the document and the corpus diverged: notes
+carried only `title` and `date`, and nothing matched the spec but CLAUDE.md's own example.
+The curation pass (commit e66d073, "enrich frontmatter") closed that gap, and the corpus
+now broadly matches the documented shape — alphabetized `tags`, the three date keys, a
+one-line `description`. The residual caution is narrower: `date` is occasionally omitted,
+and the Obsidian Linter re-alphabetizes tags and normalizes heading case and em-dash
+spacing on save, so match its output rather than hand-format and re-fight it.
 
-**The spine invariant is already broken by the newest work.** The rule "every note is
-linked from its relevant index" is real and is the whole basis of navigability — but the
-two most recently added content notes, "Golf Measures" and "Golf's Transition from Hickory
-to Steel Shafts" (commit 1a3cb6c), are orphans, linked from no index. The author added
-prose and did not wire it into the spine. So the invariant is _normative, not enforced_: it
-describes how the system is supposed to cohere, and the most recent commit silently
-violates it. Before you trust "the indexes cover everything," check; they don't.
+**The spine invariant is normative, not enforced — so check it.** The rule "every note is
+linked from its relevant index" is the whole basis of navigability, but nothing enforces
+it, and it has been violated before. "Golf Measures" and "Golf's Transition from Hickory to
+Steel Shafts" (commit 1a3cb6c) were once orphans, linked from no index. Since then "Golf
+Measures" was removed in the curation pass and the transition note was wired into both the
+History and Hickory hubs; a current sweep finds no orphans. But that is a property of the
+latest cleanup, not of the system — the next added note can silently break it again.
+Before you trust "the indexes cover everything," check.
 
 **"Note" silently spans two kinds of object.** The same flat root, the same frontmatter,
 and the same wikilink machinery hold both a 27 KB authored essay and a 4,500-line verbatim
@@ -130,22 +133,23 @@ The system is shaped to absorb **more of the same**: a new essay, wikilinked fro
 existing index, optionally with a new index and nav entry if it opens a topic, restyled
 through `custom.css`, kept private by an `_`/`Drafts/`/`Private/` placement until ready. A
 maintainer who holds the theory will, for any such change, look first at the relevant
-`(Index)` page (is the note wired in?), then `config.json` (does nav need a link?), then —
+index page (is the note wired in?), then `config.json` (does nav need a link?), then —
 if anything is sensitive — `excludePatterns`. That covers the overwhelming majority of real
 work.
 
 What would require rethinking something fundamental is **anything that disturbs the
 flat-root, path-as-identity assumption**. The exclude patterns are regexes over
-vault-relative paths; the nav hrefs are literal strings like `/(Index) Game Philosophy`
-with spaces and parentheses baked into the URL; wikilinks resolve by bare filename.
-Introduce content subdirectories and you break the flat nav model and the `^Drafts/`-style
-filters simultaneously. Rename the `(Index) ` prefix and you touch every filename, every
-nav href, and every cross-link at once. Switch publishers away from the Obsidian plugin and
-you lose the `excludePatterns` membrane — the public-by-default vault becomes a
+vault-relative paths; the nav hrefs are literal strings like `/Game Philosophy` with
+spaces still baked into the URL; wikilinks resolve by bare filename. Introduce content
+subdirectories and you break the flat nav model and the `^Drafts/`-style filters
+simultaneously. The `(Index) ` filename prefix the hubs once carried was itself one of
+these walls, and removing it was exactly such a sweep — it touched every index filename,
+every nav href, and the hub references in `CLAUDE.md` in one move (the spaces in the slugs
+are the residual brittleness it left behind). Switch publishers away from the Obsidian
+plugin and you lose the `excludePatterns` membrane — the public-by-default vault becomes a
 publish-everything vault, which is precisely the failure the current design spends its
-complexity to prevent. These are the load-bearing walls; the prefix-in-the-URL brittleness
-in particular is the kind of thing a maintainer without the theory would "clean up" and
-thereby break navigation.
+complexity to prevent. These are the load-bearing walls; renaming a hub still means
+updating its filename, its nav href, and every cross-link in lockstep.
 
 ## Where I am inferring, and could be wrong
 
@@ -154,15 +158,10 @@ the author may regard these as neutral notes and would then find my framing over
 though the title clustering and the existence of explicitly argumentative essays make me
 fairly sure.
 
-I am inferring that the **six-key frontmatter is aspirational rather than abandoned** purely
-from the fact that it was added to the doc recently while the corpus stayed at two keys; I
-genuinely cannot resolve which direction the author intends to converge, and you should ask
-rather than guess before mass-editing frontmatter.
-
-I read the **orphaned newest notes** as drift (work-in-progress not yet wired in) rather
-than intent, but it is possible the author deliberately keeps some notes reachable only by
-URL. The pattern — newest commits, no index touched — points to oversight, but the code
-alone can't confirm it.
+(Two inferences this account once carried — that the six-key frontmatter was aspirational,
+and that the orphaned newest notes were drift — have since been settled by the curation
+pass: the frontmatter is now enacted across the corpus, and the orphans are wired in. Both
+moved from "contested seam" to "resolved," which is why they no longer appear above.)
 
 Finally, the **convergence with crbgc.org** is documented in one commit message and visible
 in the CSS, but how tightly the two sites are meant to track each other over time is not

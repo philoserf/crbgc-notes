@@ -1,5 +1,5 @@
 ---
-title: (Index) Solo Golf
+title: Solo Golf
 description: "Index of notes on solo golf's long history as a legitimate and continuous tradition in the game."
 tags:
   - golf

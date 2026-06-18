@@ -1,5 +1,5 @@
 ---
-title: (Index) Hickory Era
+title: Hickory Era
 description: Index of notes covering hickory-shaft golf (1830s–1920s), including clubs, rules, history, and modern play.
 tags:
   - golf-history

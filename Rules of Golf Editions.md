@@ -1,5 +1,5 @@
 ---
-title: (Index) Rules of Golf Editions
+title: Rules of Golf Editions
 description: Index of codified Rules of Golf editions from 1744 to the modern consolidated text.
 tags:
   - golf

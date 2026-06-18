@@ -1,5 +1,5 @@
 ---
-title: (Index) Courses to Play
+title: Courses to Play
 description: Index of curated golf course lists focused on walkable designs and Michigan-area courses.
 tags:
   - course-reviews

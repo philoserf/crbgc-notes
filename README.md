@@ -1,5 +1,5 @@
 ---
-title: README
+title: C&RBGC
 description: README for working notes on golf history, architecture, hickory-era play, and the C&RBGC walking golf fellowship.
 tags:
   - golf
@@ -25,3 +25,13 @@ These are working notes in motion, not finished essays—biased toward walking, 
 - [[Minimalist Golf Architecture School]]—the contemporary lineage returning to those values
 - [[Recovering Golf's Original Orientation]]—the argument running underneath the rest
 - [[History of Public Golf in America]]—how the public/democratic strand became dominant
+
+## Browse by topic
+
+- [[Game Philosophy]]—what the game is for, and what modernization takes from it
+- [[History]]—Scottish origins, the American arc, public courses, and the writers
+- [[Hickory Era]]—the pre-1930 game and playing it today
+- [[Rules of Golf Editions]]—the codified rules across the centuries
+- [[Course Architecture]]—design principles and the minimalist architects
+- [[Courses to Play]]—walking-friendly designs, with a Michigan bias
+- [[Solo Golf]]—playing alone as a continuous tradition

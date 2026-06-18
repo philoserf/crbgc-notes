@@ -1,5 +1,5 @@
 ---
-title: (Index) Game Philosophy
+title: Game Philosophy
 description: "Index of drafts on golf's purpose, what modernization has corrupted, and how to recover the game's original spirit."
 tags:
   - golf
@@ -18,3 +18,5 @@ Drafts on what golf is for, what modernization is taking from it, and how to rec
 - [[Recovering Golf's Original Orientation]]
 - [[Modernization's Corruption of Golf]]
 - [[GB&I vs American Golf Culture]]
+
+Playing alone is its own thread of this argument: see [[Solo Golf]].

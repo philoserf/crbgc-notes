@@ -39,13 +39,13 @@ The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically
 ### Content Model
 
 - Every note carries YAML frontmatter with keys in this order: `title`, `description` (one line), `tags` (alphabetized list), `created`, `date`, `lastmod` (dates are `YYYY-MM-DD`; some notes omit `date`). Match the existing shape when adding new pages.
-- The vault is flat—all notes at the root. `(Index) *.md` files are the topic hubs; each is a nav entry in `config.json` and links out to its notes with `[[wikilinks]]`. A new note should be linked from the relevant index.
+- The vault is flat—all notes at the root. Topic hubs are the index notes carrying the `index` tag (e.g. `History.md`, `Game Philosophy.md`); each links out to its notes with `[[wikilinks]]`, and the primary hubs are listed in `config.json` nav. A new note should be linked from the relevant index. Not every hub is in the nav—`Solo Golf` is reachable via the home page and cross-links rather than the navbar.
 - Flowershow renders KaTeX unconditionally, so escape literal `$` in prose.
 - No in-repo license files. Prose and media are offered under CC BY-NC-SA 4.0 via the footer link in `config.json`, which points at the canonical creativecommons.org deed. Code and config carry no explicit license.
 
 ### Site Configuration
 
-- `config.json`—Flowershow site config: title, nav (one link per `(Index)` page), footer, theme (`letterpress`, light-only). Adding a topic area means a new `(Index)` page plus a nav entry here.
+- `config.json`—Flowershow site config: title, nav (one link per primary index hub), footer, theme (`letterpress`, light-only). Adding a topic area means a new index note (tagged `index`) and, if it belongs in the navbar, a nav entry here.
 - `custom.css`—theme overrides (green accent, serif body). Formatted/linted by Biome.
 - Publish excludes live in the plugin's `excludePatterns` (regex on vault-relative paths): currently `CLAUDE.md`, and anything starting `_`, `Drafts/`, or `Private/`. Anything else in the vault publishes.
 
