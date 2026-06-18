@@ -12,15 +12,18 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 - [Rules of Golf Editions](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%20Editions): Index of codified Rules of Golf editions from 1744 to the modern consolidated text.
 - [Course Architecture](https://crbgc-philoserf.flowershow.me/Course%20Architecture): Index linking design principles and key minimalist golf architects including Coore-Crenshaw, Hanse, and Doak.
 - [Courses to Play](https://crbgc-philoserf.flowershow.me/Courses%20to%20Play): Index of curated golf course lists focused on walkable designs and Michigan-area courses.
+- [Like-Minded Clubs](https://crbgc-philoserf.flowershow.me/Like-Minded%20Clubs): Fellow societies and communities the C&RBGC counts as kin — clubs that take the common, walking, spirit-over-score game seriously.
 - [Solo Golf](https://crbgc-philoserf.flowershow.me/Solo%20Golf): Index of notes on solo golf's long history as a legitimate and continuous tradition in the game.
 
 ## All notes
 
 - [American Golf Writing, 1950–1970](https://crbgc-philoserf.flowershow.me/American%20Golf%20Writing%2C%201950%E2%80%931970): Covers the key figures, publications, and three modes of golf writing from 1950–1970, centered on Herbert Warren Wind.
+- [Broken Tee Society](https://crbgc-philoserf.flowershow.me/Broken%20Tee%20Society): Kindred-club note on the Broken Tee Society — The Golfer's Journal's membership community, an ally on the C&RBGC's editorial side.
 - [Colonel Bogey and the Bogey Competition](https://crbgc-philoserf.flowershow.me/Colonel%20Bogey%20and%20the%20Bogey%20Competition): How the 1890s ground score became Colonel Bogey, how bogey drifted from good score to one over par, and why the C&RBGC plays match play against him.
 - [Coore Crenshaw Course Portfolio](https://crbgc-philoserf.flowershow.me/Coore%20Crenshaw%20Course%20Portfolio): Comprehensive list of Coore Crenshaw golf course designs, renovations, 9-hole additions, and Bill Coore's pre-partnership work.
 - [Dream Golf & Cabot Portfolio](https://crbgc-philoserf.flowershow.me/Dream%20Golf%20%26%20Cabot%20Portfolio): Complete property listing for Mike Keiser's Dream Golf and Cabot Collection, including courses, architects, and dates.
 - [Early American Golf's Decline](https://crbgc-philoserf.flowershow.me/Early%20American%20Golf%27s%20Decline): How colonial-era golf clubs in Charleston and Savannah faded after 1811, leaving a 70-year gap before the sport revived.
+- [Fried Egg Golf Club](https://crbgc-philoserf.flowershow.me/Fried%20Egg%20Golf%20Club): Kindred-club note on Fried Egg Golf and its members' club — the architecture-and-municipal-golf ally of the C&RBGC's editorial side.
 - [GB&I vs American Golf Culture](https://crbgc-philoserf.flowershow.me/GB%26I%20vs%20American%20Golf%20Culture): Contrasts British and American golf club traditions across competition, pace, access, and format to propose a hybrid bogey club model.
 - [Golden Age Walking Courses Near Grand Rapids](https://crbgc-philoserf.flowershow.me/Golden%20Age%20Walking%20Courses%20Near%20Grand%20Rapids): Force-ranked list of 13 minimalist/Golden Age walking courses within ~6 hours of Grand Rapids, with drive times and caddie notes.
 - [Golf Course Design Principles](https://crbgc-philoserf.flowershow.me/Golf%20Course%20Design%20Principles): Eight principles prioritizing playability, walkability, pace, and simplicity in golf course design.
@@ -39,6 +42,7 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 - [Minimalist Golf Architecture School](https://crbgc-philoserf.flowershow.me/Minimalist%20Golf%20Architecture%20School): Genealogy of minimalist and Golden Age revival golf architects from Pete Dye through Doak, Coore, Hanse, and their protégés.
 - [Modernization's Corruption of Golf](https://crbgc-philoserf.flowershow.me/Modernization%27s%20Corruption%20of%20Golf): Argues that steel shafts, carts, television, residential development, and the equipment arms race have eroded golf's essential character.
 - [North American Links Courses](https://crbgc-philoserf.flowershow.me/North%20American%20Links%20Courses): A list of links-style golf courses across North America, with their city and state/province.
+- [Random Golf Club](https://crbgc-philoserf.flowershow.me/Random%20Golf%20Club): Kindred-club note on the Random Golf Club — the populist 'room for everyone' community the C&RBGC counts as its on-ramp cousin.
 - [Recovering Golf's Original Orientation](https://crbgc-philoserf.flowershow.me/Recovering%20Golf%27s%20Original%20Orientation): Argues that golf has drifted from its roots and outlines practical ways to recover its original spirit of walking, simplicity, and connection.
 - [Roger Hill Hickory Golf Profile](https://crbgc-philoserf.flowershow.me/Roger%20Hill%20Hickory%20Golf%20Profile): Profile of Roger Hill: Grand Rapids photographer turned hickory golfer, SoHG co-founder, and Michigan Hickory Tour commissioner.
 - [Rules of Golf 1744](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201744): The 13 original rules of golf written by the Gentlemen Golfers of Leith in 1744, with a 1758 amendment.
@@ -47,6 +51,8 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 - [Rules of Golf 1925](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201925): The 1925 amended Rules of Golf as approved by the Royal and Ancient Golf Club of St. Andrews.
 - [Rules of Golf 1960](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201960): Full text of the 1960 Rules of Golf as approved by the R&A and USGA, covering etiquette, priority, and definitions.
 - [Scottish Golf in the Regency Era](https://crbgc-philoserf.flowershow.me/Scottish%20Golf%20in%20the%20Regency%20Era): Overview of Scottish golf clubs, course layouts, social culture, and institutional decline during the Regency period (c. 1811–1820).
+- [Shivas Irons Society](https://crbgc-philoserf.flowershow.me/Shivas%20Irons%20Society): Kindred-club note on the Shivas Irons Society — the spirit-over-score argument made into a society, now more pilgrimage than community.
+- [Society of Hickory Golfers](https://crbgc-philoserf.flowershow.me/Society%20of%20Hickory%20Golfers): Kindred-club note on the Society of Hickory Golfers — the take-the-bit-seriously society closest to the C&RBGC's own register.
 - [Society of Hickory Golfers Overview](https://crbgc-philoserf.flowershow.me/Society%20of%20Hickory%20Golfers%20Overview): Overview of the Society of Hickory Golfers: its origins, equipment guidelines, replica club debate, and U.S. Hickory Open.
 - [Solo Golf Book Review](https://crbgc-philoserf.flowershow.me/Solo%20Golf%20Book%20Review): Gary Belsky's 2026 book argues solo golf rounds are the game's purest form, reviewed for its merits and overreach.
 - [Solo Play in Golf History](https://crbgc-philoserf.flowershow.me/Solo%20Play%20in%20Golf%20History): Traces how solo golf evolved from unregulated origins on Scottish links to a persistent but non-default form of play.
@@ -54,4 +60,5 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 - [Tom Coyne Golf Writer Profile](https://crbgc-philoserf.flowershow.me/Tom%20Coyne%20Golf%20Writer%20Profile): Profile of Tom Coyne: MFA novelist, author of the "Course Called" trilogy, and editor of The Golfer''s Journal.
 - [Tom Doak Course Chronology](https://crbgc-philoserf.flowershow.me/Tom%20Doak%20Course%20Chronology): Chronological list of all 18-hole original Tom Doak / Renaissance Golf Design courses from 1989 to 2026.
 - [Walkable Public Golf Courses Ranked](https://crbgc-philoserf.flowershow.me/Walkable%20Public%20Golf%20Courses%20Ranked): Force-ranked list of top walkable public golf courses weighted by walking policy, terrain, routing, and course quality.
+- [Walking Golfers Society](https://crbgc-philoserf.flowershow.me/Walking%20Golfers%20Society): Kindred-club note on the Walking Golfers Society — a one-principle society built around the conviction that the game is meant for walking.
 

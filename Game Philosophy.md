@@ -19,4 +19,4 @@ Drafts on what golf is for, what modernization is taking from it, and how to rec
 - [[Modernization's Corruption of Golf]]
 - [[GB&I vs American Golf Culture]]
 
-Playing alone is its own thread of this argument: see [[Solo Golf]].
+Playing alone is its own thread of this argument: see [[Solo Golf]]. The clubs and communities that share this argument, from different angles, are gathered under [[Like-Minded Clubs]].

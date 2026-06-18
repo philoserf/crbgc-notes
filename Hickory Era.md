@@ -24,3 +24,5 @@ Notes on the hickory-shaft era of golf—roughly 1830s through the late 1920s—
 - [[Society of Hickory Golfers Overview]]
 - [[Roger Hill Hickory Golf Profile]]
 - [[Tad Moore Hickory Golf Clubs]]
+
+The Society of Hickory Golfers and the walking-golf fellowship that grew up beside it sit among our [[Like-Minded Clubs]].
