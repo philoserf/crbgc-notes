@@ -29,6 +29,7 @@ The club's formal/governance site (bylaws, minutes, notices, news) lives in the 
 
 ```bash
 task fmt    # prettier --write across all markdown (honors .gitignore + .prettierignore)
+task llms   # regenerate llms.txt from note frontmatter (run before publishing)
 task check  # alias for fmt; placeholder for future checks
 ```
 
@@ -47,6 +48,7 @@ The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically
 
 - `config.json`—Flowershow site config: title, nav (one link per primary index hub), footer, theme (`letterpress`, light-only). Adding a topic area means a new index note (tagged `index`) and, if it belongs in the navbar, a nav entry here.
 - `custom.css`—theme overrides (green accent, serif body). Formatted/linted by Biome.
+- `llms.txt`—generated, not hand-edited. `task llms` runs `.scripts/gen-llms.py`, which rebuilds it from `config.json` (title, blurb, hub order from nav) and each note's frontmatter (titles, descriptions, `index` tag). Flowershow serves it at `/llms.txt`. Run `task llms` after adding, renaming, or re-describing notes, before publishing. The script's exclude list mirrors the plugin's `excludePatterns`—keep them in sync.
 - Publish excludes live in the plugin's `excludePatterns` (regex on vault-relative paths): currently `CLAUDE.md`, and anything starting `_`, `Drafts/`, or `Private/`. Anything else in the vault publishes.
 
 ### Backlog

@@ -11,6 +11,11 @@ tasks:
     cmds:
       - prettier --list-different --ignore-unknown --write .
 
+  llms:
+    desc: Regenerate llms.txt from note frontmatter
+    cmds:
+      - python3 .scripts/gen-llms.py
+
   check:
     desc: Run all formatting checks
     deps: [fmt]
