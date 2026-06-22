@@ -18,7 +18,6 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 ## All notes
 
 - [American Golf Writing, 1950–1970](https://crbgc-philoserf.flowershow.me/American%20Golf%20Writing%2C%201950%E2%80%931970): Covers the key figures, publications, and three modes of golf writing from 1950–1970, centered on Herbert Warren Wind.
-- [Broken Tee Society](https://crbgc-philoserf.flowershow.me/Broken%20Tee%20Society): Kindred-club note on the Broken Tee Society — The Golfer's Journal's membership community, an ally on the C&RBGC's editorial side.
 - [Colonel Bogey and the Bogey Competition](https://crbgc-philoserf.flowershow.me/Colonel%20Bogey%20and%20the%20Bogey%20Competition): How the 1890s ground score became Colonel Bogey, how bogey drifted from good score to one over par, and why the C&RBGC plays match play against him.
 - [Coore Crenshaw Course Portfolio](https://crbgc-philoserf.flowershow.me/Coore%20Crenshaw%20Course%20Portfolio): Comprehensive list of Coore Crenshaw golf course designs, renovations, 9-hole additions, and Bill Coore's pre-partnership work.
 - [Dream Golf & Cabot Portfolio](https://crbgc-philoserf.flowershow.me/Dream%20Golf%20%26%20Cabot%20Portfolio): Complete property listing for Mike Keiser's Dream Golf and Cabot Collection, including courses, architects, and dates.
@@ -57,8 +56,8 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 - [Solo Golf Book Review](https://crbgc-philoserf.flowershow.me/Solo%20Golf%20Book%20Review): Gary Belsky's 2026 book argues solo golf rounds are the game's purest form, reviewed for its merits and overreach.
 - [Solo Play in Golf History](https://crbgc-philoserf.flowershow.me/Solo%20Play%20in%20Golf%20History): Traces how solo golf evolved from unregulated origins on Scottish links to a persistent but non-default form of play.
 - [Tad Moore Hickory Golf Clubs](https://crbgc-philoserf.flowershow.me/Tad%20Moore%20Hickory%20Golf%20Clubs): Overview of Tad Moore Golf's hickory-shafted club reproductions, their craft, niche market, and role in competitive hickory golf.
+- [The Golfer's Journal](https://crbgc-philoserf.flowershow.me/The%20Golfer%27s%20Journal): Note on The Golfer's Journal — the member-supported quarterly of long-form golf writing and photography, and its Broken Tee Society community.
 - [Tom Coyne Golf Writer Profile](https://crbgc-philoserf.flowershow.me/Tom%20Coyne%20Golf%20Writer%20Profile): Profile of Tom Coyne: MFA novelist, author of the "Course Called" trilogy, and editor of The Golfer''s Journal.
 - [Tom Doak Course Chronology](https://crbgc-philoserf.flowershow.me/Tom%20Doak%20Course%20Chronology): Chronological list of all 18-hole original Tom Doak / Renaissance Golf Design courses from 1989 to 2026.
 - [Walkable Public Golf Courses Ranked](https://crbgc-philoserf.flowershow.me/Walkable%20Public%20Golf%20Courses%20Ranked): Force-ranked list of top walkable public golf courses weighted by walking policy, terrain, routing, and course quality.
-- [Walking Golfers Society](https://crbgc-philoserf.flowershow.me/Walking%20Golfers%20Society): Kindred-club note on the Walking Golfers Society — a one-principle society built around the conviction that the game is meant for walking.
 

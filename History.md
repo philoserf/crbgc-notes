@@ -22,3 +22,4 @@ Scottish origins, the American game's arc, public-course history, and the writer
 - [[Golf's Transition from Hickory to Steel Shafts]]
 - [[American Golf Writing, 1950–1970]]
 - [[Tom Coyne Golf Writer Profile]]
+- [[The Golfer's Journal]]

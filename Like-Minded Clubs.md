@@ -11,19 +11,11 @@ date: 2026-06-18
 lastmod: 2026-06-18
 ---
 
-The Common & Recent Bogey Golf Club is small enough to be lonely, and the world is full of golfers who believe more or less what we believe: that the game is meant for walking, that a bogey is an honest result, that the architecture is half the pleasure, and that none of it requires the royal-and-ancient apparatus to be worth doing. These are the clubs and communities we count as fellow travelers. Mark belongs, or has belonged, to all of them; the notes below are our own reckoning of each, not theirs.
+The Common & Recent Bogey Golf Club is small enough to be lonely, and the world is full of golfers who believe more or less what we believe: that the game is meant for walking, that a bogey is an honest result, that the architecture is half the pleasure, and that none of it requires the royal-and-ancient apparatus to be worth doing. These are the clubs we count as fellow travelers. Mark belongs, or has belonged, to each; the notes below are our own reckoning of them, not theirs.
 
-The two that share our register most closely—societies that take a bit seriously, with a straight face:
+- [[Society of Hickory Golfers]]—the society whose register is closest to ours: a volunteer body that bound itself to standards, in earnest, over a game played for pleasure.
+- [[Fried Egg Golf Club]]—the editorial and municipal-golf ally, for whom the architecture is half the game and the common course is worth fighting for.
+- [[Shivas Irons Society]]—the spirit-over-score argument made into a society; the contemplative end of the belief that golf is worth more than its card.
+- [[Random Golf Club]]—the populist end of that same belief, leading with the plainest version of the creed: there is room for everyone on the course.
 
-- [[Society of Hickory Golfers]]
-- [[Walking Golfers Society]]
-
-The two that share our editorial wavelength—architecture, storytelling, the common course:
-
-- [[Fried Egg Golf Club]]
-- [[Broken Tee Society]]
-
-And the two that share the underlying argument, if not the register—that golf is for everyone, and worth more than its score:
-
-- [[Shivas Irons Society]]
-- [[Random Golf Club]]
+Two former entries have moved off this list: the walking-golf society we once counted here is no longer what it was, and [[The Golfer's Journal]]—once represented by its Broken Tee Society—belongs among publications rather than clubs.
