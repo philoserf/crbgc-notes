@@ -12,6 +12,7 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 - [Rules of Golf Editions](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%20Editions): Index of codified Rules of Golf editions from 1744 to the modern consolidated text.
 - [Course Architecture](https://crbgc-philoserf.flowershow.me/Course%20Architecture): Index linking design principles and key minimalist golf architects including Coore-Crenshaw, Hanse, and Doak.
 - [Courses to Play](https://crbgc-philoserf.flowershow.me/Courses%20to%20Play): Index of curated golf course lists focused on walkable designs and Michigan-area courses.
+- [Annual Traditions](https://crbgc-philoserf.flowershow.me/Annual%20Traditions): Index of the Common & Recent Bogey Golf Club's fixed occasions—the tributes, contests, and celebrations that give the Club year its shape.
 - [Like-Minded Clubs](https://crbgc-philoserf.flowershow.me/Like-Minded%20Clubs): Fellow societies and communities the C&RBGC counts as kin — clubs that take the common, walking, spirit-over-score game seriously.
 - [Solo Golf](https://crbgc-philoserf.flowershow.me/Solo%20Golf): Index of notes on solo golf's long history as a legitimate and continuous tradition in the game.
 
@@ -19,9 +20,12 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 
 - [American Golf Writing, 1950–1970](https://crbgc-philoserf.flowershow.me/American%20Golf%20Writing%2C%201950%E2%80%931970): Covers the key figures, publications, and three modes of golf writing from 1950–1970, centered on Herbert Warren Wind.
 - [Colonel Bogey and the Bogey Competition](https://crbgc-philoserf.flowershow.me/Colonel%20Bogey%20and%20the%20Bogey%20Competition): How the 1890s ground score became Colonel Bogey, how bogey drifted from good score to one over par, and why the C&RBGC plays match play against him.
+- [Commons Day](https://crbgc-philoserf.flowershow.me/Commons%20Day): The Club's annual round on common or public ground, in tribute to golf's birthright as a game played on land open to anyone.
 - [Coore Crenshaw Course Portfolio](https://crbgc-philoserf.flowershow.me/Coore%20Crenshaw%20Course%20Portfolio): Comprehensive list of Coore Crenshaw golf course designs, renovations, 9-hole additions, and Bill Coore's pre-partnership work.
+- [Dew Sweeper Championship](https://crbgc-philoserf.flowershow.me/Dew%20Sweeper%20Championship): The Club's sunrise tournament near the summer solstice—a championship that filters for devotion rather than skill.
 - [Dream Golf & Cabot Portfolio](https://crbgc-philoserf.flowershow.me/Dream%20Golf%20%26%20Cabot%20Portfolio): Complete property listing for Mike Keiser's Dream Golf and Cabot Collection, including courses, architects, and dates.
 - [Early American Golf's Decline](https://crbgc-philoserf.flowershow.me/Early%20American%20Golf%27s%20Decline): How colonial-era golf clubs in Charleston and Savannah faded after 1811, leaving a 70-year gap before the sport revived.
+- [Founders' Day](https://crbgc-philoserf.flowershow.me/Founders%27%20Day): The Club's annual tribute to Mark Ayers and Dean Chase, and to the founding conviction that a bogey is an honest result.
 - [Fried Egg Golf Club](https://crbgc-philoserf.flowershow.me/Fried%20Egg%20Golf%20Club): Kindred-club note on Fried Egg Golf and its members' club — the architecture-and-municipal-golf ally of the C&RBGC's editorial side.
 - [GB&I vs American Golf Culture](https://crbgc-philoserf.flowershow.me/GB%26I%20vs%20American%20Golf%20Culture): Contrasts British and American golf club traditions across competition, pace, access, and format to propose a hybrid bogey club model.
 - [Golden Age Walking Courses Near Grand Rapids](https://crbgc-philoserf.flowershow.me/Golden%20Age%20Walking%20Courses%20Near%20Grand%20Rapids): Force-ranked list of 13 minimalist/Golden Age walking courses within ~6 hours of Grand Rapids, with drive times and caddie notes.
@@ -57,8 +61,10 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 - [Solo Golf Book Review](https://crbgc-philoserf.flowershow.me/Solo%20Golf%20Book%20Review): Gary Belsky's 2026 book argues solo golf rounds are the game's purest form, reviewed for its merits and overreach.
 - [Solo Play in Golf History](https://crbgc-philoserf.flowershow.me/Solo%20Play%20in%20Golf%20History): Traces how solo golf evolved from unregulated origins on Scottish links to a persistent but non-default form of play.
 - [Tad Moore Hickory Golf Clubs](https://crbgc-philoserf.flowershow.me/Tad%20Moore%20Hickory%20Golf%20Clubs): Overview of Tad Moore Golf's hickory-shafted club reproductions, their craft, niche market, and role in competitive hickory golf.
+- [The Colonel's Cup](https://crbgc-philoserf.flowershow.me/The%20Colonel%27s%20Cup): The Club's season-long bogey championship, awarded for the best aggregate margin against Colonel Bogey.
 - [The Golfer's Journal](https://crbgc-philoserf.flowershow.me/The%20Golfer%27s%20Journal): Note on The Golfer's Journal — the member-supported quarterly of long-form golf writing and photography, and its Broken Tee Society community.
 - [Tom Coyne Golf Writer Profile](https://crbgc-philoserf.flowershow.me/Tom%20Coyne%20Golf%20Writer%20Profile): Profile of Tom Coyne: MFA novelist, author of the "Course Called" trilogy, and editor of The Golfer''s Journal.
 - [Tom Doak Course Chronology](https://crbgc-philoserf.flowershow.me/Tom%20Doak%20Course%20Chronology): Chronological list of all 18-hole original Tom Doak / Renaissance Golf Design courses from 1989 to 2026.
 - [Walkable Public Golf Courses Ranked](https://crbgc-philoserf.flowershow.me/Walkable%20Public%20Golf%20Courses%20Ranked): Force-ranked list of top walkable public golf courses weighted by walking policy, terrain, routing, and course quality.
+- [Zen Juice Appreciation Day](https://crbgc-philoserf.flowershow.me/Zen%20Juice%20Appreciation%20Day): The Club's annual, tongue-in-cheek celebration of course-side scotch and the calm it lends a shaky stroke.
 
