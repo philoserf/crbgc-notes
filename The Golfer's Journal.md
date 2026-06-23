@@ -1,12 +1,12 @@
 ---
-title: The Golfer's Journal
+title: "The Golfer's Journal"
 description: "Note on The Golfer's Journal — the member-supported quarterly of long-form golf writing and photography, and its Broken Tee Society community."
 tags:
   - golf-media
   - golf-writing
 created: 2026-06-18
 date: 2026-06-18
-lastmod: 2026-06-18
+lastmod: 2026-06-22
 ---
 
 [The Golfer's Journal](https://www.golfersjournal.com/) is the most ambitious of the current crop of golf magazines: a member-supported quarterly that has staked its whole proposition on long-form writing and photography, printed well on heavy paper, with no newsstand presence and almost no advertising to answer to. The wager is that enough golfers want the game written about with patience and care to pay for it directly, and a decade in, the wager has held. Tom Coyne—the writer behind _A Course Called Scotland_ and _A Course Called America_—hosts its podcast, which tells you the company it keeps; see [[Tom Coyne Golf Writer Profile]].
