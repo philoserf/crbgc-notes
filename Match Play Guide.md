@@ -60,7 +60,7 @@ Handicap allowances vary by format and by what the committee sets—singles is t
 - **Singles**—one against one, the purest version.
 - **Foursomes** (alternate shot)—two-player sides share one ball, alternating shots, with players alternating the tee on odd and even holes. Demanding and intimate; you live with your partner's misses and they with yours.
 - **Four-ball** (better ball)—each of the four plays their own ball, and each side counts its lower score on the hole. More forgiving, because either partner can carry a hole.
-- **Greensomes** and other hybrids—both partners drive, then choose one ball and alternate in; a gentler cousin of foursomes.
+- **Greensomes** and other hybrids—both partners drive, then choose one ball and alternate in; a gentler cousin of foursomes.[^greensomes]
 
 The Ryder Cup template—foursomes, four-ball, then singles—is the classic way to build a team event out of these pieces.
 
@@ -77,3 +77,5 @@ Concede putts at a reasonable pace and without theater. Announce the match score
 ---
 
 Match play strips golf back to its argument: two people, eighteen holes, one at a time. You can even play it against a fixed score rather than a person—see [[Colonel Bogey and the Bogey Competition]] for the club's match against the Colonel. For more on why that original orientation is worth recovering, see [[Game Philosophy]] and [[Golf's Original Constraints]].
+
+[^greensomes]: The Club's regard for greensomes sits warmer than the scramble and a notch below its blessing of foursomes. Because only the drive is selected and every later stroke is played with one ball to a real result, greensomes keeps the honest reckoning a scramble throws away; but letting a side hide its worse tee shot removes the live-with-your-partner's-drive cruelty that makes alternate shot honest. A forgiving way to pair unequal players and still play golf to the hole—tolerated, even liked, but not the Club's first reach.
