@@ -4,7 +4,9 @@
       "Bash(git fetch *)",
       "Bash(task fmt)",
       "Bash(task check)",
-      "Bash(gh search *)"
+      "Bash(gh search *)",
+      "Bash(claude mcp list)",
+      "mcp__apple-eventkit__calendar_list_events"
     ]
   }
 }
