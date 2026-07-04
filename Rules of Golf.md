@@ -1,6 +1,6 @@
 ---
 title: Rules of Golf
-description: "Covers USGA/R&A Rules of Golf (2023): game fundamentals, player conduct standards, and rule application responsibilities."
+description: "The 2023 USGA/R&A Rules of Golf—fundamentals, player conduct, and the full run of playing rules in the modern consolidated code."
 tags:
   - golf
   - player-conduct
