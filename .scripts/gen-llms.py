@@ -13,7 +13,13 @@ import sys
 import urllib.parse
 from pathlib import Path
 
-import yaml
+try:
+    import yaml
+except ImportError:
+    sys.exit(
+        "gen-llms.py needs PyYAML. The Homebrew python3 ships it; otherwise: "
+        "python3 -m pip install pyyaml"
+    )
 
 BASE = "https://crbgc-philoserf.flowershow.me"
 GOVERNANCE_SITE = "https://crbgc.org"
@@ -22,15 +28,18 @@ ROOT = Path(__file__).resolve().parent.parent
 
 # The Flowershow plugin's excludePatterns is the single source of truth for
 # what publishes. Its config is gitignored (it holds a token), so fall back
-# to a mirror of the list when it is absent; the mirror only needs the
-# patterns that can match *.md at the vault root.
+# to a mirror of that list when it is absent. Only patterns that can match
+# *.md at the vault root have any effect here, but the full list is kept so
+# the mirror stays a recognizable copy of the plugin's.
 PLUGIN_DATA = ROOT / ".obsidian" / "plugins" / "flowershow" / "data.json"
 FALLBACK_PATTERNS = (
     r"^CLAUDE\.md$",
     r"^_",
     r"^Drafts/",
     r"^Private/",
-    r"Rules of Golf\.md",
+    r"^Taskfile\.yml$",
+    r"^crbgc\.code-workspace$",
+    r"^Rules of Golf\.md$",
 )
 
 
@@ -53,7 +62,9 @@ def excluded(path: str) -> bool:
 
 def frontmatter(path: Path) -> dict:
     text = path.read_text(encoding="utf-8")
-    m = re.match(r"^---\n(.*?)\n---", text, re.S)
+    # Close only on a standalone --- or ... line, so a ----prefixed line
+    # inside a value cannot truncate the block.
+    m = re.match(r"\A---\n(.*?)\n(?:---|\.\.\.)[ \t]*(?:\n|\Z)", text, re.S)
     if not m:
         return {}
     try:
@@ -66,7 +77,9 @@ def frontmatter(path: Path) -> dict:
     d = {}
     for key in ("title", "description"):
         if data.get(key) is not None:
-            d[key] = str(data[key]).strip()
+            # Collapse whitespace so a multi-line YAML scalar cannot break
+            # the one-line-per-note llms.txt format.
+            d[key] = " ".join(str(data[key]).split())
     tags = data.get("tags") or []
     if isinstance(tags, str):
         tags = [tags]

@@ -47,7 +47,7 @@ The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically
 ### Site Configuration
 
 - `config.json`—Flowershow site config: title, nav (one link per primary index hub), footer, theme (`letterpress`, light-only). Adding a topic area means a new index note (tagged `index`) and, if it belongs in the navbar, a nav entry here.
-- `llms.txt`—generated, not hand-edited. `task llms` runs `.scripts/gen-llms.py`, which rebuilds it from `config.json` (title, blurb, hub order from nav) and each note's frontmatter (titles, descriptions, `index` tag). Flowershow serves it at `/llms.txt`. Run `task llms` after adding, renaming, or re-describing notes, before publishing. The script reads the plugin's `excludePatterns` directly, with a mirrored fallback for machines without the plugin config—keep the fallback in sync.
+- `llms.txt`—generated, not hand-edited. `task llms` runs `.scripts/gen-llms.py`, which rebuilds it from `config.json` (title, blurb, hub order from nav) and each note's frontmatter (titles, descriptions, `index` tag). Flowershow serves it at `/llms.txt`. Run `task llms` after adding, renaming, or re-describing notes, before publishing. The script reads the plugin's `excludePatterns` directly; a copy inside the script serves as fallback on machines without the plugin config (only its `*.md` root patterns matter there)—update the copy when the plugin list changes.
 - Publish excludes live in the plugin's `excludePatterns` (regex on vault-relative paths): currently `CLAUDE.md`, `Rules of Golf.md`, `Taskfile.yml`, `crbgc.code-workspace`, and anything starting `_`, `Drafts/`, or `Private/`. Anything else in the vault publishes.
 
 ### Backlog
