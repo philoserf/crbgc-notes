@@ -6,12 +6,12 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 
 ## Topics
 
-- [Game Philosophy](https://crbgc-philoserf.flowershow.me/Game%20Philosophy): Index of drafts on golf's purpose, what modernization has corrupted, and how to recover the game's original spirit.
+- [Game Philosophy](https://crbgc-philoserf.flowershow.me/Game%20Philosophy): Index of essays on golf's purpose, what modernization has corrupted, how to recover the game's original spirit, and the formats the Club plays.
 - [History](https://crbgc-philoserf.flowershow.me/History): Index linking notes on golf's Scottish origins, American development, public courses, equipment eras, and golf writing.
-- [Hickory Era](https://crbgc-philoserf.flowershow.me/Hickory%20Era): Index of notes covering hickory-shaft golf (1830s–1920s), including clubs, rules, history, and modern play.
+- [Hickory Era](https://crbgc-philoserf.flowershow.me/Hickory%20Era): Index of notes covering hickory-shaft golf (1830s to about 1935), including clubs, rules, history, and modern play.
 - [Rules of Golf Editions](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%20Editions): Index of codified Rules of Golf editions from 1744 to the modern consolidated text.
-- [Course Architecture](https://crbgc-philoserf.flowershow.me/Course%20Architecture): Index linking design principles and key minimalist golf architects including Coore-Crenshaw, Hanse, and Doak.
-- [Courses to Play](https://crbgc-philoserf.flowershow.me/Courses%20to%20Play): Index of curated golf course lists focused on walkable designs and Michigan-area courses.
+- [Course Architecture](https://crbgc-philoserf.flowershow.me/Course%20Architecture): Index linking design principles and key minimalist golf architects including Coore & Crenshaw, Hanse, and Doak.
+- [Courses to Play](https://crbgc-philoserf.flowershow.me/Courses%20to%20Play): Index of curated golf course lists—links courses, walkable rankings, Michigan golf, and the Keiser resort portfolios.
 - [Annual Traditions](https://crbgc-philoserf.flowershow.me/Annual%20Traditions): Index of the Common & Recent Bogey Golf Club's fixed occasions—the tributes, contests, and celebrations that give the Club year its shape.
 - [Like-Minded Clubs](https://crbgc-philoserf.flowershow.me/Like-Minded%20Clubs): Fellow societies and communities the C&RBGC counts as kin — clubs that take the common, walking, spirit-over-score game seriously.
 - [Solo Golf](https://crbgc-philoserf.flowershow.me/Solo%20Golf): Index of notes on solo golf's long history as a legitimate and continuous tradition in the game.
@@ -28,7 +28,7 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 - [Founders' Day](https://crbgc-philoserf.flowershow.me/Founders%27%20Day): The Club's annual tribute to Mark Ayers and Dean Chase, and to the founding conviction that a bogey is an honest result.
 - [Fried Egg Golf Club](https://crbgc-philoserf.flowershow.me/Fried%20Egg%20Golf%20Club): Kindred-club note on Fried Egg Golf and its members' club — the architecture-and-municipal-golf ally of the C&RBGC's editorial side.
 - [GB&I vs American Golf Culture](https://crbgc-philoserf.flowershow.me/GB%26I%20vs%20American%20Golf%20Culture): Contrasts British and American golf club traditions across competition, pace, access, and format to propose a hybrid bogey club model.
-- [Golden Age Walking Courses Near Grand Rapids](https://crbgc-philoserf.flowershow.me/Golden%20Age%20Walking%20Courses%20Near%20Grand%20Rapids): Force-ranked list of 13 minimalist/Golden Age walking courses within ~6 hours of Grand Rapids, with drive times and caddie notes.
+- [Golden Age Walking Courses Near Grand Rapids](https://crbgc-philoserf.flowershow.me/Golden%20Age%20Walking%20Courses%20Near%20Grand%20Rapids): Force-ranked list of minimalist/Golden Age walking courses within ~6 hours of Grand Rapids, with drive times and ferry logistics.
 - [Golf Course Design Principles](https://crbgc-philoserf.flowershow.me/Golf%20Course%20Design%20Principles): Eight principles prioritizing playability, walkability, pace, and simplicity in golf course design.
 - [Golf Rules History 1830s to Hickory Era](https://crbgc-philoserf.flowershow.me/Golf%20Rules%20History%201830s%20to%20Hickory%20Era): Traces continuity in golf rules from Scotland's 1829 St Andrews code through the U.S. hickory era of the 1910s–1930s.
 - [Golf's Original Constraints](https://crbgc-philoserf.flowershow.me/Golf%27s%20Original%20Constraints): Early golf's rules and tools created difficulty and richness, while modern innovations erode the game's vernacular origins.
@@ -45,16 +45,16 @@ A digital garden by Mark Ayers — the informal, editorial companion to the Comm
 - [Michigan Golf](https://crbgc-philoserf.flowershow.me/Michigan%20Golf): Why Michigan's glacial landforms make it an underrated golf destination, with Golfweek's top-20 ranking as the evidence.
 - [Minimalist Golf Architecture School](https://crbgc-philoserf.flowershow.me/Minimalist%20Golf%20Architecture%20School): Genealogy of minimalist and Golden Age revival golf architects from Pete Dye through Doak, Coore, Hanse, and their protégés.
 - [Modernization's Corruption of Golf](https://crbgc-philoserf.flowershow.me/Modernization%27s%20Corruption%20of%20Golf): Argues that steel shafts, carts, television, residential development, and the equipment arms race have eroded golf's essential character.
-- [North American Links Courses](https://crbgc-philoserf.flowershow.me/North%20American%20Links%20Courses): A list of links-style golf courses across North America, with their city and state/province.
-- [C&RBGC](https://crbgc-philoserf.flowershow.me/README): README for working notes on golf history, architecture, hickory-era play, and the C&RBGC walking golf fellowship.
+- [North American Links Courses](https://crbgc-philoserf.flowershow.me/North%20American%20Links%20Courses): Links-style golf courses across North America, listed with their city and state or province.
+- [C&RBGC](https://crbgc-philoserf.flowershow.me/README): Working notes on golf history, architecture, and hickory-era play, from the Common & Recent Bogey Golf Club walking fellowship.
 - [Random Golf Club](https://crbgc-philoserf.flowershow.me/Random%20Golf%20Club): Kindred-club note on the Random Golf Club — the populist 'room for everyone' community the C&RBGC counts as its on-ramp cousin.
 - [Recovering Golf's Original Orientation](https://crbgc-philoserf.flowershow.me/Recovering%20Golf%27s%20Original%20Orientation): Argues that golf has drifted from its roots and outlines practical ways to recover its original spirit of walking, simplicity, and connection.
 - [Roger Hill Hickory Golf Profile](https://crbgc-philoserf.flowershow.me/Roger%20Hill%20Hickory%20Golf%20Profile): Profile of Roger Hill: Grand Rapids photographer turned hickory golfer, SoHG co-founder, and Michigan Hickory Tour commissioner.
 - [Rules of Golf 1744](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201744): The 13 original rules of golf written by the Gentlemen Golfers of Leith in 1744, with a 1758 amendment.
 - [Rules of Golf 1858](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201858): The 1858 Royal and Ancient Golf Club of St. Andrews rules covering play, teeing, hazards, and ball handling.
 - [Rules of Golf 1891](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201891): The 1891 R&A rules covering stroke play, teeing, hazards, ball handling, and match format.
-- [Rules of Golf 1925](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201925): The 1925 amended Rules of Golf as approved by the Royal and Ancient Golf Club of St. Andrews.
-- [Rules of Golf 1960](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201960): Full text of the 1960 Rules of Golf as approved by the R&A and USGA, covering etiquette, priority, and definitions.
+- [Rules of Golf 1925](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201925): Full text of the Rules of Golf as approved by the R&A in 1920 and amended in 1925, covering definitions, general rules, and medal play.
+- [Rules of Golf 1960](https://crbgc-philoserf.flowershow.me/Rules%20of%20Golf%201960): Full text of the 1960 Rules of Golf as approved by the R&A and USGA—etiquette, definitions, and the complete rules of play.
 - [Scottish Golf in the Regency Era](https://crbgc-philoserf.flowershow.me/Scottish%20Golf%20in%20the%20Regency%20Era): Overview of Scottish golf clubs, course layouts, social culture, and institutional decline during the Regency period (c. 1811–1820).
 - [Scrambles](https://crbgc-philoserf.flowershow.me/Scrambles): The Club's position on the scramble—affectionate disdain for the format, genuine respect for its everyman social availability.
 - [Shivas Irons Society](https://crbgc-philoserf.flowershow.me/Shivas%20Irons%20Society): Kindred-club note on the Shivas Irons Society — the spirit-over-score argument made into a society, now more pilgrimage than community.

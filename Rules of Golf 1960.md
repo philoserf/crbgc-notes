@@ -1,6 +1,6 @@
 ---
 title: Rules of Golf 1960
-description: Full text of the 1960 Rules of Golf as approved by the R&A and USGA, covering etiquette, priority, and definitions.
+description: Full text of the 1960 Rules of Golf as approved by the R&A and USGA—etiquette, definitions, and the complete rules of play.
 tags:
   - golf
   - royal-and-ancient

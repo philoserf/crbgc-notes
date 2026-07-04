@@ -1,6 +1,6 @@
 ---
 title: Course Architecture
-description: Index linking design principles and key minimalist golf architects including Coore-Crenshaw, Hanse, and Doak.
+description: Index linking design principles and key minimalist golf architects including Coore & Crenshaw, Hanse, and Doak.
 tags:
   - course-designers
   - golf-architecture

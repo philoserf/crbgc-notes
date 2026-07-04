@@ -1,6 +1,6 @@
 ---
 title: Hickory Era
-description: Index of notes covering hickory-shaft golf (1830s–1920s), including clubs, rules, history, and modern play.
+description: Index of notes covering hickory-shaft golf (1830s to about 1935), including clubs, rules, history, and modern play.
 tags:
   - golf-history
   - hickory-golf
@@ -8,7 +8,7 @@ tags:
   - vintage-golf
 created: 2026-06-01
 date: 2026-05-26
-lastmod: 2026-06-12
+lastmod: 2026-07-03
 ---
 
 Notes on the hickory-shaft era of golf—roughly 1830s through the late 1920s—and getting started playing it today.

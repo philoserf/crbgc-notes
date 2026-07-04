@@ -1,6 +1,6 @@
 ---
 title: North American Links Courses
-description: A list of links-style golf courses across North America, with their city and state/province.
+description: Links-style golf courses across North America, listed with their city and state or province.
 tags:
   - golf
   - links-courses

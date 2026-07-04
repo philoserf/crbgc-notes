@@ -1,6 +1,6 @@
 ---
 title: Courses to Play
-description: Index of curated golf course lists focused on walkable designs and Michigan-area courses.
+description: "Index of curated golf course lists—links courses, walkable rankings, Michigan golf, and the Keiser resort portfolios."
 tags:
   - course-reviews
   - golf

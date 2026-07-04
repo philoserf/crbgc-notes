@@ -1,6 +1,6 @@
 ---
 title: Golden Age Walking Courses Near Grand Rapids
-description: Force-ranked list of 13 minimalist/Golden Age walking courses within ~6 hours of Grand Rapids, with drive times and caddie notes.
+description: Force-ranked list of minimalist/Golden Age walking courses within ~6 hours of Grand Rapids, with drive times and ferry logistics.
 tags:
   - course-design
   - golden-age-golf
