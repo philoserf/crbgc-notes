@@ -33,7 +33,7 @@ task llms   # regenerate llms.txt from note frontmatter (run before publishing)
 task check  # alias for fmt; placeholder for future checks
 ```
 
-Prettier is the only markdown toolchain—installed globally via Homebrew on this machine. Prettier reads `.gitignore` and `.prettierignore` by default; `.prettierignore` excludes `.obsidian/` (per-machine editor state) and `.task/` (Taskfile cache). `biome.json` covers only `custom.css`. Run `task check` before committing markdown changes.
+Prettier is the only toolchain—installed globally via Homebrew on this machine. Prettier reads `.gitignore` and `.prettierignore` by default; `.prettierignore` excludes `.obsidian/` (per-machine editor state) and `.task/` (Taskfile cache). Run `task check` before committing markdown changes.
 
 The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically authored in Obsidian and committed from the same working tree. The Obsidian Linter plugin rewrites files on edit (alphabetizes tags, normalizes heading case and em-dash spacing, escapes literal `$`)—match its output rather than fighting it.
 
@@ -47,9 +47,8 @@ The directory is also an Obsidian vault (`.obsidian/`), so markdown is typically
 ### Site Configuration
 
 - `config.json`—Flowershow site config: title, nav (one link per primary index hub), footer, theme (`letterpress`, light-only). Adding a topic area means a new index note (tagged `index`) and, if it belongs in the navbar, a nav entry here.
-- `custom.css`—theme overrides (green accent, serif body). Formatted/linted by Biome.
-- `llms.txt`—generated, not hand-edited. `task llms` runs `.scripts/gen-llms.py`, which rebuilds it from `config.json` (title, blurb, hub order from nav) and each note's frontmatter (titles, descriptions, `index` tag). Flowershow serves it at `/llms.txt`. Run `task llms` after adding, renaming, or re-describing notes, before publishing. The script's exclude list mirrors the plugin's `excludePatterns`—keep them in sync.
-- Publish excludes live in the plugin's `excludePatterns` (regex on vault-relative paths): currently `CLAUDE.md`, and anything starting `_`, `Drafts/`, or `Private/`. Anything else in the vault publishes.
+- `llms.txt`—generated, not hand-edited. `task llms` runs `.scripts/gen-llms.py`, which rebuilds it from `config.json` (title, blurb, hub order from nav) and each note's frontmatter (titles, descriptions, `index` tag). Flowershow serves it at `/llms.txt`. Run `task llms` after adding, renaming, or re-describing notes, before publishing. The script reads the plugin's `excludePatterns` directly, with a mirrored fallback for machines without the plugin config—keep the fallback in sync.
+- Publish excludes live in the plugin's `excludePatterns` (regex on vault-relative paths): currently `CLAUDE.md`, `Rules of Golf.md`, `Taskfile.yml`, `crbgc.code-workspace`, and anything starting `_`, `Drafts/`, or `Private/`. Anything else in the vault publishes.
 
 ### Backlog
 
