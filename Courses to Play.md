@@ -12,7 +12,7 @@ date: 2026-05-26
 lastmod: 2026-07-03
 ---
 
-Courses worth a round, with a bias toward walking-friendly designs and Michigan proximity.
+Courses worth a round—links lists, walkability rankings, and the Keiser resort portfolios—with a bias toward walking-friendly designs and Michigan proximity.
 
 - [[North American Links Courses]]
 - [[Michigan Golf]]
