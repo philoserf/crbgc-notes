@@ -13,6 +13,8 @@ import sys
 import urllib.parse
 from pathlib import Path
 
+import yaml
+
 BASE = "https://crbgc-philoserf.flowershow.me"
 GOVERNANCE_SITE = "https://crbgc.org"
 
@@ -54,17 +56,21 @@ def frontmatter(path: Path) -> dict:
     m = re.match(r"^---\n(.*?)\n---", text, re.S)
     if not m:
         return {}
-    body = m.group(1)
+    try:
+        data = yaml.safe_load(m.group(1))
+    except yaml.YAMLError as e:
+        print(f"warning: {path.name}: unparseable frontmatter: {e}", file=sys.stderr)
+        return {}
+    if not isinstance(data, dict):
+        return {}
     d = {}
     for key in ("title", "description"):
-        km = re.search(rf"^{key}:\s*(.+)$", body, re.M)
-        if km:
-            d[key] = km.group(1).strip().strip('"').strip("'")
-    # tags: either a YAML block (- index) or an inline array ([a, index])
-    block = re.search(r"^tags:\s*\n((?:\s*-\s*.+\n?)+)", body, re.M)
-    inline = re.search(r"^tags:\s*\[(.*?)\]", body, re.M)
-    tags = block.group(1) if block else (inline.group(1) if inline else "")
-    d["index"] = bool(re.search(r"(^|[\s,\-])index(\s|,|$)", tags))
+        if data.get(key) is not None:
+            d[key] = str(data[key]).strip()
+    tags = data.get("tags") or []
+    if isinstance(tags, str):
+        tags = [tags]
+    d["index"] = "index" in tags
     return d
 
 
