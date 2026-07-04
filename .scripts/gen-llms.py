@@ -85,8 +85,8 @@ def main() -> int:
     title = config.get("title", "Notes")
     blurb = config.get("description", "").strip()
     nav_order = [
-        link["href"].lstrip("/")
-        for link in config.get("nav", {}).get("links", [])
+        nav_link["href"].lstrip("/")
+        for nav_link in config.get("nav", {}).get("links", [])
     ]
 
     notes = {}
