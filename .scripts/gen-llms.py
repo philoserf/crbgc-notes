@@ -16,22 +16,33 @@ from pathlib import Path
 BASE = "https://crbgc-philoserf.flowershow.me"
 GOVERNANCE_SITE = "https://crbgc.org"
 
-# Mirror the Flowershow plugin's excludePatterns
-# (.obsidian/plugins/flowershow/data.json, which is gitignored), plus the
-# repo's own non-note files. Keep this in sync if the plugin's list changes.
-EXCLUDE = [
-    re.compile(p)
-    for p in (
-        r"^CLAUDE\.md$",
-        r"^README\.md$",
-        r"^Rules of Golf\.md$",
-        r"^_",
-        r"^Drafts/",
-        r"^Private/",
-    )
-]
-
 ROOT = Path(__file__).resolve().parent.parent
+
+# The Flowershow plugin's excludePatterns is the single source of truth for
+# what publishes. Its config is gitignored (it holds a token), so fall back
+# to a mirror of the list when it is absent; the mirror only needs the
+# patterns that can match *.md at the vault root.
+PLUGIN_DATA = ROOT / ".obsidian" / "plugins" / "flowershow" / "data.json"
+FALLBACK_PATTERNS = (
+    r"^CLAUDE\.md$",
+    r"^_",
+    r"^Drafts/",
+    r"^Private/",
+    r"Rules of Golf\.md",
+)
+
+
+def exclude_patterns() -> list[re.Pattern]:
+    try:
+        patterns = json.loads(PLUGIN_DATA.read_text(encoding="utf-8"))[
+            "excludePatterns"
+        ]
+    except (OSError, KeyError, ValueError):
+        patterns = FALLBACK_PATTERNS
+    return [re.compile(p) for p in patterns]
+
+
+EXCLUDE = exclude_patterns()
 
 
 def excluded(path: str) -> bool:
