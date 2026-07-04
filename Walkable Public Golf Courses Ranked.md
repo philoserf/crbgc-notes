@@ -9,13 +9,13 @@ tags:
   - walking-courses
 created: 2026-05-26
 date: 2026-05-23
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 Force ranking is judgmental—the top dozen are obvious; the lower half is where reasonable people will disagree. My ranking weights three factors together: walking policy (required > preferred > permitted), terrain and routing quality for walkers (green-to-tee transitions, elevation), and the underlying quality of the golf. Public access required; semi-private with reasonable guest access included.
 
-1. Pacific Dunes, Bandon Dunes Resort, Oregon—Doak, walking-only. The platonic ideal: gentle dunes, short transitions, ocean wind, caddies. The bar everything else is measured against.
-2. Pinehurst No. 2, Pinehurst, North Carolina—Ross, restored by Coore & Crenshaw, walking-only. Sandhills topography that almost walks you.
+1. Pacific Dunes, Bandon Dunes Resort, Oregon—[[Tom Doak Course Chronology|Doak]], walking-only. The platonic ideal: gentle dunes, short transitions, ocean wind, caddies. The bar everything else is measured against.
+2. Pinehurst No. 2, Pinehurst, North Carolina—Ross, restored by [[Coore Crenshaw Course Portfolio|Coore & Crenshaw]], walking-only. Sandhills topography that almost walks you.
 3. Bandon Dunes, Bandon Resort, Oregon—David McLay Kidd, walking-only. The course that made the modern walking-resort era possible.
 4. Sand Valley, Nekoosa, Wisconsin—Coore & Crenshaw, walking-only. Wide, sandy, and routed so that the next tee is right there.
 5. Sheep Ranch, Bandon Resort, Oregon—Coore & Crenshaw, walking-only. A mile of bluff, no bunkers, and uncomplicated routing.
@@ -25,7 +25,7 @@ Force ranking is judgmental—the top dozen are obvious; the lower half is where
 9. Mammoth Dunes, Sand Valley, Wisconsin—David McLay Kidd, walking-only. Wide and visually dramatic; transitions are short.
 10. Sedge Valley, Sand Valley, Wisconsin—Doak, walking-only. A par-68 heathland; one of the shortest serious walks in modern American golf.
 11. Pinehurst No. 10, Aberdeen, North Carolina—Doak, walking-only. The most dramatic Pinehurst property, but walked routinely.
-12. Pinehurst No. 4, Pinehurst, North Carolina—Hanse, walking-only. Hanse calls it a "retrovation"; it walks like a classic.
+12. Pinehurst No. 4, Pinehurst, North Carolina—[[Hanse Golf Course Design Portfolio|Hanse]], walking-only. Hanse calls it a "retrovation"; it walks like a classic.
 13. Pebble Beach Golf Links, California—Neville & Grant, walking permitted. Gentle terrain, walking is just expensive. Worth it once.
 14. Bethpage Black, Farmingdale, New York—Tillinghast, walking-only (no carts for the able-bodied). Iconically walkable in policy; iconically punishing in execution. The defining American walking muni.
 15. Streamsong Red, Bowling Green, Florida—Coore & Crenshaw, walking-preferred. Caddie-walking encouraged across the resort.
@@ -52,4 +52,6 @@ Force ranking is judgmental—the top dozen are obvious; the lower half is where
 
 Two methodological notes. First, "walking" can mean either "you may walk" or "you must walk"; the top of this list is dominated by must-walk resorts because that's where the entire operation is designed around foot golf—caddies, looping pace, short tee-to-green transitions, lodging within walking distance. Second, terrain matters more than people admit: Bethpage Black, Erin Hills, and Whistling Straits are walking-required by policy but objectively hard walks, while Pacific Dunes and Sand Valley are pleasant walks that happen to also be elite golf. I've weighted both, which is why a few brutally hilly walking-only courses sit below gentler walking-preferred courses.
 
-Notable courses that just missed: Cabot Citrus Farms Karoo and Roost (Brooksville, FL, both walking-friendly under the new Cabot ownership), We-Ko-Pa Saguaro (Fort McDowell, AZ), Black Forest at Wilderness Valley (Gaylord, MI, Doak), High Pointe rebuilt (Williamsburg, MI, Doak, 2024), Ozarks National (Branson, MO, Coore & Crenshaw—punished only because the terrain is genuinely hard to walk), and True Blue (Pawleys Island, SC, Strantz).
+Notable courses that just missed: Cabot Citrus Farms Karoo and Roost (Brooksville, FL, both walking-friendly under the new [[Dream Golf & Cabot Portfolio|Cabot]] ownership), We-Ko-Pa Saguaro (Fort McDowell, AZ), Black Forest at Wilderness Valley (Gaylord, MI, Doak), High Pointe rebuilt (Williamsburg, MI, Doak, 2024), Ozarks National (Branson, MO, Coore & Crenshaw—punished only because the terrain is genuinely hard to walk), and True Blue (Pawleys Island, SC, Strantz).
+
+For the Midwest slice of this exercise, drive times included, see [[Golden Age Walking Courses Near Grand Rapids]].

@@ -9,10 +9,10 @@ tags:
   - vintage-golf
 created: 2026-05-26
 date: 2026-05-23
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
-- Society of Hickory Golfers  
+- [[Society of Hickory Golfers Overview|Society of Hickory Golfers]]  
   <https://www.hickorygolfers.com>  
   Community, rules standards, handicaps, and the main U.S. tournament/event network for modern hickory play.
 
@@ -24,7 +24,7 @@ lastmod: 2026-06-10
   <https://www.louisvillegolf.com>  
   One of the most established modern makers of playable hickory clubs; offers full sets and individual clubs including woods and forged irons.
 
-- Tad Moore Golf  
+- [[Tad Moore Hickory Golf Clubs|Tad Moore Golf]]  
   <https://www.tadmooregolf.com>  
   High-end handcrafted reproductions of classic hickory-era designs with strong emphasis on traditional shaping and feel.
 

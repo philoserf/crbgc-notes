@@ -9,7 +9,7 @@ tags:
   - mike-keiser
 created: 2026-05-26
 date: 2026-05-23
-lastmod: 2026-06-11
+lastmod: 2026-07-03
 ---
 
 The "Bandon Dunes team" effectively means the Mike Keiser family and the operating company they built around him, now branded as Dream Golf (run day-to-day by sons Michael Jr. and Chris Keiser). The Keisers are also co-owners with Ben Cowan-Dewar of The Cabot Collection, which is run as a separate company but shares the same design playbook and many of the same architects. Below is the working portfolio.
@@ -19,8 +19,8 @@ Dream Golf properties (Keiser family, wholly owned):
 Bandon Dunes Golf Resort, Bandon, Oregon (1999):
 
 - Bandon Dunes, 1999, David McLay Kidd
-- Pacific Dunes, 2001, Tom Doak
-- Bandon Trails, 2005, Coore & Crenshaw
+- Pacific Dunes, 2001, [[Tom Doak Course Chronology|Tom Doak]]
+- Bandon Trails, 2005, [[Coore Crenshaw Course Portfolio|Coore & Crenshaw]]
 - Old Macdonald, 2010, Doak & Jim Urbina
 - Bandon Preserve, 13-hole par-3, 2012, Coore & Crenshaw
 - Punchbowl, putting course, 2014, Doak & Urbina
@@ -59,7 +59,7 @@ Cabot Saint Lucia, Cap Estate, Saint Lucia:
 
 Cabot Highlands, Inverness, Scotland (acquired 2022; previously Castle Stuart):
 
-- Castle Stuart, 2009, Mark Parsinen & Gil Hanse (predates Cabot ownership)
+- Castle Stuart, 2009, Mark Parsinen & [[Hanse Golf Course Design Portfolio|Gil Hanse]] (predates Cabot ownership)
 - Old Petty, 2026, Doak with Clyde Johnson
 
 Cabot Citrus Farms, Brooksville, Florida (acquired 2022; formerly World Woods):

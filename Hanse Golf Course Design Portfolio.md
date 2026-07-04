@@ -9,14 +9,14 @@ tags:
   - restorations
 created: 2026-05-26
 date: 2026-05-23
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 Hanse Golf Course Design (Gil Hanse with longtime partner Jim Wagner since 1995) classifies its work in three buckets: original designs, restorations, and renovations. The combined catalog below is compiled from the firm's own project pages, Wikipedia, and recent press; restorations dominate the workload, and a handful of recent / in-progress jobs are noted.
 
 Original 18-hole designs (and notable short courses):
 
-- Stonewall (Old Course), Elverson, PA, 1992—early work while at Renaissance; co-credited with Doak by some sources, with RGD itself crediting Doak
+- Stonewall (Old Course), Elverson, PA, 1992—early work while at Renaissance; co-credited with [[Tom Doak Course Chronology|Doak]] by some sources, with RGD itself crediting Doak
 - Inniscrone Golf Club, Avondale, PA, 1998
 - Craighead Links at Crail Golfing Society, Fife, Scotland, 1998
 - Applebrook Golf Club, Malvern, PA, 2001
@@ -120,4 +120,4 @@ Renovations (heavier-handed updates, not strict restorations):
 
 Hanse is also designing virtual holes for TGL (the Tomorrow Group / TMRW indoor tour), debuting with a par-5 called Stone & Steeple in Season 2. That's screen golf, not a built course, but it's worth flagging since the firm has formally taken on the work.
 
-Two caveats on attribution: the firm's restoration credits often overlap with consulting work that stretches over many years, so the year I list is the opening of the headline phase, not necessarily the start of the master plan; and some projects (notably Stonewall Old and the early Renaissance-era work) are credited to Doak in his firm's listings and to Hanse in his, since Hanse was Doak's first employee. The Wikipedia entry, the Hanse Golf Course Design website, and the Fried Egg architect profile are the three best places to cross-check; the firm's own project page is the cleanest current source.
+Two caveats on attribution: the firm's restoration credits often overlap with consulting work that stretches over many years, so the year I list is the opening of the headline phase, not necessarily the start of the master plan; and some projects (notably Stonewall Old and the early Renaissance-era work) are credited to Doak in his firm's listings and to Hanse in his, since Hanse was Doak's first employee. The Wikipedia entry, the Hanse Golf Course Design website, and the [[Fried Egg Golf Club|Fried Egg]] architect profile are the three best places to cross-check; the firm's own project page is the cleanest current source.

@@ -9,7 +9,7 @@ tags:
   - st-andrews
 created: 2026-05-27
 date: 2026-05-27
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 ## Rules for the Game of Golf as it is Played by the Royal and Ancient Golf Club of St. Andrews over Their Links, 29 September 1891
@@ -86,3 +86,7 @@ lastmod: 2026-06-10
 8. A player should not putt at the hole when the flag is in it.
 9. The reckoning of strokes is kept by the terms 'the odd,' 'two more,' 'three more,' &c., and 'one off three,' 'one off two,' 'the like.' The reckoning of holes is kept by the terms - so many 'holes up,' or 'all even,' and so many 'to play.'
 10. Turf cut or displaced by a stroke should be at once replaced.
+
+---
+
+Part of the [[Rules of Golf Editions]] series. Previous code: [[Rules of Golf 1858]] · Next: [[Rules of Golf 1925]].

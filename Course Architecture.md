@@ -9,7 +9,7 @@ tags:
   - minimalist-architecture
 created: 2026-06-01
 date: 2026-05-26
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 Design principles and the architects whose work shapes the modern minimalist movement.
@@ -19,3 +19,5 @@ Design principles and the architects whose work shapes the modern minimalist mov
 - [[Coore Crenshaw Course Portfolio]]
 - [[Hanse Golf Course Design Portfolio]]
 - [[Tom Doak Course Chronology]]
+
+Where to actually play this school's work is the business of [[Courses to Play]].

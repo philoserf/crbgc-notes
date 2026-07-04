@@ -9,7 +9,7 @@ tags:
   - rules-of-golf
 created: 2026-05-27
 date: 2026-05-27
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 ## Rules of Golf as Approved by the Royal and Ancient Golf Club of St. Andrews, 28 September 1920, Amended 29 September 1925
@@ -711,3 +711,7 @@ The weight of the ball shall not be greater than 1.62 ounces avoirdupois, and th
 7. A player should carefully fill up all holes made by himself in a bunker.
 8. Players should see that their caddies do not injure the holes by standing close to them when the ground is soft.
 9. A player who has incurred a penalty stroke should intimate the fact to his opponent as soon as possible.
+
+---
+
+Part of the [[Rules of Golf Editions]] series. Previous code: [[Rules of Golf 1891]] · Next: [[Rules of Golf 1960]].

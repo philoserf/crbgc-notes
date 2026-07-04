@@ -8,10 +8,12 @@ tags:
   - solo-play
 created: 2026-06-01
 date: 2026-06-01
-lastmod: 2026-06-11
+lastmod: 2026-07-03
 ---
 
 The long history of playing alone—solo rounds as a legitimate, continuous thread in the game rather than a lesser way to play.
 
 - [[Solo Play in Golf History]]
 - [[Solo Golf Book Review]]
+
+Playing alone is one thread of the larger argument gathered under [[Game Philosophy]].

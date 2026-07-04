@@ -8,10 +8,10 @@ tags:
   - walking-golf
 created: 2026-06-22
 date: 2026-06-22
-lastmod: 2026-06-22
+lastmod: 2026-07-03
 ---
 
-The Club year has a shape beyond the weekly bogey match. A handful of fixed occasions mark the calendar—some solemn, most not—and together they say, as plainly as the Standing Rules do, what the Common & Recent Bogey Golf Club is for: walking, fellowship, the older spirit of the game, and a bogey taken as an honest result.
+The Club year has a shape beyond the weekly [[Colonel Bogey and the Bogey Competition|bogey match]]. A handful of fixed occasions mark the calendar—some solemn, most not—and together they say, as plainly as the Standing Rules do, what the Common & Recent Bogey Golf Club is for: walking, fellowship, the older spirit of the game, and a bogey taken as an honest result.
 
 - [[Founders' Day]]
 - [[Dew Sweeper Championship]]

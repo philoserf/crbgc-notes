@@ -8,7 +8,7 @@ tags:
   - rules
 created: 2026-05-27
 date: 2026-05-27
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 ## Articles & Laws in Playing at Golf—Gentlemen Golfers of Leith, 7 March 1744
@@ -36,3 +36,7 @@ lastmod: 2026-06-10
 The 5th, and 13th Articles of the foregoing Laws having occasioned frequent Disputes It is found Convenient That in all time Coming, the Law Shall be, That in no Case Whatever a Ball Shall be Lifted without losing a Stroke Except it is in the Scholars holes When it may be taken out teed and played with any Iron Club without losing a Stroke - And in all other Cases the Ball must be Played where it lyes Except it is at least half Covered with Water or filth When it may, if the Player Chuses be taken out Teed and Played with any Club upon Loosing a Stroke.
 
 —Thomas Boswall, Capt
+
+---
+
+Part of the [[Rules of Golf Editions]] series. Next code: [[Rules of Golf 1858]].

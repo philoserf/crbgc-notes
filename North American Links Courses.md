@@ -8,7 +8,7 @@ tags:
   - reference-list
 created: 2026-05-26
 date: 2026-02-27
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 | Club                                   |                  |                  |
@@ -51,3 +51,5 @@ lastmod: 2026-06-10
 | Wawashkamo Golf Club                   | Mackinac Island  | Michigan         |
 | Whistling Straits—Irish Course         | Haven            | Wisconsin        |
 | Whistling Straits—Straits Course       | Haven            | Wisconsin        |
+
+A good share of these are Keiser-family builds cataloged in [[Dream Golf & Cabot Portfolio]]; for how the overlap ranks on foot, see [[Walkable Public Golf Courses Ranked]].

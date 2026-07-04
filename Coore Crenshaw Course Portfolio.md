@@ -8,7 +8,7 @@ tags:
   - golf-course-design
 created: 2026-05-26
 date: 2026-05-23
-lastmod: 2026-06-11
+lastmod: 2026-07-03
 ---
 
 Drawing from the official Coore & Crenshaw portfolio page, Wikipedia's list, and recent press for 2023–2026 openings. The firm groups its work as Coore & Crenshaw original designs, 9-hole additions, renovations, plus Bill Coore's pre-partnership and solo work (he started with Pete Dye in 1972 before partnering with Crenshaw in 1986).
@@ -42,7 +42,6 @@ Coore & Crenshaw 18-hole original designs:
 - Cabot Cliffs, Inverness, Nova Scotia, 2016
 - Sand Valley, Nekoosa, WI, 2017
 - The Sandbox, 17-hole par-3, Sand Valley, Nekoosa, WI, 2018
-- Mammoth Dunes—not Coore; that's David McLay Kidd, skip
 - Ozarks National, Big Cedar Lodge, Hollister, MO, 2019
 - Sheep Ranch (Bally Bandon Sheep Ranch), Bandon, OR, 2020 (rebuilt from a 13-hole Doak original; the firm calls this its 2020 design)
 - Bougle Run, 14-hole short course at Barnbougle, Bridport, Tasmania, 2021 (some sources list 2023)
@@ -57,8 +56,8 @@ Coore & Crenshaw 18-hole original designs:
 
 In progress / announced:
 
-- Rodeo Dunes, Hudson, CO—Coore & Crenshaw 18-hole at the new Dream Golf property; preview play targeted 2026
-- Wild Spring Dunes, near Nacogdoches, TX—Coore & Crenshaw 18-hole at the new Dream Golf property, alongside a Doak 18
+- Rodeo Dunes, Hudson, CO—Coore & Crenshaw 18-hole at the new [[Dream Golf & Cabot Portfolio|Dream Golf]] property; preview play targeted 2026
+- Wild Spring Dunes, near Nacogdoches, TX—Coore & Crenshaw 18-hole at the new Dream Golf property, alongside a [[Tom Doak Course Chronology|Doak]] 18
 - Palmetto Bluff, Bluffton, SC—a new 18-hole on 500 Lowcountry acres for South Street Partners; opening targeted winter 2025–2026
 - Several additional sites under contract that the firm has not publicly confirmed
 
@@ -98,4 +97,4 @@ Ben Crenshaw pre-partnership work:
 
 - TPC Four Seasons at Las Colinas, Irving, TX, 1982—Crenshaw as player consultant with Byron Nelson and architect Jay Morrish
 
-Two notes on attribution. First, the firm's portfolio omits a handful of projects that show up in Wikipedia and the press, most visibly Trinity Forest (the Dallas club closed in 2024) and Torch Cay in the Bahamas; both are confirmed Coore & Crenshaw work. Second, on a few resort short courses the firm and the resort sometimes list slightly different opening years (the Sandbox at Sand Valley, Bougle Run at Barnbougle), which reflects preview play versus formal opening. The firm's own portfolio page at coorecrenshaw.com is the cleanest current source, and the Fried Egg and LINKS Magazine architect pages are useful for the recent and in-progress work that the firm has not yet posted.
+Two notes on attribution. First, the firm's portfolio omits a handful of projects that show up in Wikipedia and the press, most visibly Trinity Forest (the Dallas club closed in 2024) and Torch Cay in the Bahamas; both are confirmed Coore & Crenshaw work. Second, on a few resort short courses the firm and the resort sometimes list slightly different opening years (the Sandbox at Sand Valley, Bougle Run at Barnbougle), which reflects preview play versus formal opening. The firm's own portfolio page at coorecrenshaw.com is the cleanest current source, and the [[Fried Egg Golf Club|Fried Egg]] and LINKS Magazine architect pages are useful for the recent and in-progress work that the firm has not yet posted.

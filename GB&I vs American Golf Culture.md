@@ -8,14 +8,14 @@ tags:
   - golf-formats
   - handicap-system
 created: 2026-06-10
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 The cultural differences that actually matter on the ground:
 
 Competition versus recreation. GB&I club golf is organized around competition—weekly medals and Stablefords, board competitions, the monthly medal as the rhythm of club life. Your handicap exists because you compete. American club golf centers on casual rounds, standing games, and nassaus; formal competition is occasional. This is the deepest divide and everything else flows from it.
 
-Pace and format. The two-ball and foursomes (alternate shot) tradition survives in GB&I—a foursomes round in under three hours is normal at older clubs, and some still reserve times for two-balls only. America defaulted to the four-ball in carts, with the pace consequences you know.
+Pace and format. The two-ball and [[Match Play Guide|foursomes (alternate shot)]] tradition survives in GB&I—a foursomes round in under three hours is normal at older clubs, and some still reserve times for two-balls only. America defaulted to the four-ball in carts, with the pace consequences you know.
 
 Walking and caddies versus carts. Trolleys and walking remain the GB&I norm; the cart is the American norm outside a thin layer of caddie-program clubs.
 
@@ -25,7 +25,7 @@ Honesty infrastructure. GB&I culture leans on the honesty box, the unmanned star
 
 Visitor access. Most great GB&I clubs welcome visitors at a published green fee; the club is private but the course is shared. The American private club is genuinely closed.
 
-For the Common & Recent Bogey Golf Club's declaration of independence, the natural constitution writes itself from the name—a club organized around the bogey competition, which is itself the perfect synthesis: a GB&I format (play against the card, match-play scoring, pick up when the hole is lost) that suits American casual play because nobody has to finish a blow-up hole.
+For the Common & Recent Bogey Golf Club's declaration of independence, the natural constitution writes itself from the name—a club organized around the [[Colonel Bogey and the Bogey Competition|bogey competition]], which is itself the perfect synthesis: a GB&I format (play against the card, match-play scoring, pick up when the hole is lost) that suits American casual play because nobody has to finish a blow-up hole.
 
 From the R&A tradition: the weekly competition as the club's heartbeat, foursomes as the honored format, walking as default, the honesty box, visitor access at a fair fee, a one-room clubhouse with a good bar and no dining minimum, and trophies with absurdly specific names contested annually.
 

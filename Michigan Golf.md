@@ -10,7 +10,7 @@ tags:
   - travel
 created: 2026-05-26
 date: 2026-05-24
-lastmod: 2026-06-11
+lastmod: 2026-07-03
 ---
 
 The surprise is not that Michigan has great golf. The surprise is that it isn't more famous for it.
@@ -39,3 +39,5 @@ The rankings bear the geology out. Golfweek's top 20 public-access courses in th
 18. Hidden River Golf & Casting Club
 19. Diamond Springs
 20. Pine Mountain Resort (Timber Stone)
+
+For the walking-first cut of Michigan and the near-Midwest—drive times from Grand Rapids included—see [[Golden Age Walking Courses Near Grand Rapids]].

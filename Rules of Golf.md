@@ -8,7 +8,7 @@ tags:
   - sports
 created: 2026-05-27
 date: 2026-05-27
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 ## Rules of Golf as Approved by R&A Rules Limited and the United States Golf Association, effective January 2023
@@ -4515,3 +4515,7 @@ Examples of playing from a wrong place are:
   A player has not played from a wrong place in the following situations:
 - When a ball has been played from outside the teeing area in starting play of a hole or in trying to correct that mistake is not playing from a wrong place (see Rule 6.1b), or
 - When a ball has been played from where it comes to rest after the player has failed to replay a stroke when required to do so.
+
+---
+
+Part of the [[Rules of Golf Editions]] series. Previous code: [[Rules of Golf 1960]].

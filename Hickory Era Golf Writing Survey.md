@@ -9,12 +9,12 @@ tags:
   - sports-writing
 created: 2026-05-28
 date: 2026-05-26
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 ## Overview
 
-Hickory-era golf writing was unusually literary for a sport press. It ran in three modes: newspaper and magazine reportage (Bernard Darwin in The Times and Country Life, Henry Leach, O.B. Keeler, Grantland Rice); instructional books by champion players (Hutchinson, Park Jr., Vardon, Taylor, Braid, Travis, Jones); and reflective essays and golf-course-architecture writing (Sir Walter Simpson, John L. Low, Arnold Haultain, Charles Blair Macdonald, Alister MacKenzie, Robert Hunter, H.N. Wethered & Tom Simpson, P.G. Wodehouse). In his September 3, 1956 Sports Illustrated tribute "Dean of the Grand Old Game," Herbert Warren Wind called it "the sturdiest literature of any game" and credited Darwin with showing the writers who came after him how golf should be written.
+Hickory-era golf writing was unusually literary for a sport press. It ran in three modes: newspaper and magazine reportage (Bernard Darwin in The Times and Country Life, Henry Leach, O.B. Keeler, Grantland Rice); instructional books by champion players (Hutchinson, Park Jr., Vardon, Taylor, Braid, Travis, Jones); and reflective essays and golf-course-architecture writing (Sir Walter Simpson, John L. Low, Arnold Haultain, Charles Blair Macdonald, Alister MacKenzie, Robert Hunter, H.N. Wethered & Tom Simpson, P.G. Wodehouse). In his September 3, 1956 Sports Illustrated tribute "Dean of the Grand Old Game," [[American Golf Writing, 1950–1970|Herbert Warren Wind]] called it "the sturdiest literature of any game" and credited Darwin with showing the writers who came after him how golf should be written.
 
 The era's defining institutional venues split by geography. On the British side: the weekly "Golf" (1890–1899) and its successor "Golf Illustrated" (London, 1899–); "Country Life," where Darwin filed weekly columns from 1907 onward in parallel with his Times work; and "Golf Monthly" (Edinburgh, founded 1911). On the American side: "Golf" (1897, official USGA bulletin 1898–1909); "The American Golfer" (founded 1908 by Walter J. Travis, taken over by Grantland Rice in spring 1920); "Golf Illustrated" (US, 1914); and the trade journal "Golfdom" (Chicago, 1927).
 
@@ -22,7 +22,7 @@ Roughly forty distinct authors and works are surveyed below. Almost all survive 
 
 ## Key Figures and Forces
 
-The hickory era, when shafts were hickory, ran until around 1929–1935, when steel shafts were legalized and took over. It coincided with the rapid expansion of golf from Scottish links to a transatlantic middle-class pursuit, and public writing about golf grew up with that expansion, splitting into three distinct but overlapping modes.
+The hickory era, when shafts were hickory, ran until around 1929–1935, when [[Golf's Transition from Hickory to Steel Shafts|steel shafts were legalized and took over]]. It coincided with the rapid expansion of golf from Scottish links to a transatlantic middle-class pursuit, and public writing about golf grew up with that expansion, splitting into three distinct but overlapping modes.
 
 Bernard Darwin shaped reportage, his Times columns (1907–1953) and Country Life essays redefining what a sportswriter could be; the American equivalent was the Atlanta Journal's O.B. Keeler, whose three-decade chronicling of Bobby Jones is the model of the embedded-narrator sportswriter, and Grantland Rice, who fused verse, column, and editorship at The American Golfer. The amateur Horace G. Hutchinson pioneered instructional writing (1886, 1890), and Willie Park Jr., the first playing professional to write a book, broadened it with "The Game of Golf" in 1896; from there the "Great Triumvirate" (Vardon, Taylor, Braid) and a procession of American champions (Travis, Travers, Jones, Wethered) treated technique with increasing analytic precision. Essays and belles-lettres ran from Sir Walter Simpson's witty 1887 "Art of Golf" through Arnold Haultain's metaphysical 1908 "Mystery of Golf" and Wodehouse's Oldest Member stories (from 1919), culminating in a brilliant decade of golf-course-architecture writing (1920–1933) by MacKenzie, Hunter, Macdonald, Thomas, Wethered & Simpson, and posthumously MacKenzie's "Spirit of St. Andrews."
 

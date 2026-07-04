@@ -9,10 +9,10 @@ tags:
   - tom-doak
 created: 2026-05-26
 date: 2026-05-23
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
-The official Renaissance Golf Design site list stops at 2018, but Doak has completed several major courses since. Let me get the recent ones.
+The official Renaissance Golf Design site list stops at 2018, but Doak has completed several major courses since.
 
 Chronological list of original Tom Doak / Renaissance Golf Design 18-hole courses, drawn from the firm's official course list and updated with post-2018 openings from press reporting:
 
@@ -29,7 +29,7 @@ Chronological list of original Tom Doak / Renaissance Golf Design 18-hole course
 - 2000—Atlantic City Country Club, Northfield, NJ
 - 2000—The Village Club of Sands Point, Sands Point, NY
 - 2001—Pacific Dunes, Bandon, OR
-- 2002—The Sheep Ranch, Bandon, OR (original 13-hole layout; later redesigned as full 18 by Coore & Crenshaw)
+- 2002—The Sheep Ranch, Bandon, OR (original 13-hole layout; later redesigned as full 18 by [[Coore Crenshaw Course Portfolio|Coore & Crenshaw]])
 - 2003—The Rawls Course at Texas Tech University, Lubbock, TX
 - 2003—Stonewall Golf Club, North Course, Elverson, PA
 - 2004—Barnbougle Dunes Golf Links, Bridport, Tasmania (with Michael Clayton)
@@ -60,6 +60,6 @@ Chronological list of original Tom Doak / Renaissance Golf Design 18-hole course
 - 2024—Pinehurst No. 10, Aberdeen, NC (lead associate Angela Moser)
 - 2026—Old Petty at Cabot Highlands, Inverness, Scotland (with Clyde Johnson; grand opening May 2026)
 
-In progress: Wild Spring Dunes in East Texas (Dream Golf / Discovery Land), under construction as of mid-2025. There is also ongoing restoration/redesign work at Crooked Stick (reopening targeted for 2025).
+In progress: Wild Spring Dunes in East Texas ([[Dream Golf & Cabot Portfolio|Dream Golf]] / Discovery Land), under construction as of mid-2025. There is also ongoing restoration/redesign work at Crooked Stick (reopening targeted for 2025).
 
 Not included above: Doak's substantial restoration and consulting catalog (e.g., Yeamans Hall, San Francisco GC, Garden City GC, The Valley Club of Montecito, Pasatiempo, St. Louis CC, Memphis CC, Inverness, Camargo, and others) and his short-course / alternative work (e.g., the Punchbowl putting green at Bandon Dunes, the Memorial Park nine-hole at Bandon, the Old Macdonald Preserve). The Renaissance Golf Design website maintains the official "Restoration and Consulting" and "Alternative Courses" lists separately, and the firm's main "Our Design" page has not been updated past 2018, so the post-2018 entries above come from press and resort announcements rather than RGD's own list.

@@ -9,7 +9,7 @@ tags:
   - usga
 created: 2026-05-27
 date: 2026-05-27
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 ## Rules of Golf as Approved by the Royal and Ancient Golf Club of St. Andrews, Scotland and the United States Golf Association, effective 1 January 1960
@@ -1451,3 +1451,7 @@ If a competitor infringe a Rule or Local Rule so as to assist his partner's play
 ##### 9. Penalty Applies to Competitor Only
 
 In all other cases where, by the Rules of Golf, a competitor would incur a penalty, the penalty shall not apply to his partner.
+
+---
+
+Part of the [[Rules of Golf Editions]] series. Previous code: [[Rules of Golf 1925]] · Next: [[Rules of Golf]].

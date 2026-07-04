@@ -9,10 +9,10 @@ tags:
   - minimalist-design
 created: 2026-05-26
 date: 2026-05-23
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
-The minimalist and Golden Age revival lineage that runs from Pete Dye through Doak, Coore, and Hanse, then to their protégés. The names worth adding fall into a few groups.
+The minimalist and Golden Age revival lineage that runs from Pete Dye through [[Tom Doak Course Chronology|Doak]], [[Coore Crenshaw Course Portfolio|Coore]], and [[Hanse Golf Course Design Portfolio|Hanse]], then to their protégés. The names worth adding fall into a few groups.
 
 Progenitor, often left implicit:
 
@@ -73,4 +73,4 @@ International parallels often grouped with this school:
 
 Drawn loosely—anyone restoring Golden Age courses with reverence rather than imposing a signature—the list grows considerably: Drew Rogers, Lester George, Brian Silva, Ron Forse, Forrest Richardson. But the core school, the people who could credibly turn up at a roundtable with Doak, Coore, and Hanse and not look out of place, is roughly this: Whitman, DeVries, Urbina, McLay Kidd, King-Collins, WAC Golf, Mackenzie & Ebert, and the named protégés above.
 
-Two sources go deeper into the school's self-understanding. The Fried Egg's architect index profiles most of these figures with primary-source interviews; and Geoff Shackelford's writing—the older books The Golden Age of Golf Design and Grounds for Golf, plus his Substack—set most of the critical vocabulary the school now uses on itself.
+Two sources go deeper into the school's self-understanding. [[Fried Egg Golf Club|The Fried Egg]]'s architect index profiles most of these figures with primary-source interviews; and Geoff Shackelford's writing—the older books The Golden Age of Golf Design and Grounds for Golf, plus his Substack—set most of the critical vocabulary the school now uses on itself.

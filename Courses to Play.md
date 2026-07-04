@@ -9,7 +9,7 @@ tags:
   - walking-friendly
 created: 2026-06-01
 date: 2026-05-26
-lastmod: 2026-06-11
+lastmod: 2026-07-03
 ---
 
 Courses worth a round, with a bias toward walking-friendly designs and Michigan proximity.
@@ -19,3 +19,5 @@ Courses worth a round, with a bias toward walking-friendly designs and Michigan 
 - [[Golden Age Walking Courses Near Grand Rapids]]
 - [[Walkable Public Golf Courses Ranked]]
 - [[Dream Golf & Cabot Portfolio]]
+
+The architects behind most of these lists are indexed at [[Course Architecture]].

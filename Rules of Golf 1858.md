@@ -9,7 +9,7 @@ tags:
   - st-andrews
 created: 2026-05-27
 date: 2026-05-27
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 ## Rules for the Game of Golf as it is Played by the Royal and Ancient Golf Club of St. Andrews over Their Links, May 1858
@@ -34,3 +34,7 @@ lastmod: 2026-06-10
 18. Balls Splitting: If a ball split into two or more pieces, a fresh ball shall be put down in playing for a medal, without a penalty, and likewise in a match on the penalty of one stroke.
 19. Breach of Rules - Where no penalty for the infringement of a rule is specially mentioned, the loss of the hole shall be understood to be the penalty.
 20. Repairing the Links: The person appointed to take charge of keeping the links shall make new holes every Monday morning, and in such places as to preserve the putting-green in proper order.
+
+---
+
+Part of the [[Rules of Golf Editions]] series. Previous code: [[Rules of Golf 1744]] · Next: [[Rules of Golf 1891]].

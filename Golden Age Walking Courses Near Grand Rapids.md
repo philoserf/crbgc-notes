@@ -9,13 +9,13 @@ tags:
   - walking-golf
 created: 2026-05-26
 date: 2026-05-23
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
-Force-ranked, within roughly a six-hour drive of Grand Rapids, prioritizing the same minimalist / Golden Age school we've been talking about and weighting walking policy alongside design quality:
+Force-ranked, within roughly a six-hour drive of Grand Rapids, prioritizing the [[Minimalist Golf Architecture School|minimalist / Golden Age school]] and weighting walking policy alongside design quality, as in the national ranking at [[Walkable Public Golf Courses Ranked]]:
 
-1. The Lido at Sand Valley, Nekoosa, WI—Doak's recreation of C.B. Macdonald's 1914 design; mandatory caddied walk; the most authentic Golden Age walking experience in the country. About 6.5 hours by road, ~5.5 with the Muskegon–Milwaukee ferry.
-2. Sand Valley, Nekoosa, WI—Coore & Crenshaw, walking-only. The flagship of the resort.
+1. The Lido at Sand Valley, Nekoosa, WI—[[Tom Doak Course Chronology|Doak]]'s recreation of C.B. Macdonald's 1914 design; mandatory caddied walk; the most authentic Golden Age walking experience in the country. About 6.5 hours by road, ~5.5 with the Muskegon–Milwaukee ferry.
+2. Sand Valley, Nekoosa, WI—[[Coore Crenshaw Course Portfolio|Coore & Crenshaw]], walking-only. The flagship of the resort.
 3. Sedge Valley, Sand Valley—Doak heathland, par-68; one of the gentlest top-shelf walks in modern American golf.
 4. Mammoth Dunes, Sand Valley—David McLay Kidd, walking-only, generous and visually big but routes easily on foot.
 5. Whistling Straits, Straits Course, Kohler, WI—Pete Dye, walking-only with caddie. About 5 hours by road; the demanding walk on this list. ~4.5 hours.

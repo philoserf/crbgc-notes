@@ -8,7 +8,7 @@ tags:
   - rules-of-golf
 created: 2026-06-01
 date: 2026-06-01
-lastmod: 2026-06-10
+lastmod: 2026-07-03
 ---
 
 The codified rules across the centuries, from the first written code to the modern consolidated text.
@@ -19,3 +19,5 @@ The codified rules across the centuries, from the first written code to the mode
 - [[Rules of Golf 1925]]
 - [[Rules of Golf 1960]]
 - [[Rules of Golf]]
+
+For the narrative of how the codes evolved between editions, see [[Golf Rules History 1830s to Hickory Era]].
