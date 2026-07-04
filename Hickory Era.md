@@ -11,7 +11,7 @@ date: 2026-05-26
 lastmod: 2026-07-03
 ---
 
-Notes on the hickory-shaft era of golf—roughly 1830s through the late 1920s—and getting started playing it today.
+Notes on the hickory-shaft era of golf—roughly the 1830s until steel displaced wood around 1935—and getting started playing it today.
 
 - [[Hickory Golf Starter Guide]]
 - [[Hickory Era Golf Club Names]]

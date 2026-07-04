@@ -12,7 +12,7 @@ date: 2026-05-26
 lastmod: 2026-07-03
 ---
 
-Drafts on what golf is for, what modernization is taking from it, and how to recover what made the game worth playing.
+Essays on what golf is for, what modernization is taking from it, how to recover what made the game worth playing—and the formats the Club plays.
 
 - [[Golf's Original Constraints]]
 - [[Recovering Golf's Original Orientation]]
