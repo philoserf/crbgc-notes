@@ -35,6 +35,9 @@
     ]
   },
   "showSidebar": true,
+  "showToc": true,
+  "showBacklinks": true,
+  "enableRss": true,
   "theme": {
     "theme": "letterpress",
     "defaultMode": "light",
