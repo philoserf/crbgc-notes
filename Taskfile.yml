@@ -6,6 +6,11 @@ tasks:
     cmds:
       - task --list
 
+  setup:
+    desc: Install the toolchain (Brewfile)
+    cmds:
+      - brew bundle --file=Brewfile
+
   fmt:
     desc: Format markdown with prettier
     cmds:
