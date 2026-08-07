@@ -1,6 +1,9 @@
 ---
 title: Michigan Golf
 description: "Why Michigan's glacial landforms make it an underrated golf destination, with Golfweek's top-20 ranking as the evidence."
+date: 2026-05-24
+created: 2026-05-26
+lastmod: 2026-08-04
 tags:
   - course-design
   - course-rankings
@@ -8,9 +11,6 @@ tags:
   - golf
   - michigan
   - travel
-created: 2026-05-26
-date: 2026-05-24
-lastmod: 2026-07-03
 ---
 
 The surprise is not that Michigan has great golf. The surprise is that it isn't more famous for it.

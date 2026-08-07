@@ -1,15 +1,15 @@
 ---
 title: C&RBGC
 description: Working notes on golf history, architecture, and hickory-era play, from the Common & Recent Bogey Golf Club walking fellowship.
+date: 2026-05-26
+created: 2026-05-26
+lastmod: 2026-08-04
 tags:
   - golf
   - golf-architecture
   - golf-history
   - hickory-golf
   - walking-golf
-created: 2026-05-26
-date: 2026-05-26
-lastmod: 2026-07-03
 ---
 
 Notes on golf—its history, its architects, its courses, and especially the walking, hickory-era version of the game.

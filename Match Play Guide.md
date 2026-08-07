@@ -1,14 +1,14 @@
 ---
 title: Match Play Guide
 description: "A primer on match play—golf's original head-to-head format—covering scoring, concessions, handicaps, formats, and the strategy that sets it apart from stroke play."
+date: 2026-06-22
+created: 2026-06-22
+lastmod: 2026-08-07
 tags:
   - beginner-guide
   - golf
   - match-play
   - rules-of-golf
-created: 2026-06-22
-date: 2026-06-22
-lastmod: 2026-06-22
 ---
 
 Match play is the older game. Long before anyone counted total strokes against a field, two players walked out together and contested one hole at a time—win it, lose it, or halve it, then start fresh on the next tee. Stroke play came later, a bookkeeping convenience for sorting large fields and selling the modern tournament. If you want the game closer to its original orientation, you play match play: you against a person, not against a number.
@@ -35,7 +35,7 @@ Two things to remember: a concession, once made, cannot be declined or withdrawn
 
 ## Order of play and the honour
 
-On the first tee the honour is settled by the draw or by agreement; after that, the winner of the previous hole tees off first. Through the green and on the putting surface, the player whose ball is farther from the hole—the player "away"—plays first.
+The draw or agreement settles the honour on the first tee; after that, the winner of the previous hole tees off first. Through the green and on the putting surface, the player whose ball is farther from the hole—the player "away"—plays first.
 
 Order matters more here than in stroke play because there is a remedy for getting it wrong: if your opponent plays out of turn, you may cancel the stroke and require them to replay it in the correct order. Most of the time you will simply play on, but the option is yours.
 
@@ -51,7 +51,7 @@ A few other points follow from the head-to-head structure:
 
 ## Handicaps
 
-Singles match play is normally contested off the full difference in course handicaps. The lower handicapper plays from scratch within the match, and the higher handicapper receives that difference in strokes, allotted on the hardest holes first according to the card's stroke index. If you get six strokes, you get them on the six holes indexed 1 through 6, one apiece, and a net birdie there can steal a hole outright.
+Singles match play normally uses the full difference in course handicaps. The lower handicapper plays from scratch within the match, and the higher handicapper receives that difference in strokes, allotted on the hardest holes first according to the card's stroke index. If you get six strokes, you get them on the six holes indexed 1 through 6, one apiece, and a net birdie there can steal a hole outright.
 
 Handicap allowances vary by format and by what the committee sets—singles is typically played off the full difference, alternate-shot and better-ball formats off a reduced percentage. Check the allowance before you start so the strokes land where you expect.
 
@@ -60,7 +60,7 @@ Handicap allowances vary by format and by what the committee sets—singles is t
 - **Singles**—one against one, the purest version.
 - **Foursomes** (alternate shot)—two-player sides share one ball, alternating shots, with players alternating the tee on odd and even holes. Demanding and intimate; you live with your partner's misses and they with yours.
 - **Four-ball** (better ball)—each of the four plays their own ball, and each side counts its lower score on the hole. More forgiving, because either partner can carry a hole.
-- **Greensomes** and other hybrids—both partners drive, then choose one ball and alternate in; a gentler cousin of foursomes.[^greensomes]
+- **Greensomes** and other hybrids—both partners drive, then choose one ball and alternate in; a gentler cousin of foursomes.[^1]
 
 The Ryder Cup template—foursomes, four-ball, then singles—is the classic way to build a team event out of these pieces.
 
@@ -78,4 +78,4 @@ Concede putts at a reasonable pace and without theater. Announce the match score
 
 Match play strips golf back to its argument: two people, eighteen holes, one at a time. You can even play it against a fixed score rather than a person—see [[Colonel Bogey and the Bogey Competition]] for the club's match against the Colonel. For more on why that original orientation is worth recovering, see [[Game Philosophy]] and [[Golf's Original Constraints]].
 
-[^greensomes]: The Club's regard for greensomes sits warmer than the scramble and a notch below its blessing of foursomes. Because only the drive is selected and every later stroke is played with one ball to a real result, greensomes keeps the honest reckoning a scramble throws away; but letting a side hide its worse tee shot removes the live-with-your-partner's-drive cruelty that makes alternate shot honest. A forgiving way to pair unequal players and still play golf to the hole—tolerated, even liked, but not the Club's first reach.
+[^1]: The Club's regard for greensomes sits warmer than the scramble and a notch below its blessing of foursomes. Because only the drive is selected and every later stroke is played with one ball to a real result, greensomes keeps the honest reckoning a scramble throws away; but letting a side hide its worse tee shot removes the live-with-your-partner's-drive cruelty that makes alternate shot honest. A forgiving way to pair unequal players and still play golf to the hole—tolerated, even liked, but not the Club's first reach.

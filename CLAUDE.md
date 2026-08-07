@@ -1,14 +1,14 @@
 ---
 title: CLAUDE
 description: Instructions for Claude Code on working with a Flowershow digital garden vault, its toolchain, content model, and dual-license setup.
+created: 2026-06-01
+lastmod: 2026-08-04
 tags:
   - claude-code
   - digital-garden
   - flowershow
   - obsidian
   - repository-setup
-created: 2026-06-01
-lastmod: 2026-06-11
 ---
 
 ## CLAUDE.md

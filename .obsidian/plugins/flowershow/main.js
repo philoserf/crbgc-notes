@@ -1051,7 +1051,7 @@ var require_react_development = __commonJS({
       exports.useTransition = function() {
         return resolveDispatcher().useTransition();
       };
-      exports.version = "19.2.7";
+      exports.version = "19.2.8";
       "undefined" !== typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ && "function" === typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop && __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop(Error());
     })();
   }
@@ -1578,7 +1578,7 @@ var require_react_dom_development = __commonJS({
       exports.useFormStatus = function() {
         return resolveDispatcher().useHostTransitionStatus();
       };
-      exports.version = "19.2.7";
+      exports.version = "19.2.8";
       "undefined" !== typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ && "function" === typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop && __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop(Error());
     })();
   }
@@ -21370,9 +21370,9 @@ var require_react_dom_client_development = __commonJS({
       };
       (function() {
         var isomorphicReactPackageVersion = React58.version;
-        if ("19.2.7" !== isomorphicReactPackageVersion)
+        if ("19.2.8" !== isomorphicReactPackageVersion)
           throw Error(
-            'Incompatible React versions: The "react" and "react-dom" packages must have the exact same version. Instead got:\n  - react:      ' + (isomorphicReactPackageVersion + "\n  - react-dom:  19.2.7\nLearn more: https://react.dev/warnings/version-mismatch")
+            'Incompatible React versions: The "react" and "react-dom" packages must have the exact same version. Instead got:\n  - react:      ' + (isomorphicReactPackageVersion + "\n  - react-dom:  19.2.8\nLearn more: https://react.dev/warnings/version-mismatch")
           );
       })();
       "function" === typeof Map && null != Map.prototype && "function" === typeof Map.prototype.forEach && "function" === typeof Set && null != Set.prototype && "function" === typeof Set.prototype.clear && "function" === typeof Set.prototype.forEach || console.error(
@@ -21396,10 +21396,10 @@ var require_react_dom_client_development = __commonJS({
       if (!(function() {
         var internals = {
           bundleType: 1,
-          version: "19.2.7",
+          version: "19.2.8",
           rendererPackageName: "react-dom",
           currentDispatcherRef: ReactSharedInternals,
-          reconcilerVersion: "19.2.7"
+          reconcilerVersion: "19.2.8"
         };
         internals.overrideHookState = overrideHookState;
         internals.overrideHookStateDeletePath = overrideHookStateDeletePath;
@@ -21490,7 +21490,7 @@ var require_react_dom_client_development = __commonJS({
         listenToAllSupportedEvents(container);
         return new ReactDOMHydrationRoot(initialChildren);
       };
-      exports.version = "19.2.7";
+      exports.version = "19.2.8";
       "undefined" !== typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ && "function" === typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop && __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStop(Error());
     })();
   }
@@ -38288,17 +38288,26 @@ function digest(algo, data) {
     return hex(d);
   });
 }
+function calculateGitBlobSha(content) {
+  return __async(this, null, function* () {
+    const header = new TextEncoder().encode(`blob ${content.length}\0`);
+    const combined = new Uint8Array(header.length + content.length);
+    combined.set(header);
+    combined.set(content, header.length);
+    return digest("SHA-1", combined);
+  });
+}
 function calculateFileSha(content) {
   return __async(this, null, function* () {
     const data = content instanceof ArrayBuffer ? new Uint8Array(content) : content;
-    return digest("SHA-1", data);
+    return calculateGitBlobSha(data);
   });
 }
 function calculateTextSha(text) {
   return __async(this, null, function* () {
     const encoder = new TextEncoder();
     const data = encoder.encode(text);
-    return digest("SHA-1", data);
+    return calculateGitBlobSha(data);
   });
 }
 var FlowershowError = class extends Error {
@@ -38854,7 +38863,7 @@ var FlowershowClient = class {
       const url = `${this.apiUrl}${endpoint}`;
       const headers = __spreadProps(__spreadValues({}, options.headers), {
         Authorization: `Bearer ${this.token}`,
-        "X-Flowershow-Plugin-Version": "4.1.1"
+        "X-Flowershow-Plugin-Version": "4.2.0"
       });
       return (0, import_obsidian2.requestUrl)({
         url,
@@ -39138,6 +39147,27 @@ function validatePublishFrontmatter(frontMatter) {
   }
   return true;
 }
+function validateSettings(settings) {
+  if (!settings.flowershowToken) {
+    new import_obsidian3.Notice(
+      "Config error: You need to define a Flowershow PAT Token in the plugin settings"
+    );
+    return false;
+  }
+  if (!settings.siteName) {
+    new import_obsidian3.Notice(
+      "Config error: You need to define a Site Name in the plugin settings"
+    );
+    return false;
+  }
+  if (!settings.flowershowToken.startsWith("fs_pat_")) {
+    new import_obsidian3.Notice(
+      "Config error: Invalid token format. Token should start with 'fs_pat_'"
+    );
+    return false;
+  }
+  return true;
+}
 function normalizeRootDir(rootDir) {
   return rootDir.replace(/\\/g, "/").replace(/^\/+|\/+$/g, "");
 }
@@ -39241,9 +39271,9 @@ var Publisher = class {
     this.settings = settings;
     this.client = new FlowershowClient(API_URL, this.settings.flowershowToken);
   }
-  /** Get site name, defaulting to vault name if not set */
+  /** Get the explicitly configured site name */
   getSiteName() {
-    return this.settings.siteName || this.app.vault.getName();
+    return this.settings.siteName;
   }
   /** Get username */
   getUsername() {
@@ -39740,6 +39770,9 @@ var Flowershow = class extends import_obsidian6.Plugin {
           );
           return;
         }
+        if (!validateSettings(this.settings)) {
+          return;
+        }
         new import_obsidian6.Notice("\u231B Publishing note...");
         const result = yield this.publisher.publishSingleNoteWithEmbeds(
           currentFile
@@ -39764,6 +39797,9 @@ var Flowershow = class extends import_obsidian6.Plugin {
   publishAllFiles() {
     return __async(this, null, function* () {
       try {
+        if (!validateSettings(this.settings)) {
+          return;
+        }
         const { changedFiles, deletedFiles, newFiles } = yield this.publisher.getPublishStatus();
         const filesToDelete = deletedFiles;
         const filesToPublish = changedFiles.concat(newFiles);
@@ -39793,6 +39829,9 @@ var Flowershow = class extends import_obsidian6.Plugin {
     });
   }
   openPublishStatusModal() {
+    if (!validateSettings(this.settings)) {
+      return;
+    }
     if (!this.publishStatusModal) {
       this.publishStatusModal = new PublishStatusModal({
         app: this.app,

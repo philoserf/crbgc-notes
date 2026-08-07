@@ -1,13 +1,13 @@
 ---
 title: Society of Hickory Golfers
 description: "Kindred-club note on the Society of Hickory Golfers — the take-the-bit-seriously society closest to the C&RBGC's own register."
+date: 2026-06-18
+created: 2026-06-18
+lastmod: 2026-08-04
 tags:
   - golf-organizations
   - hickory-golf
   - kindred-clubs
-created: 2026-06-18
-date: 2026-06-18
-lastmod: 2026-06-18
 ---
 
 Of all the clubs we count as kin, the [Society of Hickory Golfers](https://www.hickorygolfers.com/) shares our register most exactly. It is a volunteer society of a few hundred members that has appointed itself the closest thing American hickory golf has to a governing body, and then governs by consent rather than command—writing equipment and tournament guidelines that most playing groups adopt because they are good, not because anyone is obliged to. To bind yourself voluntarily to a set of standards, in earnest, over a game played for pleasure, is the same move the C&RBGC made when it adopted _Robert's Rules_. We recognize the gesture.

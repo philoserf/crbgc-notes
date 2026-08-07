@@ -1,15 +1,15 @@
 ---
 title: Tom Doak Course Chronology
 description: Chronological list of all 18-hole original Tom Doak / Renaissance Golf Design courses from 1989 to 2026.
+date: 2026-05-23
+created: 2026-05-26
+lastmod: 2026-08-07
 tags:
   - course-architecture
   - golf-course-design
   - golf-history
   - renaissance-golf-design
   - tom-doak
-created: 2026-05-26
-date: 2026-05-23
-lastmod: 2026-07-03
 ---
 
 The official Renaissance Golf Design site list stops at 2018, but Doak has completed several major courses since.
@@ -62,4 +62,4 @@ Chronological list of original Tom Doak / Renaissance Golf Design 18-hole course
 
 In progress: Wild Spring Dunes in East Texas ([[Dream Golf & Cabot Portfolio|Dream Golf]] / Discovery Land), under construction as of mid-2025. There is also ongoing restoration/redesign work at Crooked Stick (reopening targeted for 2025).
 
-Not included above: Doak's substantial restoration and consulting catalog (e.g., Yeamans Hall, San Francisco GC, Garden City GC, The Valley Club of Montecito, Pasatiempo, St. Louis CC, Memphis CC, Inverness, Camargo, and others) and his short-course / alternative work (e.g., the Punchbowl putting green at Bandon Dunes, the Memorial Park nine-hole at Bandon, the Old Macdonald Preserve). The Renaissance Golf Design website maintains the official "Restoration and Consulting" and "Alternative Courses" lists separately, and the firm's main "Our Design" page has not been updated past 2018, so the post-2018 entries above come from press and resort announcements rather than RGD's own list.
+Not included above: Doak's substantial restoration and consulting catalog (e.g., Yeamans Hall, San Francisco GC, Garden City GC, The Valley Club of Montecito, Pasatiempo, St. Louis CC, Memphis CC, Inverness, Camargo, and others) and his short-course / alternative work (e.g., the Punchbowl putting green at Bandon Dunes, the Memorial Park nine-hole at Bandon, the Old Macdonald Preserve). The Renaissance Golf Design website maintains the official "Restoration and Consulting" and "Alternative Courses" lists separately, and the firm hasn't updated its "Our Design" page past 2018, so the post-2018 entries above come from press and resort announcements rather than RGD's own list.

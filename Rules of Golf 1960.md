@@ -1,15 +1,15 @@
 ---
 title: Rules of Golf 1960
 description: Full text of the 1960 Rules of Golf as approved by the R&A and USGA—etiquette, definitions, and the complete rules of play.
+date: 2026-05-27
+created: 2026-05-27
+lastmod: 2026-08-04
 tags:
   - golf
   - royal-and-ancient
   - rules-of-golf
   - sports-history
   - usga
-created: 2026-05-27
-date: 2026-05-27
-lastmod: 2026-07-03
 ---
 
 ## Rules of Golf as Approved by the Royal and Ancient Golf Club of St. Andrews, Scotland and the United States Golf Association, effective 1 January 1960

@@ -1,15 +1,15 @@
 ---
 title: Dream Golf & Cabot Portfolio
 description: "Complete property listing for Mike Keiser's Dream Golf and Cabot Collection, including courses, architects, and dates."
+date: 2026-05-23
+created: 2026-05-26
+lastmod: 2026-08-04
 tags:
   - cabot-collection
   - dream-golf
   - golf
   - golf-course-design
   - mike-keiser
-created: 2026-05-26
-date: 2026-05-23
-lastmod: 2026-07-03
 ---
 
 The "Bandon Dunes team" effectively means the Mike Keiser family and the operating company they built around him, now branded as Dream Golf (run day-to-day by sons Michael Jr. and Chris Keiser). The Keisers are also co-owners with Ben Cowan-Dewar of The Cabot Collection, which is run as a separate company but shares the same design playbook and many of the same architects. Below is the working portfolio.

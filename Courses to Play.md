@@ -1,15 +1,15 @@
 ---
 title: Courses to Play
 description: "Index of curated golf course lists—links courses, walkable rankings, Michigan golf, and the Keiser resort portfolios."
+date: 2026-05-26
+created: 2026-06-01
+lastmod: 2026-08-04
 tags:
   - course-reviews
   - golf
   - index
   - michigan
   - walking-friendly
-created: 2026-06-01
-date: 2026-05-26
-lastmod: 2026-07-03
 ---
 
 Courses worth a round—links lists, walkability rankings, and the Keiser resort portfolios—with a bias toward walking-friendly designs and Michigan proximity.

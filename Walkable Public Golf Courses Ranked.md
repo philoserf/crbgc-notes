@@ -1,27 +1,27 @@
 ---
 title: Walkable Public Golf Courses Ranked
 description: Force-ranked list of top walkable public golf courses weighted by walking policy, terrain, routing, and course quality.
+date: 2026-05-23
+created: 2026-05-26
+lastmod: 2026-08-07
 tags:
   - course-design
   - course-rankings
   - golf
   - public-golf
   - walking-courses
-created: 2026-05-26
-date: 2026-05-23
-lastmod: 2026-07-03
 ---
 
 Force ranking is judgmental—the top dozen are obvious; the lower half is where reasonable people will disagree. My ranking weights three factors together: walking policy (required > preferred > permitted), terrain and routing quality for walkers (green-to-tee transitions, elevation), and the underlying quality of the golf. Public access required; semi-private with reasonable guest access included.
 
-1. Pacific Dunes, Bandon Dunes Resort, Oregon—[[Tom Doak Course Chronology|Doak]], walking-only. The platonic ideal: gentle dunes, short transitions, ocean wind, caddies. The bar everything else is measured against.
+1. Pacific Dunes, Bandon Dunes Resort, Oregon—[[Tom Doak Course Chronology|Doak]], walking-only. The platonic ideal: gentle dunes, short transitions, ocean wind, caddies.
 2. Pinehurst No. 2, Pinehurst, North Carolina—Ross, restored by [[Coore Crenshaw Course Portfolio|Coore & Crenshaw]], walking-only. Sandhills topography that almost walks you.
 3. Bandon Dunes, Bandon Resort, Oregon—David McLay Kidd, walking-only. The course that made the modern walking-resort era possible.
 4. Sand Valley, Nekoosa, Wisconsin—Coore & Crenshaw, walking-only. Wide, sandy, and routed so that the next tee is right there.
 5. Sheep Ranch, Bandon Resort, Oregon—Coore & Crenshaw, walking-only. A mile of bluff, no bunkers, and uncomplicated routing.
 6. Old Macdonald, Bandon Resort, Oregon—Doak & Urbina, walking-only. The biggest course at Bandon but flat enough to walk easily.
 7. Bandon Trails, Bandon Resort, Oregon—Coore & Crenshaw, walking-only. The forest course; meaningful elevation in spots but the routing earns it.
-8. The Lido at Sand Valley, Wisconsin—Doak, walking-and-caddie-only by policy. Reproduces a 1914 design that was designed before carts existed.
+8. The Lido at Sand Valley, Wisconsin—Doak, walking-and-caddie-only by policy. Reproduces a 1914 layout designed before carts existed.
 9. Mammoth Dunes, Sand Valley, Wisconsin—David McLay Kidd, walking-only. Wide and visually dramatic; transitions are short.
 10. Sedge Valley, Sand Valley, Wisconsin—Doak, walking-only. A par-68 heathland; one of the shortest serious walks in modern American golf.
 11. Pinehurst No. 10, Aberdeen, North Carolina—Doak, walking-only. The most dramatic Pinehurst property, but walked routinely.

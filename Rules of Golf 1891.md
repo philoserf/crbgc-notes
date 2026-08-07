@@ -1,15 +1,15 @@
 ---
 title: Rules of Golf 1891
 description: The 1891 R&A rules covering stroke play, teeing, hazards, ball handling, and match format.
+date: 2026-05-27
+created: 2026-05-27
+lastmod: 2026-08-04
 tags:
   - golf
   - golf-history
   - royal-and-ancient
   - rules-of-golf
   - st-andrews
-created: 2026-05-27
-date: 2026-05-27
-lastmod: 2026-07-03
 ---
 
 ## Rules for the Game of Golf as it is Played by the Royal and Ancient Golf Club of St. Andrews over Their Links, 29 September 1891

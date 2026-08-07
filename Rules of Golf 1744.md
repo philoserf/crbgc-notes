@@ -1,14 +1,14 @@
 ---
 title: Rules of Golf 1744
 description: The 13 original rules of golf written by the Gentlemen Golfers of Leith in 1744, with a 1758 amendment.
+date: 2026-05-27
+created: 2026-05-27
+lastmod: 2026-08-04
 tags:
   - golf
   - history
   - primary-source
   - rules
-created: 2026-05-27
-date: 2026-05-27
-lastmod: 2026-07-03
 ---
 
 ## Articles & Laws in Playing at Golf—Gentlemen Golfers of Leith, 7 March 1744

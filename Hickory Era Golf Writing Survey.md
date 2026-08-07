@@ -1,15 +1,15 @@
 ---
 title: Hickory Era Golf Writing Survey
 description: Survey of literary golf writing from the hickory shaft era, covering key journalists, instructional authors, and essayists across Britain and America.
+date: 2026-05-26
+created: 2026-05-28
+lastmod: 2026-08-07
 tags:
   - golf-history
   - golf-literature
   - hickory-era
   - journalism
   - sports-writing
-created: 2026-05-28
-date: 2026-05-26
-lastmod: 2026-07-03
 ---
 
 ## Overview
@@ -22,9 +22,9 @@ Roughly forty distinct authors and works are surveyed below. Almost all survive 
 
 ## Key Figures and Forces
 
-The hickory era, when shafts were hickory, ran until around 1929–1935, when [[Golf's Transition from Hickory to Steel Shafts|steel shafts were legalized and took over]]. It coincided with the rapid expansion of golf from Scottish links to a transatlantic middle-class pursuit, and public writing about golf grew up with that expansion, splitting into three distinct but overlapping modes.
+The hickory era, when shafts were hickory, ran until around 1929–1935, when [[Golf's Transition from Hickory to Steel Shafts|golf's governing bodies legalized steel shafts and they took over]]. It coincided with the rapid expansion of golf from Scottish links to a transatlantic middle-class pursuit, and public writing about golf grew up with that expansion, splitting into three distinct but overlapping modes.
 
-Bernard Darwin shaped reportage, his Times columns (1907–1953) and Country Life essays redefining what a sportswriter could be; the American equivalent was the Atlanta Journal's O.B. Keeler, whose three-decade chronicling of Bobby Jones is the model of the embedded-narrator sportswriter, and Grantland Rice, who fused verse, column, and editorship at The American Golfer. The amateur Horace G. Hutchinson pioneered instructional writing (1886, 1890), and Willie Park Jr., the first playing professional to write a book, broadened it with "The Game of Golf" in 1896; from there the "Great Triumvirate" (Vardon, Taylor, Braid) and a procession of American champions (Travis, Travers, Jones, Wethered) treated technique with increasing analytic precision. Essays and belles-lettres ran from Sir Walter Simpson's witty 1887 "Art of Golf" through Arnold Haultain's metaphysical 1908 "Mystery of Golf" and Wodehouse's Oldest Member stories (from 1919), culminating in a brilliant decade of golf-course-architecture writing (1920–1933) by MacKenzie, Hunter, Macdonald, Thomas, Wethered & Simpson, and posthumously MacKenzie's "Spirit of St. Andrews."
+Bernard Darwin shaped reportage, his Times columns (1907–1953) and Country Life essays redefining what a sportswriter could be; the American equivalent was the Atlanta Journal's O.B. Keeler, who chronicled Bobby Jones for three decades and is the model of the embedded-narrator sportswriter, and Grantland Rice, who fused verse, column, and editorship at The American Golfer. The amateur Horace G. Hutchinson pioneered instructional writing (1886, 1890), and Willie Park Jr., the first playing professional to write a book, broadened it with "The Game of Golf" in 1896; from there the "Great Triumvirate" (Vardon, Taylor, Braid) and a procession of American champions (Travis, Travers, Jones, Wethered) treated technique with increasing analytic precision. Essays and belles-lettres ran from Sir Walter Simpson's witty 1887 "Art of Golf" through Arnold Haultain's metaphysical 1908 "Mystery of Golf" and Wodehouse's Oldest Member stories (from 1919), culminating in a brilliant decade of golf-course-architecture writing (1920–1933) by MacKenzie, Hunter, Macdonald, Thomas, Wethered & Simpson, and posthumously MacKenzie's "Spirit of St. Andrews."
 
 ## The Three Modes
 
@@ -106,7 +106,7 @@ Ring Lardner (1885–1933) is the great American golf-humor fiction writer; "A C
 
 The British weekly "Golf: A Weekly Record of Ye Royal and Auncient Game" was founded September 1890 in London and ran to June 1899, when it was renamed "Golf Illustrated"—edited by Garden G. Smith until his death in 1913 and then by Harold Hilton until 1942. "Golf Monthly," founded in Edinburgh by Outram Press in 1911 with Hilton as its first editor (1911–1914), remains the oldest surviving golf magazine in the world. "Golfing" (UK) was edited by Robert Browning from 1910 to 1955. "Country Life," the magazine of landed Edwardian Britain, was Darwin's other weekly base from 1907 onward, and published the country-house portraits of golf clubs that created the visual genre of golf-course photography.
 
-In the United States, "Golf" began in 1897 and served as the official bulletin of the USGA from 1898 to 1909, after which it continued as an independent monthly. "The American Golfer," founded by Walter J. Travis in 1908, was the dominant prose venue of the period: Travis edited it 1908–1920; Grantland Rice took the chair in spring 1920 and held it until the January 1936 issue, the last under that title, after which Stuart Scheftel relaunched the magazine as "Sports Illustrated & The American Golfer." Under Rice, the masthead at various times included contributions by Innis Brown, O.B. Keeler, A.W. Tillinghast (as "Hazard"), and Ernest Jones. "Golf Illustrated" (US) was founded in 1914 and became "Golf Illustrated and Outdoor America" by 1926; Tillinghast was named editor in June 1933. "Golfers Magazine" of Chicago and Herb Graffis's "Golfdom" (founded 1927 as the trade-business journal of American golf) round out the American press of the era.
+In the United States, "Golf" began in 1897 and served as the official bulletin of the USGA from 1898 to 1909, after which it continued as an independent monthly. "The American Golfer," founded by Walter J. Travis in 1908, was the dominant prose venue of the period: Travis edited it 1908–1920; Grantland Rice took the chair in spring 1920 and held it until the January 1936 issue, the last under that title, after which Stuart Scheftel relaunched the magazine as "Sports Illustrated & The American Golfer." Under Rice, the masthead at various times included contributions by Innis Brown, O.B. Keeler, A.W. Tillinghast (as "Hazard"), and Ernest Jones. "Golf Illustrated" (US) was founded in 1914 and became "Golf Illustrated and Outdoor America" by 1926; Tillinghast was named editor in June 1933. "Golfers Magazine" of Chicago and Herb Graffis's "Golfdom" (founded 1927 as the trade-business journal of American golf) complete the American press of the era.
 
 ## A Working Library
 
@@ -116,7 +116,7 @@ If the goal is scholarly mapping of the era: prioritize the architectural-writin
 
 If building a teaching collection or anthology, pair Hutchinson 1886 with Park Jr. 1896 to show the amateur/professional handoff in instruction; Darwin 1910 with Leach 1907 to show how Edwardian sport prose became literary; Travis 1901 with Jones & Keeler 1927 to track the American instructional autobiography; and Haultain 1908 with Wodehouse 1922 to show the metaphysical and the comic poles of the essay tradition.
 
-Triggers that would change the recommendations: if access to the U.S. magazine corpus (American Golfer back-issues 1908–1936, Golf Illustrated US 1914–1935, Golfdom 1927–) opens via HathiTrust or other digitization, the center of gravity should shift toward the periodical record, where the bulk of Rice, Keeler, Tillinghast, Innis Brown, Bobby Jones's columns, and Joyce Wethered's American writing actually lived.
+Triggers that would change the recommendations: if access to the U.S. magazine corpus (American Golfer back-issues 1908–1936, Golf Illustrated US 1914–1935, Golfdom 1927–) opens via HathiTrust or other digitization, the focus should shift toward the periodical record, where the bulk of Rice, Keeler, Tillinghast, Innis Brown, Bobby Jones's columns, and Joyce Wethered's American writing actually lived.
 
 ## Corrections and Boundary Cases
 

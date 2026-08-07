@@ -1,14 +1,14 @@
 ---
 title: Hickory Golf Starter Guide
 description: Step-by-step guide to buying first hickory clubs, balls, and joining play organizations with a minimal viable setup.
+date: 2026-05-23
+created: 2026-05-26
+lastmod: 2026-08-04
 tags:
   - beginner-guide
   - golf-equipment
   - hickory-golf
   - vintage-golf
-created: 2026-05-26
-date: 2026-05-23
-lastmod: 2026-07-03
 ---
 
 Before anything else, pick your truth level. Playable modern hickory gives you consistency, durability, and an easy entry—the recommended starting point. Authentic or collector hickory gives you historical accuracy at the cost of variability and fragility. Most people start with the first and drift toward the second.

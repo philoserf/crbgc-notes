@@ -1,15 +1,15 @@
 ---
 title: Rules of Golf 1925
 description: Full text of the Rules of Golf as approved by the R&A in 1920 and amended in 1925, covering definitions, general rules, and medal play.
+date: 2026-05-27
+created: 2026-05-27
+lastmod: 2026-08-04
 tags:
   - "1925"
   - golf
   - golf-history
   - royal-and-ancient
   - rules-of-golf
-created: 2026-05-27
-date: 2026-05-27
-lastmod: 2026-07-03
 ---
 
 ## Rules of Golf as Approved by the Royal and Ancient Golf Club of St. Andrews, 28 September 1920, Amended 29 September 1925

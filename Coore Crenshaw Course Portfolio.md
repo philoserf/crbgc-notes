@@ -1,14 +1,14 @@
 ---
 title: Coore Crenshaw Course Portfolio
 description: "Comprehensive list of Coore Crenshaw golf course designs, renovations, 9-hole additions, and Bill Coore's pre-partnership work."
+date: 2026-05-23
+created: 2026-05-26
+lastmod: 2026-08-07
 tags:
   - coore-crenshaw
   - course-portfolio
   - golf-architecture
   - golf-course-design
-created: 2026-05-26
-date: 2026-05-23
-lastmod: 2026-07-03
 ---
 
 Drawing from the official Coore & Crenshaw portfolio page, Wikipedia's list, and recent press for 2023–2026 openings. The firm groups its work as Coore & Crenshaw original designs, 9-hole additions, renovations, plus Bill Coore's pre-partnership and solo work (he started with Pete Dye in 1972 before partnering with Crenshaw in 1986).
@@ -97,4 +97,4 @@ Ben Crenshaw pre-partnership work:
 
 - TPC Four Seasons at Las Colinas, Irving, TX, 1982—Crenshaw as player consultant with Byron Nelson and architect Jay Morrish
 
-Two notes on attribution. First, the firm's portfolio omits a handful of projects that show up in Wikipedia and the press, most visibly Trinity Forest (the Dallas club closed in 2024) and Torch Cay in the Bahamas; both are confirmed Coore & Crenshaw work. Second, on a few resort short courses the firm and the resort sometimes list slightly different opening years (the Sandbox at Sand Valley, Bougle Run at Barnbougle), which reflects preview play versus formal opening. The firm's own portfolio page at coorecrenshaw.com is the cleanest current source, and the [[Fried Egg Golf Club|Fried Egg]] and LINKS Magazine architect pages are useful for the recent and in-progress work that the firm has not yet posted.
+Two notes on attribution. First, the firm's portfolio omits a handful of projects that appear in Wikipedia and the press, most visibly Trinity Forest (the Dallas club closed in 2024) and Torch Cay in the Bahamas; both are confirmed Coore & Crenshaw work. Second, on a few resort short courses the firm and the resort sometimes list slightly different opening years (the Sandbox at Sand Valley, Bougle Run at Barnbougle), which reflects preview play versus formal opening. The firm's own portfolio page at coorecrenshaw.com is the cleanest current source, and the [[Fried Egg Golf Club|Fried Egg]] and LINKS Magazine architect pages are useful for the recent and in-progress work that the firm has not yet posted.

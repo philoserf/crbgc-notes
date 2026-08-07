@@ -1,20 +1,20 @@
 ---
 title: Hickory Era American Golf
 description: History of American golf from the 1880s to 1935, covering key figures, clubs, tournaments, and equipment of the hickory shaft era.
+date: 2026-05-24
+created: 2026-06-01
+lastmod: 2026-08-07
 tags:
   - american-golf
   - golden-age-golf
   - golf-equipment
   - golf-history
   - hickory-golf
-created: 2026-06-01
-date: 2026-05-24
-lastmod: 2026-07-03
 ---
 
 The hickory era in American golf runs from the late 1880s, when the game was reintroduced after its [[Early American Golf's Decline|early-19th-century collapse]], to roughly 1935, when steel shafts had finally displaced hickory in tournament play. It opens almost as an accident. In February 1888 a Scottish-born linen merchant named John Reid laid out three holes in a cow pasture across from his house in Yonkers, played with clubs his friend Robert Lockhart had brought back from Old Tom Morris's shop in St Andrews, and within months had organized himself, Lockhart, Henry Tallmadge, and four others into the St Andrew's Golf Club. They moved twice—to an apple orchard (giving them the "Apple Tree Gang" nickname), then to Grey Oaks. Other clubs followed within two years: Shinnecock Hills on Long Island in 1891, the first incorporated American club, with a Stanford White clubhouse; The Country Club at Brookline and Newport, both taking up golf in 1893; and Macdonald's Chicago Golf Club, also 1893, the first eighteen-hole course in the country. On December 22, 1894 these five clubs formed what became the United States Golf Association, partly to settle a quarrel over which 1894 amateur championship had been the "real" national title.
 
-The first generation of American competitive golf was almost entirely Scottish. The professionals at the early clubs—Willie Dunn, Willie Davis, Willie Anderson, Alex and Macdonald Smith, Fred and Tom McLeod, Jock Hutchison—were imports who built the courses, made the clubs in the back shop, gave the lessons, and won the championships. Willie Anderson took four U.S. Opens between 1901 and 1905. The amateur side, by contrast, was the preserve of wealthy clubmen: Macdonald won the first U.S. Amateur in 1895; H.J. Whigham, Findlay Douglas, Walter Travis (the first non-Briton to win the British Amateur, in 1904), and Jerome Travers carried the flag through the 1900s. Macdonald also imported something else: course architecture. His National Golf Links of America on Long Island, opened in 1911, was the first American course designed as deliberate homage to the great holes of Scotland and England, and it began the Golden Age of American course design.
+The first generation of American competitive golf was almost entirely Scottish. The professionals at the early clubs—Willie Dunn, Willie Davis, Willie Anderson, Alex and Macdonald Smith, Fred and Tom McLeod, Jock Hutchison—were imports who built the courses, made the clubs in the back shop, gave the lessons, and won the championships. Willie Anderson took four U.S. Opens between 1901 and 1905. The amateur side, by contrast, was reserved for wealthy clubmen: Macdonald won the first U.S. Amateur in 1895; H.J. Whigham, Findlay Douglas, Walter Travis (the first non-Briton to win the British Amateur, in 1904), and Jerome Travers led American amateur golf through the 1900s. Macdonald also imported something else: course architecture. His National Golf Links of America on Long Island, opened in 1911, was the first American course designed as deliberate homage to the great holes of Scotland and England, and it began the Golden Age of American course design.
 
 The hinge of the era is the 1913 U.S. Open at The Country Club. The USGA had rescheduled the championship from June to September so that Harry Vardon, the five-time Open champion, and Ted Ray, the reigning Open champion, could play it on their American exhibition tour; the two were expected to win at will. Francis Ouimet, a twenty-year-old former caddie who lived across the street from the course and worked at Wright & Ditson's sporting goods store, tied them over seventy-two holes and then, with a ten-year-old caddie named Eddie Lowery on his bag, beat them by five and six strokes respectively in the Saturday playoff. Herbert Warren Wind judged that the win gave golf an impetus in this country it never lost. The game stopped being Scottish, Anglo-Episcopalian, and rich-only; American participation roughly doubled within a decade, and a generation of working-class players—Walter Hagen out of a caddie yard in Rochester, Gene Sarazen out of an Italian immigrant family in Harrison, New York—found a way in.
 

@@ -1,15 +1,15 @@
 ---
 title: American Golf Writing, 1950–1970
 description: Covers the key figures, publications, and three modes of golf writing from 1950–1970, centered on Herbert Warren Wind.
+date: 2026-05-26
+created: 2026-06-01
+lastmod: 2026-08-07
 tags:
   - american-literature
   - golf-history
   - herbert-warren-wind
   - sports-illustrated
   - sports-journalism
-created: 2026-06-01
-date: 2026-05-26
-lastmod: 2026-06-10
 ---
 
 ## Overview
@@ -70,7 +70,7 @@ Julius Boros's "Swing Easy, Hit Hard" (Harper & Row, 1965, 158 pp., illustrated 
 
 Bobby Jones (1902–1971), debilitated by syringomyelia and confined increasingly to his cottage at Augusta, produced two late instructional and reflective works: "Golf Is My Game" (Doubleday, 1960, 255 pp., foreword by Bernard Darwin) and "Bobby Jones on Golf" (Doubleday, 1966), the latter compiled by Charles Price from Jones's syndicated newspaper columns and Saturday Evening Post pieces of the 1920s–30s, with Wind editing the typescript. His third late book, "Bobby Jones on the Basic Golf Swing" (Doubleday, 1968), illustrated by Anthony Ravielli, was dictated because Jones could no longer write. Price recalled in Golf Digest that the project gave Jones "a new purpose in life."
 
-The Palmer-Nicklaus-Player triumvirate generated a steady flow of titles. Arnold Palmer's "Arnold Palmer's Golf Book: Hit It Hard!" (Ronald Press, 1961, 142 pp.) was his first book; "My Game and Yours" (Simon & Schuster, 1965, 158 pp., jacket design by Paul Bacon), assembled with Bob Drum, presented golf as simple. Jack Nicklaus's first book, "My 55 Ways to Lower Your Golf Score" (Simon & Schuster, 1964, 125 pp., drawings by Francis Golden), was followed by the major "The Greatest Game of All: My Life in Golf" (Simon & Schuster, 1969, 416 pp., foreword by Bobby Jones) with Herbert Warren Wind, a hybrid memoir-and-instruction that runs to six full chapters of technique. Gary Player's "Grand Slam Golf" (Cassell, 1966) reached American readers through U.S. distribution. Tony Lema's "Champagne Tony's Golf Tips" (1964) and Billy Casper's books with various collaborators rounded out the championship-player instructional shelf.
+The Palmer-Nicklaus-Player triumvirate produced a steady run of titles. Arnold Palmer's "Arnold Palmer's Golf Book: Hit It Hard!" (Ronald Press, 1961, 142 pp.) was his first book; "My Game and Yours" (Simon & Schuster, 1965, 158 pp., jacket design by Paul Bacon), assembled with Bob Drum, presented golf as simple. Jack Nicklaus's first book, "My 55 Ways to Lower Your Golf Score" (Simon & Schuster, 1964, 125 pp., drawings by Francis Golden), was followed by the major "The Greatest Game of All: My Life in Golf" (Simon & Schuster, 1969, 416 pp., foreword by Bobby Jones) with Herbert Warren Wind, a hybrid memoir-and-instruction that runs to six full chapters of technique. Gary Player's "Grand Slam Golf" (Cassell, 1966) reached American readers through U.S. distribution. Tony Lema's "Champagne Tony's Golf Tips" (1964) and Billy Casper's books with various collaborators rounded out the championship-player instructional shelf.
 
 Two older works dominated the teacher-author tradition. Ernest Jones (1887–1965), the one-legged English-born professional who taught at Women's National Golf and Tennis Club on Long Island, published "Swing the Clubhead" with David Eisenberg (Dodd, Mead, 1952, 126 pp.), the distillation of his single-thought method ("Swing the clubhead with your hands and allow your shoulders to look on impassively"). Percy Boomer's "On Learning Golf," originally a 1942 Hodder & Stoughton title, was issued in the U.S. by Alfred A. Knopf on June 27, 1946 (272 pp., introduction by the Duke of Windsor) and remained in continuous American print through the 1950s and 1960s; its language of "feel" and "controls" was foundational for the era's club professionals. Harvey Penick taught in Austin throughout the period but did not publish until 1992; John Jacobs, the British teaching pro, became known to American readers chiefly through magazine work.
 
@@ -106,7 +106,7 @@ Benchmarks that would change these recommendations: if a complete digitized run 
 
 ## Corrections and Boundary Cases
 
-O. B. Keeler died October 16, 1950, and Grantland Rice died July 13, 1954—both fall inside the period only at its opening edge; their major work belongs to the [[Hickory Era Golf Writing Survey|hickory survey]]. Bobby Jones lived through the period but died December 18, 1971, just outside it; his three late books (1960, 1966, 1968) properly belong to this survey though his great writing was earlier. Henry Longhurst, Pat Ward-Thomas, Bernard Darwin, and John Jacobs are British; they reached American readers via reprints but are not properly part of an American survey. Harvey Penick taught throughout the period but did not publish his "Little Red Book" until 1992. Lee Trevino's "I Can Help Your Game" (1971) falls just outside the period.
+O. B. Keeler died October 16, 1950, and Grantland Rice died July 13, 1954—both fall inside the period only at its opening edge; their major work belongs to the [[Hickory Era Golf Writing Survey|hickory survey]]. Bobby Jones lived through the period but died December 18, 1971, just outside it; his three late books (1960, 1966, 1968) properly belong to this survey though his great writing was earlier. Henry Longhurst, Pat Ward-Thomas, Bernard Darwin, and John Jacobs are British; they reached American readers via reprints but are not rightly part of an American survey. Harvey Penick taught throughout the period but did not publish his "Little Red Book" until 1992. Lee Trevino's "I Can Help Your Game" (1971) falls just outside the period.
 
 Two specific bibliographic corrections to popularly circulated dates: Al Laney's "Following the Leaders" is often listed as a 1968 book, but it was written in the late 1970s and first published in 1991 by Classics of Golf (with a foreword by Wind); the 1968 Laney book was the tennis memoir "Covering the Court" (Simon & Schuster). And Jack Nicklaus's "My 55 Ways to Lower Your Golf Score" (1964) is sometimes attributed to Wind as co-author; the published credit is to Nicklaus alone (with illustrator Francis Golden). Wind's Nicklaus collaboration was "The Greatest Game of All" in 1969.
 
@@ -114,6 +114,6 @@ The "Amen Corner" story has been retold so many times that variant versions circ
 
 The famous "open a vein and bleed" line frequently attributed to Red Smith was, per Quote Investigator, first reported by Walter Winchell in his April 1949 column; Smith's own version was: "You simply sit down at the typewriter, open your veins, and bleed."
 
-Al Laney's birth year is given as 1895 in Bill Shannon's New York Sports Dictionary and on the MGA honors page but as 1896 in Wikipedia and the International Tennis Hall of Fame; the prompt's 1895 is consistent with one credible source strand. Lincoln Werden's precise life dates were not locatable in open sources during research; his career is best documented through his GWAA presidency (1952–1955) and the eponymous MGWA award. Bob Drum's precise birth date is consistently given as 1918, with death in May 1996 at age 78 in Pinehurst, N.C.
+Al Laney's birth year is given as 1895 in Bill Shannon's New York Sports Dictionary and on the MGA honors page but as 1896 in Wikipedia and the International Tennis Hall of Fame; the prompt's 1895 is consistent with one credible source strand. Sources did not give Lincoln Werden's precise life dates; his career is best documented through his GWAA presidency (1952–1955) and the eponymous MGWA award. Bob Drum's precise birth date is consistently given as 1918, with death in May 1996 at age 78 in Pinehurst, N.C.
 
-Finally, this survey deliberately treats the period 1950–1970 as bounded by publication dates; many of the books cited (Wind's collected New Yorker essays in "Following Through," the Classics of Golf reprints of Laney, Lema, and others) are post-1970 publications of pre-1970 work, and they are included on that basis. Anything labeled "Classics of Golf" is a 1980s–1990s reprint—useful for access but secondary to first editions for textual purposes.
+This survey deliberately treats the period 1950–1970 as bounded by publication dates; many of the books cited (Wind's collected New Yorker essays in "Following Through," the Classics of Golf reprints of Laney, Lema, and others) are post-1970 publications of pre-1970 work, and they are included on that basis. Anything labeled "Classics of Golf" is a 1980s–1990s reprint—useful for access but secondary to first editions for textual purposes.

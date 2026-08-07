@@ -1,14 +1,14 @@
 ---
 title: GB&I vs American Golf Culture
 description: Contrasts British and American golf club traditions across competition, pace, access, and format to propose a hybrid bogey club model.
+created: 2026-06-10
+lastmod: 2026-08-04
 tags:
   - bogey-competition
   - club-culture
   - golf
   - golf-formats
   - handicap-system
-created: 2026-06-10
-lastmod: 2026-07-03
 ---
 
 The cultural differences that actually matter on the ground:

@@ -1,14 +1,14 @@
 ---
 title: Rules of Golf
 description: "The 2023 USGA/R&A Rules of Golf—fundamentals, player conduct, and the full run of playing rules in the modern consolidated code."
+date: 2026-05-27
+created: 2026-05-27
+lastmod: 2026-08-04
 tags:
   - golf
   - player-conduct
   - rules-and-regulations
   - sports
-created: 2026-05-27
-date: 2026-05-27
-lastmod: 2026-07-03
 ---
 
 ## Rules of Golf as Approved by R&A Rules Limited and the United States Golf Association, effective January 2023

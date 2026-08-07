@@ -1,13 +1,13 @@
 ---
 title: Scrambles
 description: "The Club's position on the scramble—affectionate disdain for the format, genuine respect for its everyman social availability."
+date: 2026-06-22
+created: 2026-06-22
+lastmod: 2026-08-04
 tags:
   - golf
   - golf-community
   - sport-culture
-created: 2026-06-22
-date: 2026-06-22
-lastmod: 2026-06-22
 ---
 
 A scramble is the team format in which everyone tees off, the side picks the best ball, and all play their next from there. It is the staple of the charity outing and the corporate day, and the Club's opinion of it as _golf_ is a settled and gentle disdain.

@@ -1,14 +1,14 @@
 ---
 title: Hickory Era Golf Club Names
 description: Maps historical hickory-era golf club names (mashie, niblick, cleek, etc.) to their modern iron/wood equivalents.
+date: 2026-05-23
+created: 2026-05-26
+lastmod: 2026-08-04
 tags:
   - equipment
   - golf
   - golf-history
   - hickory-golf
-created: 2026-05-26
-date: 2026-05-23
-lastmod: 2026-07-03
 ---
 
 - Driver—modern driver
@@ -16,7 +16,7 @@ lastmod: 2026-07-03
 - Spoon—higher-lofted fairway wood, somewhere around a 5-wood or 7-wood. The face had a slight "spooned" loft
 - Baffy / baffing spoon—even more lofted fairway wood, almost a modern hybrid or 7-wood
 - Cleek—long iron. Could mean several things, but commonly equivalent to a 1-iron through 3-iron. A "driving cleek" was especially tee-shot oriented
-- Mid-iron—around a 2- or 3-iron
+- Mid-iron—around a 2or 3-iron
 - Mashie iron—transitional club between cleek and mashie
 - Mashie—roughly a 5-iron
 - Spade mashie—6-iron territory

@@ -1,15 +1,15 @@
 ---
 title: Game Philosophy
 description: "Index of essays on golf's purpose, what modernization has corrupted, how to recover the game's original spirit, and the formats the Club plays."
+date: 2026-05-26
+created: 2026-06-01
+lastmod: 2026-08-04
 tags:
   - golf
   - index
   - modernization
   - philosophy
   - sport-culture
-created: 2026-06-01
-date: 2026-05-26
-lastmod: 2026-07-03
 ---
 
 Essays on what golf is for, what modernization is taking from it, how to recover what made the game worth playing—and the formats the Club plays.

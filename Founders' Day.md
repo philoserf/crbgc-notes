@@ -1,13 +1,13 @@
 ---
 title: "Founders' Day"
 description: "The Club's annual tribute to Mark Ayers and Dean Chase, and to the founding conviction that a bogey is an honest result."
+date: 2026-06-22
+created: 2026-06-22
+lastmod: 2026-08-04
 tags:
   - golf
   - golf-community
   - tradition
-created: 2026-06-22
-date: 2026-06-22
-lastmod: 2026-06-22
 ---
 
 Once a year the Club pauses to remember that it was founded on purpose. Mark Ayers and Dean Chase did not set out to build another scorecard-and-handicap club; they set out to organize a fellowship around walking, camaraderie, and the target of bogey—match play, hole by hole, against [[Colonel Bogey and the Bogey Competition|Colonel Bogey]]—and then, with characteristic seriousness about an unserious thing, gave it a constitution and adopted _Robert's Rules_ to run it by.

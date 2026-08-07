@@ -1,18 +1,18 @@
 ---
 title: Hanse Golf Course Design Portfolio
 description: "Comprehensive catalog of Gil Hanse's original designs, restorations, and renovations from 1992 to present."
+date: 2026-05-23
+created: 2026-05-26
+lastmod: 2026-08-07
 tags:
   - architecture
   - gil-hanse
   - golf-course-design
   - portfolio
   - restorations
-created: 2026-05-26
-date: 2026-05-23
-lastmod: 2026-07-03
 ---
 
-Hanse Golf Course Design (Gil Hanse with longtime partner Jim Wagner since 1995) classifies its work in three buckets: original designs, restorations, and renovations. The combined catalog below is compiled from the firm's own project pages, Wikipedia, and recent press; restorations dominate the workload, and a handful of recent / in-progress jobs are noted.
+Hanse Golf Course Design (Gil Hanse with longtime partner Jim Wagner since 1995) classifies its work in three categories: original designs, restorations, and renovations. The combined catalog below is compiled from the firm's own project pages, Wikipedia, and recent press; restorations dominate the workload, and a handful of recent / in-progress jobs are noted.
 
 Original 18-hole designs (and notable short courses):
 
@@ -46,7 +46,7 @@ Original 18-hole designs (and notable short courses):
 - Kinsale, Naples, FL, 2024
 - Childress Hall (Texas A&M / Childress), TX, 2025
 
-In progress / announced: Sweetens Cove No. 2 area in the Hanse pipeline has not been confirmed; a new course at Pinehurst's Sandmines (No. 11), a second course at Apogee, and additional Discovery Land–affiliated projects have been reported.
+In progress / announced: Sweetens Cove No. 2 area in development has not been confirmed; a new course at Pinehurst's Sandmines (No. 11), a second course at Apogee, and additional Discovery Land–affiliated projects have been reported.
 
 Defunct: Tallgrass, Shoreham, NY (closed 2017); Capstone Club at the University of Alabama (closed).
 

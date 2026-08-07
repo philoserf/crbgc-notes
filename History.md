@@ -1,15 +1,15 @@
 ---
 title: History
 description: "Index linking notes on golf's Scottish origins, American development, public courses, equipment eras, and golf writing."
+date: 2026-05-26
+created: 2026-06-01
+lastmod: 2026-08-04
 tags:
   - american-golf
   - golf
   - golf-history
   - history
   - index
-created: 2026-06-01
-date: 2026-05-26
-lastmod: 2026-07-03
 ---
 
 Scottish origins, the American game's arc, public-course history, and the writers who chronicled it.

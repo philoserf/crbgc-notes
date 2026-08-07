@@ -1,15 +1,15 @@
 ---
 title: Golden Age Walking Courses Near Grand Rapids
 description: Force-ranked list of minimalist/Golden Age walking courses within ~6 hours of Grand Rapids, with drive times and ferry logistics.
+date: 2026-05-23
+created: 2026-05-26
+lastmod: 2026-08-07
 tags:
   - course-design
   - golden-age-golf
   - golf
   - midwest
   - walking-golf
-created: 2026-05-26
-date: 2026-05-23
-lastmod: 2026-07-03
 ---
 
 Force-ranked, within roughly a six-hour drive of Grand Rapids, prioritizing the [[Minimalist Golf Architecture School|minimalist / Golden Age school]] and weighting walking policy alongside design quality, as in the national ranking at [[Walkable Public Golf Courses Ranked]]:
@@ -18,7 +18,7 @@ Force-ranked, within roughly a six-hour drive of Grand Rapids, prioritizing the 
 2. Sand Valley, Nekoosa, WI—[[Coore Crenshaw Course Portfolio|Coore & Crenshaw]], walking-only. The flagship of the resort.
 3. Sedge Valley, Sand Valley—Doak heathland, par-68; one of the gentlest top-shelf walks in modern American golf.
 4. Mammoth Dunes, Sand Valley—David McLay Kidd, walking-only, generous and visually big but routes easily on foot.
-5. Whistling Straits, Straits Course, Kohler, WI—Pete Dye, walking-only with caddie. About 5 hours by road; the demanding walk on this list. ~4.5 hours.
+5. Whistling Straits, Straits Course, Kohler, WI—Pete Dye, walking-only with caddie. ~4.5 hours by road; the most demanding walk on this list.
 6. Erin Hills, Erin, WI—Hurdzan/Fry/Whitten, walking-only with caddie or push cart. U.S. Open host; honest walk. ~5 hours.
 7. The Loop at Forest Dunes (Black & Red), Roscommon, MI—Doak's reversible 18; walking-encouraged; nearly flat sand. ~3 hours and the easiest serious walk on this list.
 8. Lawsonia Links, Green Lake, WI—Langford & Moreau 1930; walking-encouraged; arguably the best pre-war public course in the Midwest. ~5.5 hours road, ~3.5 with the ferry.
@@ -32,7 +32,7 @@ Close cuts worth flagging:
 
 The Sandbox at Sand Valley, Coore & Crenshaw's 17-hole par-3, bundles with any Sand Valley trip and walks effortlessly. The Commons, Jim Craig's new 12-hole at Sand Valley opening in 2026 on the early Prestwick routing, will likely belong on this list once it's open.
 
-Greywalls at Marquette Golf Club, in the Upper Peninsula, is a DeVries-designed dramatic course that gets cited as one of the best public walks in Michigan—but the drive is ~7.5–8 hours through the Mackinac Bridge, so it's outside the six-hour rule unless you're already pointed north.
+Greywalls at Marquette Golf Club, in the Upper Peninsula, is a DeVries-designed dramatic course that many golf-media rankings cite as one of the best public walks in Michigan—but the drive is ~7.5–8 hours through the Mackinac Bridge, so it's outside the six-hour rule unless you're already pointed north.
 
 Forest Dunes (the original Tom Weiskopf course adjacent to The Loop) walks well and is on the same property; it isn't really our school but it's a natural add-on for a Roscommon trip.
 

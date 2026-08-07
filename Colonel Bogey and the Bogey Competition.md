@@ -1,15 +1,15 @@
 ---
 title: Colonel Bogey and the Bogey Competition
 description: How the 1890s ground score became Colonel Bogey, how bogey drifted from good score to one over par, and why the C&RBGC plays match play against him.
+date: 2026-06-12
+created: 2026-06-12
+lastmod: 2026-08-04
 tags:
   - bogey
   - golf
   - golf-history
   - hickory-golf
   - match-play
-created: 2026-06-12
-date: 2026-06-12
-lastmod: 2026-07-03
 ---
 
 Before par, there was bogey—and bogey was not a number on a card but an opponent. The C&RBGC's official format, match play against Colonel Bogey, is not an invention; it is a revival of how ordinary club golf was scored in the 1890s, and the Colonel himself has a service record.
