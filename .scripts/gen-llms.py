@@ -120,7 +120,7 @@ def main() -> int:
         f"> {blurb}",
         "",
         f"A digital garden by Mark Ayers — the informal, editorial companion "
-        f"to the Common & Recent Bogey Golf Club governance site at "
+        f"to the Common & Recent Bogeymens Golf Club governance site at "
         f"{GOVERNANCE_SITE}. Notes are organized around a handful of index "
         f"hubs; each hub links out to its notes. The full note list follows.",
         "",
