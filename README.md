@@ -1,6 +1,6 @@
 ---
 title: C&RBGC
-description: Working notes on golf history, architecture, and hickory-era play, from the Common & Recent Bogey Golf Club walking fellowship.
+description: Working notes on golf history, architecture, and hickory-era play, from the Common & Recent Bogeymens Golf Club walking fellowship.
 date: 2026-05-26
 created: 2026-05-26
 lastmod: 2026-08-04
@@ -14,7 +14,7 @@ tags:
 
 Notes on golf—its history, its architects, its courses, and especially the walking, hickory-era version of the game.
 
-"C&RBGC" is shorthand for the [Common & Recent Bogey Golf Club](https://crbgc.org): a fellowship oriented around camaraderie, walking, and the older spirit of the game rather than scores or status. The target is bogey—match play, hole by hole, against [[Colonel Bogey and the Bogey Competition|Colonel Bogey]].
+"C&RBGC" is shorthand for the [Common & Recent Bogeymens Golf Club](https://crbgc.org): a fellowship oriented around camaraderie, walking, and the older spirit of the game rather than scores or status. The target is bogey—match play, hole by hole, against [[Colonel Bogey and the Bogey Competition|Colonel Bogey]].
 
 These are working notes in motion, not finished essays—biased toward walking, hickory, classic architecture, Michigan, and the older orientation of the game.
 

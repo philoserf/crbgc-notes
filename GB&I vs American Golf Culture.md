@@ -25,7 +25,7 @@ Honesty infrastructure. GB&I culture leans on the honesty box, the unmanned star
 
 Visitor access. Most great GB&I clubs welcome visitors at a published green fee; the club is private but the course is shared. The American private club is genuinely closed.
 
-For the Common & Recent Bogey Golf Club's declaration of independence, the natural constitution writes itself from the name—a club organized around the [[Colonel Bogey and the Bogey Competition|bogey competition]], which is itself the perfect synthesis: a GB&I format (play against the card, match-play scoring, pick up when the hole is lost) that suits American casual play because nobody has to finish a blow-up hole.
+For the Common & Recent Bogeymens Golf Club's declaration of independence, the natural constitution writes itself from the name—a club organized around the [[Colonel Bogey and the Bogey Competition|bogey competition]], which is itself the perfect synthesis: a GB&I format (play against the card, match-play scoring, pick up when the hole is lost) that suits American casual play because nobody has to finish a blow-up hole.
 
 From the R&A tradition: the weekly competition as the club's heartbeat, foursomes as the honored format, walking as default, the honesty box, visitor access at a fair fee, a one-room clubhouse with a good bar and no dining minimum, and trophies with absurdly specific names contested annually.
 
