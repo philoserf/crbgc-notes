@@ -3,7 +3,7 @@ title: Game Philosophy
 description: "Index of essays on golf's purpose, what modernization has corrupted, how to recover the game's original spirit, and the formats the Club plays."
 date: 2026-05-26
 created: 2026-06-01
-lastmod: 2026-08-04
+lastmod: 2026-09-02
 tags:
   - golf
   - index
@@ -20,5 +20,7 @@ Essays on what golf is for, what modernization is taking from it, how to recover
 - [[GB&I vs American Golf Culture]]
 - [[Match Play Guide]]
 - [[Scrambles]]
+- [[The Backup Club Effect]]
+- [[The Endless Golf Equipment Fee]]
 
 Playing alone is its own thread of this argument: see [[Solo Golf]]. The clubs and communities that share this argument, from different angles, are gathered under [[Like-Minded Clubs]].

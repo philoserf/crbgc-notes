@@ -3,7 +3,7 @@ title: Michigan Golf
 description: "Why Michigan's glacial landforms make it an underrated golf destination, with Golfweek's top-20 ranking as the evidence."
 date: 2026-05-24
 created: 2026-05-26
-lastmod: 2026-08-04
+lastmod: 2026-09-02
 tags:
   - course-design
   - course-rankings
@@ -39,5 +39,9 @@ The rankings bear the geology out. Golfweek's top 20 public-access courses in th
 18. Hidden River Golf & Casting Club
 19. Diamond Springs
 20. Pine Mountain Resort (Timber Stone)
+
+Two closer looks at west Michigan: [[Ranking Rockford Golf Courses]] runs the public courses north of Grand Rapids through MacKenzie's thirteen principles, and [[Camp Lake Golf Course History]] traces one of them back to a 1930 resort layout.
+
+Farther north, [[Golf Courses Near Harbor Springs]] ranks the resort cluster in the northwest Lower Peninsula.
 
 For the walking-first cut of Michigan and the near-Midwest—drive times from Grand Rapids included—see [[Golden Age Walking Courses Near Grand Rapids]].
