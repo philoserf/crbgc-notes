@@ -12,13 +12,17 @@ tags:
   - reading-list
 ---
 
-1. Bernard Darwin's [Golf Courses of the British Isles](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=0000L_00001-005p&startLexposition=0000K&emphasizeText=Golf+Courses+of+the+British+Isles)
-2. [The World Atlas of Golf](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=0000Q_00001-003t&startLexposition=0000O&emphasizeText=The+World+Atlas+of+Golf) edited by Pat Ward-Thomas
-3. [The Architectural Side of Golf](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=0000V_00001-00FS&startLexposition=0000V&emphasizeText=The+Architectural+Side+of+Golf) by Herbert Newton Wethered and Tom Simpson
-4. Alister MacKenzie's [Golf Architecture](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=0000f_00001-004m&startLexposition=0000d&emphasizeText=Golf+Architecture)
-5. George Thomas's [Golf Architecture in America](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=0000k_00001-00Dj&startLexposition=0000j&emphasizeText=Golf+Architecture+in+America)
-6. Tom Doak's [The Anatomy of a Golf Course](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=0000o_00001-009O&startLexposition=0000n&emphasizeText=The+Anatomy+of+a+Golf+Course)
-7. Robert Hunter's [The Links](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=0000u_00001-0091&startLexposition=0000t&emphasizeText=The+Links+by+Robert+Hunter)
-8. Jeff Shackelford's [Grounds for Golf](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=00012_00001-00Em&startLexposition=00012&emphasizeText=Grounds+for+Golf)
-9. Derek Markham and Philip Truett's [A Matter of Course](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=00017_00001-00AB&startLexposition=00017&emphasizeText=A+Matter+of+Course)
-10. Pete Dye's [Bury Me in a Pot Bunker](https://read.readwise.io/read/01kzhwwf19vhh95k8q423fqn69?endLexposition=0001D_00001-006B&startLexposition=0001C&emphasizeText=Bury+Me+in+a+Pot+Bunker)
+Ten books that between them cover the ground: the British origins, the Golden Age treatises written by the architects themselves, and the modern accounts that recovered them.
+
+1. **Bernard Darwin, "The Golf Courses of the British Isles" (1910).** The first great book of golf course writing, and still the model for how to describe a course in prose rather than in yardages.
+2. **Pat Ward-Thomas, ed., "The World Atlas of Golf" (1976).** The survey volume, with the hole diagrams that taught a generation to read a routing.
+3. **H. N. Wethered and Tom Simpson, "The Architectural Side of Golf" (1929).** The most theoretical of the Golden Age treatises, and the one most concerned with why a hole works.
+4. **Alister MacKenzie, "Golf Architecture" (1920).** Short, plain and foundational. The source of [[MacKenzie's 13 Golf Course Principles|the thirteen principles]].
+5. **George Thomas, "Golf Architecture in America" (1927).** The American counterpart, and the origin of the strategic-heroic-penal taxonomy everyone still argues in.
+6. **Tom Doak, "The Anatomy of a Golf Course" (1992).** The book that taught the modern audience to look at ground, written before Doak had built the courses that proved the argument.
+7. **Robert Hunter, "The Links" (1926).** A socialist writer on golf architecture, unexpectedly, and one of the sharpest on naturalism.
+8. **Geoff Shackelford, "Grounds for Golf" (2003).** The best single introduction for a reader coming to the subject cold.
+9. **Derek Markham and Philip Truett, "A Matter of Course."** A club-history approach to how courses actually change over time.
+10. **Pete Dye, "Bury Me in a Pot Bunker" (1995).** Not a treatise but a memoir, and the necessary counterweight: the maximalist explaining himself in his own voice.
+
+The [[Course Architecture]] hub collects the notes that work through these arguments.
