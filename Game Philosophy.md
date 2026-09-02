@@ -19,6 +19,8 @@ Essays on what golf is for, what modernization is taking from it, how to recover
 - [[Modernization's Corruption of Golf]]
 - [[GB&I vs American Golf Culture]]
 - [[Match Play Guide]]
+- [[Understanding Golf Match-Play Scoring]]
+- [[Golf Match-Play Tournament Structure]]
 - [[Scrambles]]
 - [[The Backup Club Effect]]
 - [[The Endless Golf Equipment Fee]]

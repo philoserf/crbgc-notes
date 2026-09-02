@@ -1,12 +1,14 @@
 ---
 title: Understanding Golf Match-Play Scoring
-description: Explains how golf match-play scores like "3 & 2" reflect hole leads rather than total strokes.
+description: 'How to read a match-play result: why "3 & 2" states a lead in holes rather than a total in strokes.'
+date: 2026-08-31
 created: 2026-08-31
 lastmod: 2026-09-02
 tags:
   - golf
+  - golf-formats
   - match-play
-  - scoring-rules
+  - scoring-systems
 ---
 
 In golf match play, you are not trying to shoot the lowest total score for the round. You are trying to win more individual holes than your opponent.
