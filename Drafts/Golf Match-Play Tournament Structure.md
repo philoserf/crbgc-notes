@@ -14,7 +14,7 @@ A match-play tournament is usually a bracket tournament built out of individual 
 
 The simplest form looks like the NCAA basketball tournament or a tennis draw. Suppose 64 golfers qualify. In the first round there are 32 head-to-head matches. The 32 winners advance, then 16, then 8, then 4, then 2, until one player wins the championship.
 
-Each match is scored independently using the system we just discussed. So a player's tournament path might look like:
+Each match is scored independently, hole by hole. So a player's tournament path might look like:
 
 First round: won 4 & 3  
 Round of 32: won 1 up  

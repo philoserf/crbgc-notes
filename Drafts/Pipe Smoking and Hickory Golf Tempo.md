@@ -32,9 +32,9 @@ A course walk gives three repeating phases:
 
 Pipe cadence maps onto that cleanly:
 
-- Between shots → pipe rests, no attention required
-- Pre-shot → pipe set down or paused
-- Execution → no smoking, just golf
+- Between shots, the pipe rests and asks no attention
+- Pre-shot, it is set down or paused
+- Execution, no smoking, just golf
 
 Not multitasking. Alternating systems.
 
@@ -89,7 +89,7 @@ When it clicks:
 - Less urgency to get it back immediately
 - More acceptance of uneven rounds and uneven bowls
 
-Both quietly train continuity over correction, rhythm over rescue behavior. That's the mindset shift.
+Both train continuity over correction, rhythm over rescue behavior. That's the mindset shift.
 
 ## Combined kit (minimal)
 
@@ -106,6 +106,6 @@ Lightweight, non-decision-heavy.
 
 When working well, it doesn't feel like switching activities. One tempo, alternating expressions of it.
 
-Walk → think → swing → walk → smoke → think → swing
+Walk, think, swing. Walk, smoke, think, swing.
 
 No acceleration spikes. No cognitive whiplash. A continuous line of attention moving through different tools.

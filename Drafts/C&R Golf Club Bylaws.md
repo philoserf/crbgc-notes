@@ -1,6 +1,6 @@
 ---
 title: C&R Golf Club Bylaws
-description: Bylaws and glossary of the C&R Bogie Golf Club, a fictional club prioritizing fun and camaraderie over scores.
+description: "Early bylaws and glossary of the Common & Recent Bogeymens Golf Club, written around the 84 standard that the Bogey Standard later replaced."
 created: 2025-01-06
 lastmod: 2026-09-02
 tags:
@@ -10,9 +10,9 @@ tags:
   - leisure
 ---
 
-a.k.a the <abbr>C&amp;RBGC</abbr> or the <abbr>C&amp;R</abbr>.
+The Common & Recent Bogeymens Golf Club, a.k.a. the C&RBGC or the C&R.
 
-Established circa 2000 by Mark Ayers and Dean Chase
+Established circa 2000 by Mark Ayers and Dean Chase.
 
 > We can shoot an 84 here, right?
 
@@ -50,7 +50,7 @@ The C&R exists to promote the ancient art of taking a pleasant walk on nice lawn
 
 ### Article VI: Annual Traditions
 
-1. Founder's Day: Annual recognition of Mark Ayers and Dean Chase's vision
+1. Founders' Day: Annual recognition of Mark Ayers and Dean Chase's vision
 2. Dew Sweeper Championship: Early morning tournament for the truly dedicated
 3. Zen Juice Appreciation Day: Celebration of the medicinal properties of course-side scotch
 

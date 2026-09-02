@@ -36,7 +36,7 @@ Quarterfinals, semifinals, final.
 
 That gives every player meaningful participation without requiring a 23-match full round robin.
 
-You could also hold a regular league evening—say every second Tuesday—without requiring that all matches happen then. That gives you the social advantages of a fixed league while retaining scheduling flexibility.
+A regular league evening—say every second Tuesday—can run alongside this without requiring that all matches happen then, which keeps the social advantages of a fixed league while retaining scheduling flexibility.
 
 I would rank the three models this way for a new league.
 
@@ -46,6 +46,6 @@ If competition and fairness come first: round robin or pool play into a knockout
 
 If flexibility and continuous informal play come first: ladder.
 
-For what you seem to be describing, I would now lean toward pool play plus a knockout championship rather than a ladder. It has cleaner competitive logic, produces a real season, guarantees matches, and culminates in something everyone immediately understands.
+For a club starting from nothing, pool play plus a knockout championship beats a ladder. It has cleaner competitive logic, produces a real season, guarantees matches, and culminates in something everyone immediately understands.
 
 The ladder could still exist as a secondary, year-round activity rather than the league's primary structure.
