@@ -23199,6 +23199,179 @@ function update(forkRef, refs) {
 }
 
 // node_modules/reselect/dist/reselect.mjs
+var CACHE_SIZE_CHECK_THRESHOLD = 1e3;
+var runCacheSizeCheck = (cacheSize, funcName) => {
+  let stack = void 0;
+  try {
+    throw new Error();
+  } catch (e) {
+    ;
+    ({ stack } = e);
+  }
+  console.warn(
+    `A function memoized with weakMapMemoize${funcName ? ` (\`${funcName}\`)` : ""} has seen over ${cacheSize} distinct values for the same primitive argument position.
+Results keyed by primitive arguments are held strongly and are only released by \`clearCache()\`, so this cache will keep growing for as long as the function keeps seeing new values.
+If it is called with ever-changing primitives (ids, offsets, timestamps), pass the \`maxSize\` option to bound the cache, switch to \`lruMemoize\`, or call \`.clearCache()\` at a suitable point.
+See https://reselect.js.org/api/development-only-checks#cachesizecheck for details.`,
+    { stack }
+  );
+};
+var globalDevModeChecks = {
+  inputStabilityCheck: "once",
+  identityFunctionCheck: "once",
+  cacheSizeCheck: "once"
+};
+var StrongRef = class {
+  constructor(value) {
+    this.value = value;
+  }
+  deref() {
+    return this.value;
+  }
+};
+var getWeakRef = () => typeof WeakRef === "undefined" ? StrongRef : WeakRef;
+var Ref = /* @__PURE__ */ getWeakRef();
+var UNTERMINATED = 0;
+var TERMINATED = 1;
+function createCacheNode() {
+  return {
+    s: UNTERMINATED,
+    v: void 0,
+    o: null,
+    p: null
+  };
+}
+function maybeDeref(r2) {
+  if (r2 instanceof Ref) {
+    return r2.deref();
+  }
+  return r2;
+}
+function weakMapMemoize(func, options = {}) {
+  let fnNode = createCacheNode();
+  const { resultEqualityCheck, maxSize } = options;
+  const useGenerations = maxSize !== void 0;
+  if (useGenerations && (!Number.isInteger(maxSize) || maxSize < 1)) {
+    throw new TypeError(
+      `maxSize must be a positive integer, received: ${maxSize}`
+    );
+  }
+  let prevNode = null;
+  let insertionCount = 0;
+  let lastResult;
+  let resultsCount = 0;
+  let hasWarnedAboutCacheSize = false;
+  function maybeFlipGenerations() {
+    if (insertionCount >= maxSize) {
+      prevNode = fnNode;
+      fnNode = createCacheNode();
+      insertionCount = 0;
+    }
+  }
+  function memoized() {
+    let cacheNode = fnNode;
+    const { length: length2 } = arguments;
+    for (let i = 0, l = length2; i < l; i++) {
+      const arg2 = arguments[i];
+      if (typeof arg2 === "function" || typeof arg2 === "object" && arg2 !== null) {
+        let objectCache = cacheNode.o;
+        if (objectCache === null) {
+          cacheNode.o = objectCache = /* @__PURE__ */ new WeakMap();
+        }
+        const objectNode = objectCache.get(arg2);
+        if (objectNode === void 0) {
+          cacheNode = createCacheNode();
+          objectCache.set(arg2, cacheNode);
+        } else {
+          cacheNode = objectNode;
+        }
+      } else {
+        let primitiveCache = cacheNode.p;
+        if (primitiveCache === null) {
+          cacheNode.p = primitiveCache = /* @__PURE__ */ new Map();
+        }
+        const primitiveNode = primitiveCache.get(arg2);
+        if (primitiveNode === void 0) {
+          cacheNode = createCacheNode();
+          primitiveCache.set(arg2, cacheNode);
+          insertionCount++;
+          if (true) {
+            if (primitiveCache.size > CACHE_SIZE_CHECK_THRESHOLD) {
+              const { cacheSizeCheck } = globalDevModeChecks;
+              if (cacheSizeCheck === "always" || cacheSizeCheck === "once" && !hasWarnedAboutCacheSize) {
+                hasWarnedAboutCacheSize = true;
+                runCacheSizeCheck(primitiveCache.size, func.name);
+              }
+            }
+          }
+        } else {
+          cacheNode = primitiveNode;
+        }
+      }
+    }
+    if (cacheNode.s === TERMINATED) {
+      return cacheNode.v;
+    }
+    if (prevNode !== null) {
+      let prevCacheNode = prevNode;
+      for (let i = 0, l = length2; i < l; i++) {
+        const arg2 = arguments[i];
+        let next2;
+        if (typeof arg2 === "function" || typeof arg2 === "object" && arg2 !== null) {
+          const prevObjectCache = prevCacheNode.o;
+          next2 = prevObjectCache !== null ? prevObjectCache.get(arg2) : void 0;
+        } else {
+          const prevPrimitiveCache = prevCacheNode.p;
+          next2 = prevPrimitiveCache !== null ? prevPrimitiveCache.get(arg2) : void 0;
+        }
+        if (next2 === void 0) {
+          prevCacheNode = null;
+          break;
+        }
+        prevCacheNode = next2;
+      }
+      if (prevCacheNode !== null && prevCacheNode.s === TERMINATED) {
+        const promotedNode = cacheNode;
+        promotedNode.s = TERMINATED;
+        promotedNode.v = prevCacheNode.v;
+        maybeFlipGenerations();
+        return prevCacheNode.v;
+      }
+    }
+    const terminatedNode = cacheNode;
+    let result = func.apply(null, arguments);
+    resultsCount++;
+    if (resultEqualityCheck) {
+      const lastResultValue = maybeDeref(lastResult);
+      if (lastResultValue != null && resultEqualityCheck(lastResultValue, result)) {
+        result = lastResultValue;
+        resultsCount !== 0 && resultsCount--;
+      }
+      const needsWeakRef = typeof result === "object" && result !== null || typeof result === "function";
+      lastResult = needsWeakRef ? /* @__PURE__ */ new Ref(result) : result;
+    }
+    terminatedNode.s = TERMINATED;
+    terminatedNode.v = result;
+    if (useGenerations) {
+      maybeFlipGenerations();
+    }
+    return result;
+  }
+  memoized.clearCache = () => {
+    fnNode = createCacheNode();
+    prevNode = null;
+    insertionCount = 0;
+    memoized.resetResultsCount();
+    if (true) {
+      hasWarnedAboutCacheSize = false;
+    }
+  };
+  memoized.resultsCount = () => resultsCount;
+  memoized.resetResultsCount = () => {
+    resultsCount = 0;
+  };
+  return memoized;
+}
 var runIdentityFunctionCheck = (resultFunc, inputSelectorsResults, outputSelectorResult) => {
   if (inputSelectorsResults.length === 1 && inputSelectorsResults[0] === outputSelectorResult) {
     let isInputSameAsOutput = false;
@@ -23222,10 +23395,23 @@ var runIdentityFunctionCheck = (resultFunc, inputSelectorsResults, outputSelecto
     }
   }
 };
+var withoutResultEqualityCheck = (option) => {
+  if (option === null || typeof option !== "object" || !("resultEqualityCheck" in option)) {
+    return option;
+  }
+  const optionCopy = __spreadValues({}, option);
+  delete optionCopy.resultEqualityCheck;
+  return optionCopy;
+};
 var runInputStabilityCheck = (inputSelectorResultsObject, options, inputSelectorArgs) => {
   const { memoize: memoize3, memoizeOptions } = options;
   const { inputSelectorResults, inputSelectorResultsCopy } = inputSelectorResultsObject;
-  const createAnEmptyObject = memoize3(() => ({}), ...memoizeOptions);
+  const probeMemoizeOptions = [];
+  const { length: length2 } = memoizeOptions;
+  for (let i = 0; i < length2; i++) {
+    probeMemoizeOptions.push(withoutResultEqualityCheck(memoizeOptions[i]));
+  }
+  const createAnEmptyObject = memoize3(() => ({}), ...probeMemoizeOptions);
   const areInputSelectorResultsEqual = createAnEmptyObject.apply(null, inputSelectorResults) === createAnEmptyObject.apply(null, inputSelectorResultsCopy);
   if (!areInputSelectorResultsEqual) {
     let stack = void 0;
@@ -23245,10 +23431,6 @@ var runInputStabilityCheck = (inputSelectorResultsObject, options, inputSelector
       }
     );
   }
-};
-var globalDevModeChecks = {
-  inputStabilityCheck: "once",
-  identityFunctionCheck: "once"
 };
 var NOT_FOUND = /* @__PURE__ */ Symbol("NOT_FOUND");
 function assertIsFunction(func, errorMessage = `expected a function, instead received ${typeof func}`) {
@@ -23282,216 +23464,6 @@ function collectInputSelectorResults(dependencies, inputSelectorArgs) {
     inputSelectorResults.push(dependencies[i].apply(null, inputSelectorArgs));
   }
   return inputSelectorResults;
-}
-var getDevModeChecksExecutionInfo = (firstRun, devModeChecks) => {
-  const { identityFunctionCheck, inputStabilityCheck } = __spreadValues(__spreadValues({}, globalDevModeChecks), devModeChecks);
-  return {
-    identityFunctionCheck: {
-      shouldRun: identityFunctionCheck === "always" || identityFunctionCheck === "once" && firstRun,
-      run: runIdentityFunctionCheck
-    },
-    inputStabilityCheck: {
-      shouldRun: inputStabilityCheck === "always" || inputStabilityCheck === "once" && firstRun,
-      run: runInputStabilityCheck
-    }
-  };
-};
-function createSingletonCache(equals) {
-  let entry;
-  return {
-    get(key) {
-      if (entry && equals(entry.key, key)) {
-        return entry.value;
-      }
-      return NOT_FOUND;
-    },
-    put(key, value) {
-      entry = { key, value };
-    },
-    getEntries() {
-      return entry ? [entry] : [];
-    },
-    clear() {
-      entry = void 0;
-    }
-  };
-}
-function createLruCache(maxSize, equals) {
-  let entries = [];
-  function get(key) {
-    const cacheIndex = entries.findIndex((entry) => equals(key, entry.key));
-    if (cacheIndex > -1) {
-      const entry = entries[cacheIndex];
-      if (cacheIndex > 0) {
-        entries.splice(cacheIndex, 1);
-        entries.unshift(entry);
-      }
-      return entry.value;
-    }
-    return NOT_FOUND;
-  }
-  function put(key, value) {
-    if (get(key) === NOT_FOUND) {
-      entries.unshift({ key, value });
-      if (entries.length > maxSize) {
-        entries.pop();
-      }
-    }
-  }
-  function getEntries() {
-    return entries;
-  }
-  function clear() {
-    entries = [];
-  }
-  return { get, put, getEntries, clear };
-}
-var referenceEqualityCheck = (a, b) => a === b;
-function createCacheKeyComparator(equalityCheck) {
-  return function areArgumentsShallowlyEqual(prev2, next2) {
-    if (prev2 === null || next2 === null || prev2.length !== next2.length) {
-      return false;
-    }
-    const { length: length2 } = prev2;
-    for (let i = 0; i < length2; i++) {
-      if (!equalityCheck(prev2[i], next2[i])) {
-        return false;
-      }
-    }
-    return true;
-  };
-}
-function lruMemoize(func, equalityCheckOrOptions) {
-  const providedOptions = typeof equalityCheckOrOptions === "object" ? equalityCheckOrOptions : { equalityCheck: equalityCheckOrOptions };
-  const {
-    equalityCheck = referenceEqualityCheck,
-    maxSize = 1,
-    resultEqualityCheck
-  } = providedOptions;
-  const comparator = createCacheKeyComparator(equalityCheck);
-  let resultsCount = 0;
-  const cache = maxSize <= 1 ? createSingletonCache(comparator) : createLruCache(maxSize, comparator);
-  function memoized() {
-    let value = cache.get(arguments);
-    if (value === NOT_FOUND) {
-      value = func.apply(null, arguments);
-      resultsCount++;
-      if (resultEqualityCheck) {
-        const entries = cache.getEntries();
-        const matchingEntry = entries.find(
-          (entry) => resultEqualityCheck(entry.value, value)
-        );
-        if (matchingEntry) {
-          value = matchingEntry.value;
-          resultsCount !== 0 && resultsCount--;
-        }
-      }
-      cache.put(arguments, value);
-    }
-    return value;
-  }
-  memoized.clearCache = () => {
-    cache.clear();
-    memoized.resetResultsCount();
-  };
-  memoized.resultsCount = () => resultsCount;
-  memoized.resetResultsCount = () => {
-    resultsCount = 0;
-  };
-  return memoized;
-}
-var StrongRef = class {
-  constructor(value) {
-    this.value = value;
-  }
-  deref() {
-    return this.value;
-  }
-};
-var getWeakRef = () => typeof WeakRef === "undefined" ? StrongRef : WeakRef;
-var Ref = /* @__PURE__ */ getWeakRef();
-var UNTERMINATED = 0;
-var TERMINATED = 1;
-function createCacheNode() {
-  return {
-    s: UNTERMINATED,
-    v: void 0,
-    o: null,
-    p: null
-  };
-}
-function maybeDeref(r2) {
-  if (r2 instanceof Ref) {
-    return r2.deref();
-  }
-  return r2;
-}
-function weakMapMemoize(func, options = {}) {
-  let fnNode = createCacheNode();
-  const { resultEqualityCheck } = options;
-  let lastResult;
-  let resultsCount = 0;
-  function memoized() {
-    let cacheNode = fnNode;
-    const { length: length2 } = arguments;
-    for (let i = 0, l = length2; i < l; i++) {
-      const arg2 = arguments[i];
-      if (typeof arg2 === "function" || typeof arg2 === "object" && arg2 !== null) {
-        let objectCache = cacheNode.o;
-        if (objectCache === null) {
-          cacheNode.o = objectCache = /* @__PURE__ */ new WeakMap();
-        }
-        const objectNode = objectCache.get(arg2);
-        if (objectNode === void 0) {
-          cacheNode = createCacheNode();
-          objectCache.set(arg2, cacheNode);
-        } else {
-          cacheNode = objectNode;
-        }
-      } else {
-        let primitiveCache = cacheNode.p;
-        if (primitiveCache === null) {
-          cacheNode.p = primitiveCache = /* @__PURE__ */ new Map();
-        }
-        const primitiveNode = primitiveCache.get(arg2);
-        if (primitiveNode === void 0) {
-          cacheNode = createCacheNode();
-          primitiveCache.set(arg2, cacheNode);
-        } else {
-          cacheNode = primitiveNode;
-        }
-      }
-    }
-    const terminatedNode = cacheNode;
-    let result;
-    if (cacheNode.s === TERMINATED) {
-      result = cacheNode.v;
-    } else {
-      result = func.apply(null, arguments);
-      resultsCount++;
-      if (resultEqualityCheck) {
-        const lastResultValue = maybeDeref(lastResult);
-        if (lastResultValue != null && resultEqualityCheck(lastResultValue, result)) {
-          result = lastResultValue;
-          resultsCount !== 0 && resultsCount--;
-        }
-        const needsWeakRef = typeof result === "object" && result !== null || typeof result === "function";
-        lastResult = needsWeakRef ? /* @__PURE__ */ new Ref(result) : result;
-      }
-    }
-    terminatedNode.s = TERMINATED;
-    terminatedNode.v = result;
-    return result;
-  }
-  memoized.clearCache = () => {
-    fnNode = createCacheNode();
-    memoized.resetResultsCount();
-  };
-  memoized.resultsCount = () => resultsCount;
-  memoized.resetResultsCount = () => {
-    resultsCount = 0;
-  };
-  return memoized;
 }
 function createSelectorCreator(memoizeOrOptions, ...memoizeOptionsFromArgs) {
   const createSelectorCreatorOptions = typeof memoizeOrOptions === "function" ? {
@@ -23532,27 +23504,35 @@ function createSelectorCreator(memoizeOrOptions, ...memoizeOptionsFromArgs) {
     let firstRun = true;
     const selector = argsMemoize(function dependenciesChecker() {
       dependencyRecomputations++;
-      const inputSelectorResults = collectInputSelectorResults(
-        dependencies,
-        arguments
-      );
+      const { length: length2 } = dependencies;
+      const inputSelectorResults = new Array(length2);
+      for (let i = 0; i < length2; i++) {
+        inputSelectorResults[i] = dependencies[i].apply(null, arguments);
+      }
       lastResult = memoizedResultFunc.apply(null, inputSelectorResults);
       if (true) {
-        const { devModeChecks = {} } = combinedOptions;
-        const { identityFunctionCheck, inputStabilityCheck } = getDevModeChecksExecutionInfo(firstRun, devModeChecks);
-        if (identityFunctionCheck.shouldRun) {
-          identityFunctionCheck.run(
+        const { devModeChecks } = combinedOptions;
+        const identityFunctionCheck = devModeChecks !== void 0 && Object.prototype.hasOwnProperty.call(
+          devModeChecks,
+          "identityFunctionCheck"
+        ) ? devModeChecks.identityFunctionCheck : globalDevModeChecks.identityFunctionCheck;
+        const inputStabilityCheck = devModeChecks !== void 0 && Object.prototype.hasOwnProperty.call(
+          devModeChecks,
+          "inputStabilityCheck"
+        ) ? devModeChecks.inputStabilityCheck : globalDevModeChecks.inputStabilityCheck;
+        if (identityFunctionCheck === "always" || identityFunctionCheck === "once" && firstRun) {
+          runIdentityFunctionCheck(
             resultFunc,
             inputSelectorResults,
             lastResult
           );
         }
-        if (inputStabilityCheck.shouldRun) {
+        if (inputStabilityCheck === "always" || inputStabilityCheck === "once" && firstRun) {
           const inputSelectorResultsCopy = collectInputSelectorResults(
             dependencies,
             arguments
           );
-          inputStabilityCheck.run(
+          runInputStabilityCheck(
             { inputSelectorResults, inputSelectorResultsCopy },
             { memoize: memoize3, memoizeOptions: finalMemoizeOptions },
             arguments
@@ -23583,6 +23563,117 @@ function createSelectorCreator(memoizeOrOptions, ...memoizeOptionsFromArgs) {
     withTypes: () => createSelector2
   });
   return createSelector2;
+}
+function createSingletonCache(equals) {
+  let entry;
+  return {
+    get(key) {
+      if (entry && equals(entry.key, key)) {
+        return entry.value;
+      }
+      return NOT_FOUND;
+    },
+    put(key, value) {
+      entry = { key, value };
+    },
+    findMatchingEntry(value, resultEqualityCheck) {
+      const current = entry;
+      return current !== void 0 && resultEqualityCheck(current.value, value) ? current : void 0;
+    },
+    clear() {
+      entry = void 0;
+    }
+  };
+}
+function createLruCache(maxSize, equals) {
+  let entries = [];
+  function get(key) {
+    const cacheIndex = entries.findIndex((entry) => equals(entry.key, key));
+    if (cacheIndex > -1) {
+      const entry = entries[cacheIndex];
+      if (cacheIndex > 0) {
+        entries.splice(cacheIndex, 1);
+        entries.unshift(entry);
+      }
+      return entry.value;
+    }
+    return NOT_FOUND;
+  }
+  function put(key, value) {
+    entries.unshift({ key, value });
+    if (entries.length > maxSize) {
+      entries.pop();
+    }
+  }
+  function findMatchingEntry(value, resultEqualityCheck) {
+    const currentEntries = entries;
+    const { length: length2 } = currentEntries;
+    for (let i = 0; i < length2; i++) {
+      const entry = currentEntries[i];
+      if (resultEqualityCheck(entry.value, value)) {
+        return entry;
+      }
+    }
+    return void 0;
+  }
+  function clear() {
+    entries = [];
+  }
+  return { get, put, findMatchingEntry, clear };
+}
+var referenceEqualityCheck = (a, b) => a === b;
+function createCacheKeyComparator(equalityCheck) {
+  return function areArgumentsShallowlyEqual(prev2, next2) {
+    if (prev2 === null || next2 === null || prev2.length !== next2.length) {
+      return false;
+    }
+    const { length: length2 } = prev2;
+    for (let i = 0; i < length2; i++) {
+      if (!equalityCheck(prev2[i], next2[i])) {
+        return false;
+      }
+    }
+    return true;
+  };
+}
+function lruMemoize(func, equalityCheckOrOptions) {
+  const providedOptions = typeof equalityCheckOrOptions === "object" ? equalityCheckOrOptions : { equalityCheck: equalityCheckOrOptions };
+  const {
+    equalityCheck = referenceEqualityCheck,
+    maxSize = 1,
+    resultEqualityCheck
+  } = providedOptions;
+  const comparator = createCacheKeyComparator(equalityCheck);
+  let resultsCount = 0;
+  const cache = maxSize <= 1 ? createSingletonCache(comparator) : createLruCache(maxSize, comparator);
+  function memoized() {
+    let value = cache.get(arguments);
+    if (value === NOT_FOUND) {
+      value = func.apply(null, arguments);
+      resultsCount++;
+      if (resultEqualityCheck) {
+        const matchingEntry = cache.findMatchingEntry(
+          value,
+          resultEqualityCheck
+        );
+        if (matchingEntry) {
+          value = matchingEntry.value;
+          resultsCount !== 0 && resultsCount--;
+        }
+      }
+      cache.put(arguments, value);
+    }
+    return value;
+  }
+  memoized.clearCache = () => {
+    cache.clear();
+    memoized.resetResultsCount();
+  };
+  memoized.resultsCount = () => resultsCount;
+  memoized.resetResultsCount = () => {
+    resultsCount = 0;
+  };
+  return memoized;
 }
 
 // node_modules/@mui/x-internals/store/createSelector.mjs
@@ -38863,7 +38954,7 @@ var FlowershowClient = class {
       const url = `${this.apiUrl}${endpoint}`;
       const headers = __spreadProps(__spreadValues({}, options.headers), {
         Authorization: `Bearer ${this.token}`,
-        "X-Flowershow-Plugin-Version": "4.2.0"
+        "X-Flowershow-Plugin-Version": "4.2.2"
       });
       return (0, import_obsidian2.requestUrl)({
         url,
@@ -38888,31 +38979,6 @@ var FlowershowClient = class {
         }
         throw new Error(
           error.message || `Failed to get user info: ${response.status}`
-        );
-      }
-      return response.json;
-    });
-  }
-  /**
-   * Create a new site or get existing site by name
-   */
-  createSite(projectName, overwrite = false) {
-    return __async(this, null, function* () {
-      const response = yield this.apiRequest("/api/sites", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json"
-        },
-        body: JSON.stringify({ projectName, overwrite })
-      });
-      if (response.status >= 300) {
-        let error = {};
-        try {
-          error = response.json;
-        } catch (_) {
-        }
-        throw new Error(
-          error.message || `Failed to create site: ${response.status}`
         );
       }
       return response.json;
@@ -39304,22 +39370,82 @@ var Publisher = class {
       return null;
     });
   }
-  /** Get or create the site */
+  /**
+   * Resolve the existing site. The plugin never creates sites — the site must
+   * already exist on Flowershow with the exact same name as `siteName`.
+   */
   ensureSite() {
     return __async(this, null, function* () {
       const existingSiteId = yield this.getSiteId();
       if (existingSiteId) {
         return existingSiteId;
       }
-      const { site } = yield this.client.createSite(this.getSiteName());
-      this.siteId = site.id;
-      return this.siteId;
+      throw new FlowershowError(
+        `Site "${this.getSiteName()}" was not found. Create it on Flowershow first, then set "Site Name" to the exact same name.`
+      );
     });
   }
   getTextContent(file) {
     return __async(this, null, function* () {
       const text = yield this.app.vault.cachedRead(file);
       return rewriteRootDirPaths(text, this.settings.rootDir);
+    });
+  }
+  /**
+   * Poll the server until it has finished processing the latest publish.
+   *
+   * Uploading a file to R2 only stages it; the server's finalizer workflow
+   * then processes the blob asynchronously. Until it finishes, a dry-run sync
+   * still reports the file as new/changed. Waiting here keeps the publish
+   * status accurate once we return.
+   */
+  waitForProcessing(siteId) {
+    return __async(this, null, function* () {
+      const maxAttempts = 60;
+      const pollInterval = 1e3;
+      for (let attempt = 0; attempt < maxAttempts; attempt++) {
+        let status;
+        try {
+          status = yield this.client.getSiteStatus(siteId);
+        } catch (error) {
+          console.error("Error polling site status:", error);
+          return;
+        }
+        if (status.status !== "pending" && status.files.pending === 0) {
+          return;
+        }
+        yield new Promise((resolve) => setTimeout(resolve, pollInterval));
+      }
+    });
+  }
+  /**
+   * Poll the server until the given paths have been removed from the site.
+   *
+   * Unpublishing deletes the R2 object synchronously, but the blob record is
+   * removed asynchronously (via an R2 event). Unlike a publish, this path has
+   * no Publish record to poll, so we detect completion by listing the site's
+   * remaining blobs (a dry-run sync with an empty file list reports every
+   * existing blob under `deleted`) and waiting until none of ours remain.
+   */
+  waitForDeletion(siteId, paths) {
+    return __async(this, null, function* () {
+      const maxAttempts = 60;
+      const pollInterval = 1e3;
+      const pending = new Set(paths);
+      for (let attempt = 0; attempt < maxAttempts; attempt++) {
+        let remainingBlobs;
+        try {
+          const sync = yield this.client.syncFiles(siteId, [], true);
+          remainingBlobs = new Set(sync.deleted);
+        } catch (error) {
+          console.error("Error polling deletion status:", error);
+          return;
+        }
+        if (![...pending].some((path) => remainingBlobs.has(path))) {
+          return;
+        }
+        yield new Promise((resolve) => setTimeout(resolve, pollInterval));
+      }
     });
   }
   /**
@@ -39374,10 +39500,12 @@ var Publisher = class {
       const progress = new import_obsidian4.Notice(`\u231B ${label} (0/${total})...`, 0);
       try {
         const siteId = yield this.ensureSite();
+        let deletedPaths = [];
         if (opts.filesToDelete && opts.filesToDelete.length > 0) {
           const normalizedPathsToDelete = opts.filesToDelete.map(
             (path) => normalizePath(path, this.settings.rootDir)
           );
+          deletedPaths = normalizedPathsToDelete;
           const deleteResult = yield this.client.deleteFiles(
             siteId,
             normalizedPathsToDelete
@@ -39439,6 +39567,15 @@ var Publisher = class {
             );
             done++;
             progress.setMessage(`\u231B ${label} (${done}/${total})...`);
+          }
+        }
+        if (opts.filesToPublish && opts.filesToPublish.length > 0 || deletedPaths.length > 0) {
+          progress.setMessage("\u231B Finalizing processing...");
+          if (opts.filesToPublish && opts.filesToPublish.length > 0) {
+            yield this.waitForProcessing(siteId);
+          }
+          if (deletedPaths.length > 0) {
+            yield this.waitForDeletion(siteId, deletedPaths);
           }
         }
         progress.hide();
@@ -39630,7 +39767,7 @@ var SettingView = class {
   }
   initializeSiteNameSetting() {
     new import_obsidian5.Setting(this.settingsRootElement).setName("Site Name").setDesc(
-      "Name of your Flowershow site (will be created if it doesn't exist)"
+      "Name of an existing Flowershow site. Create the site on Flowershow first, then enter its exact name here."
     ).addText(
       (text) => text.setPlaceholder("my-notes").setValue(this.settings.siteName).onChange((value) => __async(this, null, function* () {
         this.settings.siteName = value;
