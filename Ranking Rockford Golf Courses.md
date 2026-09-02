@@ -34,7 +34,7 @@ Principle 13, concerning a course being "equally good during winter and summer,"
 1. The course should be arranged in two loops of nine holes.
 2. There should be a large proportion of good two-shot holes, two or three drive-and-pitch holes, and at least four one-shot holes.
 3. There should be little walking between greens and tees.
-4. The course should have beautiful surroundings, with undulating fairways rather than steep hills requiring excessive climbing.
+4. The greens and fairways should be sufficiently undulating, but there should be no hill climbing.
 5. Every hole should have a distinctive character.
 6. Approaches should generally be visible, with few blind shots.
 7. The course should possess beautiful surroundings and artificial features should harmonize with the natural environment.
@@ -78,7 +78,7 @@ Mike DeVries and Kris Shumaker routed the course across natural rises, eskers an
 
 Most importantly, difficulty comes primarily from choices rather than punishment.
 
-Diamond Springs establishes the provisional benchmark for the project.
+Diamond Springs sets the provisional benchmark for the region.
 
 ### 2. Pilgrim's Run—12.0/13
 
