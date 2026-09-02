@@ -1,13 +1,15 @@
 ---
 title: Golf Match-Play Tournament Structure
-description: Explains how golf match-play tournaments are structured, from single matches to brackets, group play, and team formats.
+description: "How match play scales up into tournaments—brackets, stroke-play qualifying, pool play, and the team points of the Ryder Cup."
+date: 2026-08-31
 created: 2026-08-31
 lastmod: 2026-09-02
 tags:
-  - bracket-tournaments
   - golf
+  - golf-formats
   - match-play
   - ryder-cup
+  - scoring-systems
 ---
 
 A match-play tournament is usually a bracket tournament built out of individual match-play rounds.
