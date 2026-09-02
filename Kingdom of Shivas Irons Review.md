@@ -12,36 +12,28 @@ tags:
   - philosophy
 ---
 
-"The Kingdom of Shivas Irons" (1997) is a worthy but less impactful sequel to Michael Murphy's landmark "Golf in the Kingdom" (1972), extending its blend of mystical golf narrative, philosophy, and human potential while feeling somewhat derivative in a post-"Zen and the Art of…" landscape.
+"The Kingdom of Shivas Irons" (1997) is a worthy sequel that never escapes the book it follows. Michael Murphy's "Golf in the Kingdom" (1972) had the advantage of arriving first, into a culture that had not yet heard the argument; the sequel extends the same blend of mystical golf narrative, philosophy and human potential into a market where the territory had already been well worked.
 
-Context and "Golf in the Kingdom"
+## The book it follows
 
-"Golf in the Kingdom" is a semi-autobiographical novel (or novella-like tale) where a young Michael Murphy, en route to an ashram in India, stops in Scotland and encounters the enigmatic golf pro and mystic Shivas Irons at the fictional Burningbush links. Over 24 hours, including a mythic round, Irons imparts lessons blending golf technique, spirituality, altered states, and transcendence—drawing on influences like Sri Aurobindo, Zen, and Western esotericism.
+"Golf in the Kingdom" is a semi-autobiographical novel in which a young Murphy, en route to an ashram in India, stops in Scotland and meets the enigmatic golf professional and mystic Shivas Irons at the fictional Burningbush links. Over twenty-four hours, including one mythic round, Irons delivers lessons that fuse golf technique with spirituality, altered states and transcendence, drawing on Sri Aurobindo, Zen and Western esotericism.
 
-It became a massive cult classic: over a million copies sold, translated into 19 languages, praised by John Updike as "a golf classic if any exists in our day," and influential far beyond golf (e.g., Phil Jackson shared it with Michael Jordan; it inspired the Shivas Irons Society for golf-meditation enthusiasts). Its charm lies in the fresh fusion of links golf's earthy magic with inner-game metaphysics at a time when such ideas felt novel. Many golfers cite "Shivas moments" of flow or insight it captures perfectly.
+It became a cult classic on a scale few golf books reach: over a million copies sold, nineteen languages, John Updike's verdict that it was "a golf classic if any exists in our day," and a reach well past golf, as when Phil Jackson handed it to Michael Jordan. It also produced [[Shivas Irons Society|a society of its own]]. Its charm lay in the freshness of the fusion, links golf's earthy magic joined to inner-game metaphysics at a moment when the combination felt new. Golfers still cite "Shivas moments" of flow the book caught exactly.
 
-"The Kingdom of Shivas Irons" as Sequel
+## The sequel
 
-This book picks up years later with Murphy returning to Scotland to seek the now-elusive Irons, exploring his ongoing wisdom, human potential, paranormal elements (ghosts on the course, luminous bodies), Platonism, and the quest for transcendence through golf. It deepens the inner game, transformation, and "why golf?" questions, with more adventure, philosophy, and psychedelic-tinged whiskey-fueled mysticism.
+The second book picks up years later, with Murphy returning to Scotland to find the now-elusive Irons. It pursues his continuing wisdom through human potential, Platonism, and frank paranormal material—ghosts on the course, luminous bodies—toward the same question of transcendence through golf. There is more adventure here, more philosophy, and a whiskey-fueled mysticism the first book only gestured at.
 
-Strengths:
+What it does well it does generously. The Scottish links atmosphere is as evocative as before, the storytelling holds, and the ideas about peak experience and the body-mind-spirit connection are put with conviction. It works as a handbook for spiritual adventure in the game. For readers already inside the first book's world it pays out: unresolved threads get taken up, including sightings of Irons' own guru, and Murphy's optimistic humanism is undiminished.
 
-- It delivers more of what fans loved: evocative Scottish links atmosphere, compelling storytelling, and provocative ideas about peak experiences, the body-mind-spirit connection, and golf as a vehicle for growth.
-- It serves as a handbook for spiritual adventure in the game, with delightful explorations of possibility.
-- For those immersed in the first book's world, it offers satisfying returns, expansions on unresolved elements (e.g., sightings of Irons' guru), and reinforces Murphy's optimistic humanism.
+The trouble is the year. By 1997 the golf-as-Zen territory had been mined thoroughly, by other "Zen and the Art of" books and by a sports-psychology industry that had absorbed the same ideas. What had been cutting-edge in 1972 read as familiar. The sequel also turns harder into dense metaphysics, which interrupts the narrative in a way the first book's tighter, more enchanting romp never did. Kirkus, reviewing the ghosts and phantoms with evident enjoyment, caught the heightened register accurately. The result is a book that is pleasant to read once and rarely reached for again.
 
-Weaknesses (in its shadow):
+## Against the rest of the amateur canon
 
-- Reviews note it lacks the original's fresh impact. By 1997, the "golf as Zen/metaphysics" territory had been well-mined (e.g., other "Zen and the Art of" books, sports psychology). Ideas once cutting-edge felt more commonplace.
-- Some readers find it turns harder into dense philosophy/metaphysics, which can disrupt the narrative flow compared to the first book's tighter, more enchanting romp.
-- It is often seen as enjoyable but not as groundbreaking or re-readable as the predecessor. Kirkus Reviews playfully highlights its ghosts, phantoms, and paranormal golf elements, capturing the heightened mysticism.
+Writing about traditional amateur golf tends to work the game's soul: the raw beauty of links, camaraderie, history, personal growth, humor, and the amateur spirit set against the professional grind. Bernard Darwin's observational prose on courses and characters, Herbert Warren Wind, Wodehouse's comic fiction, Bobby Jones's reflections, Harvey Penick's wisdom, and [[Tom Coyne Golf Writer Profile|Tom Coyne's]] travelogues all sit in that line.
 
-Comparison to Other Writings on Traditional, Amateur Golf
+Murphy is the mystical outlier. His books are parable and inner exploration rather than narrative, instruction, architecture or match story, and they elevate amateur golf on traditional Scottish links into a vehicle for transcendence. That aligns him with the romantic, non-commercial ethos of the game even as it separates him from everyone else writing in it. "Golf in the Kingdom" fits the canon as a modern classic that caught the wonder and the childlike essence of play. The sequel extends the same claim into ground that is more esoteric and, for most readers, narrower.
 
-Traditional amateur golf literature often emphasizes the game's soul: links golf's raw beauty, camaraderie, history, personal growth, humor, and the amateur spirit (as opposed to professional grind, tech obsession, or commercialization). Classics include works by Bernard Darwin (elegant, observational prose on courses and characters), Herbert Warren Wind, P.G. Wodehouse (hilarious fiction), Bobby Jones' reflections, Harvey Penick's wisdom, or modern travelogues like Tom Coyne's books.
+Alongside "A Good Walk Spoiled" or "Paper Tiger," Murphy's value is that he takes seriously what those books treat as atmosphere: golf as meditation, as life metaphor, as a route into the zone. A traditionalist who wants grounded history or technique will find the paranormal Platonism hard going.
 
-Murphy's books stand apart as mystical outliers in this tradition—more parable and inner exploration than straight narrative, instruction (like Penick or Hogan), architecture/history (Darwin, MacKenzie), or match stories ("The Match"). They elevate amateur golf's potential for transcendence on traditional Scottish links, aligning with the romantic, non-commercial ethos of the game. "Golf in the Kingdom" fits more seamlessly as a modern classic that captures wonder and "childlike" essence; the sequel extends this but risks feeling more niche or esoteric.
-
-In the broader canon (e.g., alongside "A Good Walk Spoiled," "Paper Tiger," or architecture tomes), Murphy's work shines for inspiring holistic views of the game—golf as meditation, life metaphor, and path to "the zone"—but may appeal less to pure traditionalists seeking grounded history or technique over paranormal Platonism.
-
-Overall Evaluation: "The Kingdom of Shivas Irons" is a solid, enchanting follow-up that rewards fans of the original with deeper dives into its themes. However, it lives in the considerable shadow of "Golf in the Kingdom," which remains the more original, influential, and beloved work. Both enrich the literature of traditional amateur golf by celebrating its spiritual and humanistic depths on sacred links, but the first book is the essential one—timeless in capturing golf's magic. If you enjoy the mystical side, read both; the sequel builds on the foundation without quite matching its spark.
+Read both if the mystical side appeals. But the first book is the one that matters, and the second knows it.
